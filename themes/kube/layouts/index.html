@@ -1,0 +1,61 @@
+{{ define "title"}} {{ .Site.Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+{{ define "main"}}
+
+<div id="main">
+  <div id="hero">
+    <h1>{{.Title}}</h1>
+    <p>{{.Description}}</p>
+  </div>
+  <div id="action-buttons">
+    <a class="button primary big" href="http://mvp.yonsei.ac.kr" onclick="_gaq.push(['_trackEvent', 'kube', 'download']);">Current Webpage</a> <a class="button outline big" href="https://github.com/yonseimvp" onclick="_gaq.push(['_trackEvent', 'kube', 'github']);">View on Github</a>
+    <p>Some Description</p>
+  </div>
+  <div class="message focus" data-component="message"> <span class="close small"></span>
+    <h2>Recent Updates</h2> <br><br>
+    <h4>- A Paper is Accepted <mark>ECCV 2018</mark> Blar Blar &ensp; <a class="button inverted small " href="https://naver.com/" > Arxiv </a> <a class="button inverted small " href="https://nate.com/" > Code </a> <a class="button inverted small " href="https://google..com/" > Project </a></h4> <br><br>
+    <h4>- A Paper is Accepted <mark>ECCV 2018</mark> Blar Blar </h4>
+  </div>
+  <div id="kube-features">
+    <div class="row gutters">
+      <div class="col col-4 item">
+        <figure>
+          <img alt="Baseline" height="48" src="{{ "/img/kube/icon-baseline.png" | relURL }}" width="48">
+        </figure>
+        <h3>Research Interest 1</h3>
+        <p>Research Simple Description 1</p>
+      </div>
+      <div class="col col-4 item">
+        <figure>
+          <img alt="Typography" height="48" src="{{ "/img/kube/icon-typo.png" | relURL }}" width="48">
+        </figure>
+        <h3>Research Interest 2</h3>
+        <p>Research Simple Description 2</p>
+      </div>
+      <div class="col col-4 item">
+        <figure>
+          <img alt="Minimalism" height="48" src="{{ "/img/kube/icon-minimalism.png" | relURL }}" width="48">
+        </figure>
+        <h3>Research Interest 3</h3>
+        <p>Research Simple Description 3</p>
+      </div>
+    </div>
+    <div class="row gutters">
+      <div class="col col-4 item">
+        <h4>Small Description 1</h4>
+        <p>Small Description 1</p>
+      </div>
+      <div class="col col-4 item">
+        <h4>Small Description 2</h4>
+        <p>Small Description 2</p>
+      </div>
+      <div class="col col-4 item">
+        <h4>Small Description 3</h4>
+        <p>Small Description 3</p>
+    </div>
+
+  </div>
+</div>
+</div>
+{{ end }}
+{{ define "footer"}} {{ partial "footer" .}} {{end}}

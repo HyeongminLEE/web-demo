@@ -1,0 +1,29 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Home"
+theme = "kube"
+description = "Image and Video Pattern Recogntion"
+Paginate = 4
+[Params]
+  RSSLink = "/index.xml"
+  author = "newpixcom" # add your company name
+  github = "" # add your github profile name
+  twitter = "" # add your twitter profile
+  email = "myemail@myaddress.xxx"
+
+[[menu.main]]
+    name = "Members"
+    weight = 15
+    url = "/members/"
+[[menu.main]]
+    name = "News"
+    weight = 10
+    url = "/blog/"
+[[menu.main]]
+    name = "Research"
+    weight = 20
+    url = "/faq/"
+[[menu.main]]
+    name = "Publications"
+    weight = 30
+    url = "/faq2/"
