@@ -29,7 +29,7 @@
       <guid>https://hyeongminlee.github.io/web-demo/members/hyeongminlee/</guid>
       <description>기본 정보 Here&amp;rsquo;s what a generic plugin looks like. This template gives an overall idea of what you can do with plugins in Kube. Feel free to use this one as a boilerplate for your custom plugins.
 (function(Kube) { Kube.Myplugin = function(element, options) { this.namespace = &amp;lsquo;myplugin&amp;rsquo;;
- &amp;lt;span class=&amp;quot;hljs-comment&amp;quot;&amp;gt;// default settings&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;hljs-keyword&amp;quot;&amp;gt;this&amp;lt;/span&amp;gt;.defaults = { mysetting: &amp;lt;span class=&amp;quot;hljs-literal&amp;quot;&amp;gt;true&amp;lt;/span&amp;gt; }; &amp;lt;span class=&amp;quot;hljs-comment&amp;quot;&amp;gt;// Parent Constructor&amp;lt;/span&amp;gt; Kube.</description>
+ &amp;lt;span class=&amp;quot;hljs-comment&amp;quot;&amp;gt;// default settings&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;hljs-keyword&amp;quot;&amp;gt;this&amp;lt;/span&amp;gt;.defaults = { mysetting: &amp;lt;span class=&amp;quot;hljs-literal&amp;quot;&amp;gt;true&amp;lt;/span&amp;gt; }; &amp;lt;span class=&amp;quot;hljs-comment&amp;quot;&amp;gt;// Parent Constructor&amp;lt;/span&amp;gt; Kube.apply(&amp;lt;span class=&amp;quot;hljs-keyword&amp;quot;&amp;gt;this&amp;lt;/span&amp;gt;, &amp;lt;span class=&amp;quot;hljs-built_in&amp;quot;&amp;gt;arguments&amp;lt;/span&amp;gt;); &amp;lt;span class=&amp;quot;hljs-comment&amp;quot;&amp;gt;// Initialization&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;hljs-keyword&amp;quot;&amp;gt;this&amp;lt;/span&amp;gt;.</description>
     </item>
     
     <item>

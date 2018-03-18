@@ -9,9 +9,7 @@ bref = ""
 <tbody>
     <tr>
        <td width="140" align="center" valign="top">
-           <figure>
           <img alt="Baseline" height="48" src="/web-demo/img/kube/HyeongminLEE.png" width="48">
-        </figure>
        </td> 
     </tr>
 </tbody>
