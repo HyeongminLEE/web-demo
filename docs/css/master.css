@@ -751,7 +751,7 @@ body.page-account #hero {
     transition: all linear 0.2s; }
 
 .chart-section-head {
-  text-align: left;
+  text-align: center;
   font-weight: 900;
   margin-top: 64px;
   margin-bottom: -16px;

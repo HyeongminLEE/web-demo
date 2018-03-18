@@ -4,6 +4,7 @@ title = "Home"
 theme = "kube"
 description = "Image and Video Pattern Recogntion"
 Paginate = 4
+publishDir = "docs"
 [Params]
   RSSLink = "/index.xml"
   author = "newpixcom" # add your company name
