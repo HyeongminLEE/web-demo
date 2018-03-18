@@ -4,8 +4,16 @@
 <div id="main">
   <div id="hero">
     <h1>Members</h1>
+      <p>{{.Params.description}}<br></p>
   </div>
   <div id="components">
+    <h2>Professor</h2>
+    <div class="col col-4 item" style="margin-left: auto; margin-right: auto;"> 
+        <h4><a href="http://mvp.yonsei.ac.kr/index.php?mid=mmba">Sangyoun Lee</a></h4>
+        <p>Professor</p>
+    </div>
+    </br>
+    <h2>Students</h2>
     <div class="row gutters">
       {{ range .Data.Pages.ByWeight }}
       <div class="col col-4 item"> <!-- Customize Members -->

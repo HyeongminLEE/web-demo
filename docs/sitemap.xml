@@ -8,15 +8,15 @@
   </url>
   
   <url>
-    <loc>https://hyeongminlee.github.io/web-demo/members/quick-start/</loc>
-  </url>
-  
-  <url>
     <loc>https://hyeongminlee.github.io/web-demo/members/hyeongminlee/</loc>
   </url>
   
   <url>
-    <loc>https://hyeongminlee.github.io/web-demo/members/typography/</loc>
+    <loc>https://hyeongminlee.github.io/web-demo/members/taeyoungchung/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hyeongminlee.github.io/web-demo/members/taeohkim/</loc>
   </url>
   
   <url>
@@ -29,112 +29,13 @@
   </url>
   
   <url>
-    <loc>https://hyeongminlee.github.io/web-demo/members/grid/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hyeongminlee.github.io/web-demo/members/tables/</loc>
-    <lastmod>2017-04-10T16:40:43+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyeongminlee.github.io/web-demo/members/forms/</loc>
-    <lastmod>2017-04-10T16:40:50+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyeongminlee.github.io/web-demo/members/buttons/</loc>
-    <lastmod>2017-04-10T16:41:16+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyeongminlee.github.io/web-demo/members/labels/</loc>
-    <lastmod>2017-04-10T16:40:43+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hyeongminlee.github.io/web-demo/blog/messages/</loc>
     <lastmod>2017-04-10T16:41:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hyeongminlee.github.io/web-demo/members/messages/</loc>
-    <lastmod>2017-04-10T16:41:34+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyeongminlee.github.io/web-demo/members/tabs/</loc>
-    <lastmod>2017-04-10T16:41:40+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyeongminlee.github.io/web-demo/members/breadcrumbs/</loc>
-    <lastmod>2017-04-10T16:41:54+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyeongminlee.github.io/web-demo/members/pagination/</loc>
-    <lastmod>2017-04-10T16:42:03+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyeongminlee.github.io/web-demo/members/dropdown/</loc>
-    <lastmod>2017-04-10T16:42:12+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyeongminlee.github.io/web-demo/members/modal/</loc>
-    <lastmod>2017-04-10T16:42:18+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyeongminlee.github.io/web-demo/members/sticky/</loc>
-    <lastmod>2017-04-10T16:42:26+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hyeongminlee.github.io/web-demo/blog/collapse/</loc>
     <lastmod>2017-04-10T16:42:50+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyeongminlee.github.io/web-demo/members/collapse/</loc>
-    <lastmod>2017-04-10T16:42:50+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyeongminlee.github.io/web-demo/members/offcanvas/</loc>
-    <lastmod>2017-04-10T16:42:43+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyeongminlee.github.io/web-demo/members/toggleme/</loc>
-    <lastmod>2017-04-10T16:42:59+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyeongminlee.github.io/web-demo/members/animation/</loc>
-    <lastmod>2017-04-10T16:43:08+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyeongminlee.github.io/web-demo/members/colors/</loc>
-    <lastmod>2017-04-10T16:43:14+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyeongminlee.github.io/web-demo/members/sizing/</loc>
-    <lastmod>2017-04-10T16:43:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyeongminlee.github.io/web-demo/members/mixins/</loc>
-    <lastmod>2017-04-10T16:43:36+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hyeongminlee.github.io/web-demo/members/utils/</loc>
-    <lastmod>2017-04-10T16:43:30+01:00</lastmod>
   </url>
   
   <url>
@@ -189,8 +90,10 @@
   
   <url>
     <loc>https://hyeongminlee.github.io/web-demo/members/</loc>
-    <lastmod>2017-04-10T16:40:43+01:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hyeongminlee.github.io/web-demo/news/</loc>
   </url>
   
   <url>
@@ -204,11 +107,11 @@
   </url>
   
   <url>
-    <loc>https://hyeongminlee.github.io/web-demo/faq2/</loc>
+    <loc>https://hyeongminlee.github.io/web-demo/publications/</loc>
   </url>
   
   <url>
-    <loc>https://hyeongminlee.github.io/web-demo/faq/</loc>
+    <loc>https://hyeongminlee.github.io/web-demo/research/</loc>
   </url>
   
   <url>
