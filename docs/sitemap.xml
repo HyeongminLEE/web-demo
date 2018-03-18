@@ -3,226 +3,226 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>./blog/welcome/</loc>
+    <loc>web-demo/blog/welcome/</loc>
     <lastmod>2017-03-02T21:56:55+01:00</lastmod>
   </url>
   
   <url>
-    <loc>./members/quick-start/</loc>
+    <loc>web-demo/members/quick-start/</loc>
   </url>
   
   <url>
-    <loc>./members/hyeongminlee/</loc>
+    <loc>web-demo/members/hyeongminlee/</loc>
   </url>
   
   <url>
-    <loc>./members/typography/</loc>
+    <loc>web-demo/members/typography/</loc>
   </url>
   
   <url>
-    <loc>./blog/typography/</loc>
+    <loc>web-demo/blog/typography/</loc>
   </url>
   
   <url>
-    <loc>./blog/prototyping/</loc>
+    <loc>web-demo/blog/prototyping/</loc>
     <lastmod>2017-04-02T22:01:15+01:00</lastmod>
   </url>
   
   <url>
-    <loc>./members/grid/</loc>
+    <loc>web-demo/members/grid/</loc>
   </url>
   
   <url>
-    <loc>./members/tables/</loc>
+    <loc>web-demo/members/tables/</loc>
     <lastmod>2017-04-10T16:40:43+01:00</lastmod>
   </url>
   
   <url>
-    <loc>./members/forms/</loc>
+    <loc>web-demo/members/forms/</loc>
     <lastmod>2017-04-10T16:40:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>./members/buttons/</loc>
+    <loc>web-demo/members/buttons/</loc>
     <lastmod>2017-04-10T16:41:16+01:00</lastmod>
   </url>
   
   <url>
-    <loc>./members/labels/</loc>
+    <loc>web-demo/members/labels/</loc>
     <lastmod>2017-04-10T16:40:43+01:00</lastmod>
   </url>
   
   <url>
-    <loc>./blog/messages/</loc>
+    <loc>web-demo/blog/messages/</loc>
     <lastmod>2017-04-10T16:41:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>./members/messages/</loc>
+    <loc>web-demo/members/messages/</loc>
     <lastmod>2017-04-10T16:41:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>./members/tabs/</loc>
+    <loc>web-demo/members/tabs/</loc>
     <lastmod>2017-04-10T16:41:40+01:00</lastmod>
   </url>
   
   <url>
-    <loc>./members/breadcrumbs/</loc>
+    <loc>web-demo/members/breadcrumbs/</loc>
     <lastmod>2017-04-10T16:41:54+01:00</lastmod>
   </url>
   
   <url>
-    <loc>./members/pagination/</loc>
+    <loc>web-demo/members/pagination/</loc>
     <lastmod>2017-04-10T16:42:03+01:00</lastmod>
   </url>
   
   <url>
-    <loc>./members/dropdown/</loc>
+    <loc>web-demo/members/dropdown/</loc>
     <lastmod>2017-04-10T16:42:12+01:00</lastmod>
   </url>
   
   <url>
-    <loc>./members/modal/</loc>
+    <loc>web-demo/members/modal/</loc>
     <lastmod>2017-04-10T16:42:18+01:00</lastmod>
   </url>
   
   <url>
-    <loc>./members/sticky/</loc>
+    <loc>web-demo/members/sticky/</loc>
     <lastmod>2017-04-10T16:42:26+01:00</lastmod>
   </url>
   
   <url>
-    <loc>./blog/collapse/</loc>
+    <loc>web-demo/blog/collapse/</loc>
     <lastmod>2017-04-10T16:42:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>./members/collapse/</loc>
+    <loc>web-demo/members/collapse/</loc>
     <lastmod>2017-04-10T16:42:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>./members/offcanvas/</loc>
+    <loc>web-demo/members/offcanvas/</loc>
     <lastmod>2017-04-10T16:42:43+01:00</lastmod>
   </url>
   
   <url>
-    <loc>./members/toggleme/</loc>
+    <loc>web-demo/members/toggleme/</loc>
     <lastmod>2017-04-10T16:42:59+01:00</lastmod>
   </url>
   
   <url>
-    <loc>./members/animation/</loc>
+    <loc>web-demo/members/animation/</loc>
     <lastmod>2017-04-10T16:43:08+01:00</lastmod>
   </url>
   
   <url>
-    <loc>./members/colors/</loc>
+    <loc>web-demo/members/colors/</loc>
     <lastmod>2017-04-10T16:43:14+01:00</lastmod>
   </url>
   
   <url>
-    <loc>./members/sizing/</loc>
+    <loc>web-demo/members/sizing/</loc>
     <lastmod>2017-04-10T16:43:21+01:00</lastmod>
   </url>
   
   <url>
-    <loc>./members/mixins/</loc>
+    <loc>web-demo/members/mixins/</loc>
     <lastmod>2017-04-10T16:43:36+01:00</lastmod>
   </url>
   
   <url>
-    <loc>./members/utils/</loc>
+    <loc>web-demo/members/utils/</loc>
     <lastmod>2017-04-10T16:43:30+01:00</lastmod>
   </url>
   
   <url>
-    <loc>./blog/inline-style/</loc>
+    <loc>web-demo/blog/inline-style/</loc>
     <lastmod>2017-04-02T21:56:55+01:00</lastmod>
   </url>
   
   <url>
-    <loc>./blog/</loc>
+    <loc>web-demo/blog/</loc>
     <lastmod>2017-03-02T21:56:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./categories/</loc>
+    <loc>web-demo/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./company/</loc>
+    <loc>web-demo/company/</loc>
   </url>
   
   <url>
-    <loc>./categories/design/</loc>
+    <loc>web-demo/categories/design/</loc>
     <lastmod>2017-04-02T22:01:15+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./tags/example/</loc>
+    <loc>web-demo/tags/example/</loc>
     <lastmod>2017-03-02T21:56:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./categories/general/</loc>
+    <loc>web-demo/categories/general/</loc>
     <lastmod>2017-03-02T21:56:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./tags/hugo/</loc>
+    <loc>web-demo/tags/hugo/</loc>
     <lastmod>2017-04-02T22:01:15+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./tags/markdown/</loc>
+    <loc>web-demo/tags/markdown/</loc>
     <lastmod>2017-03-02T21:56:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./members/</loc>
+    <loc>web-demo/members/</loc>
     <lastmod>2017-04-10T16:40:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./password-recovery/</loc>
+    <loc>web-demo/password-recovery/</loc>
   </url>
   
   <url>
-    <loc>./tags/prototype/</loc>
+    <loc>web-demo/tags/prototype/</loc>
     <lastmod>2017-04-02T22:01:15+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./faq2/</loc>
+    <loc>web-demo/faq2/</loc>
   </url>
   
   <url>
-    <loc>./faq/</loc>
+    <loc>web-demo/faq/</loc>
   </url>
   
   <url>
-    <loc>./account/</loc>
+    <loc>web-demo/account/</loc>
   </url>
   
   <url>
-    <loc>./tags/</loc>
+    <loc>web-demo/tags/</loc>
     <lastmod>2017-03-02T21:56:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./</loc>
+    <loc>web-demo/</loc>
     <lastmod>2017-03-02T21:56:55+01:00</lastmod>
   </url>
   

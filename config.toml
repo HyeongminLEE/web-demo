@@ -1,4 +1,4 @@
-baseURL = "./"
+baseURL = "web-demo"
 languageCode = "en-us"
 title = "Home"
 theme = "kube"
@@ -15,16 +15,16 @@ publishDir = "docs"
 [[menu.main]]
     name = "Members"
     weight = 15
-    url = "./members/"
+    url = "/members/"
 [[menu.main]]
     name = "News"
     weight = 10
-    url = "./blog/"
+    url = "/blog/"
 [[menu.main]]
     name = "Research"
     weight = 20
-    url = "./faq/"
+    url = "/faq/"
 [[menu.main]]
     name = "Publications"
     weight = 30
-    url = "./faq2/"
+    url = "/faq2/"
