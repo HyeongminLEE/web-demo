@@ -4,7 +4,7 @@ description = "Joint M.S/Ph.D"
 weight = 20
 draft = false
 toc = true
-bref = ""
+bref = "/web-demo/members/TaeyoungCHUNG.png"
 +++
 
 <table>

@@ -4,9 +4,8 @@ description = "Joint M.S/Ph.D"
 weight = 20
 draft = false
 toc = true
-bref = ""
+bref = "/web-demo/members/HyeongminLEE.png"
 +++
-
 <table>
     <tr>
        <td width="280" align="center" valign="top">

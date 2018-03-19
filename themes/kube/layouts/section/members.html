@@ -1,6 +1,19 @@
 {{ define "title"}} {{ .Title}} {{end}}
 {{ define "header"}} {{ partial "header" .}} {{end}}
 {{ define "main"}}
+
+<style>
+  .professor{
+    margin: auto;
+  }
+  @media (max-width: 768px){
+    .professor{
+      margin: 0 0;
+      width: 100%;
+    }
+  }
+</style>
+
 <div id="main">
   <div id="hero">
     <h1>Members</h1>
@@ -8,7 +21,8 @@
   </div>
   <div id="components">
     <h2>Professor</h2>
-    <div class="col col-4 item" style="margin-left: auto; margin-right: auto;"> 
+    <div class="col col-4 item professor"> 
+        <img alt="Baseline" width="150px" height="180" src="/web-demo/members/SangyounLEE.png">
         <h4><a href="http://mvp.yonsei.ac.kr/index.php?mid=mmba">Sangyoun Lee</a></h4>
         <p>Professor</p>
     </div>
@@ -17,6 +31,7 @@
     <div class="row gutters">
       {{ range .Data.Pages.ByWeight }}
       <div class="col col-4 item"> <!-- Customize Members -->
+        <img alt="Baseline" width="150px" height="180" src="{{.Params.bref}}">
         <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
         <p>{{ .Params.description }}</p>
       </div>
