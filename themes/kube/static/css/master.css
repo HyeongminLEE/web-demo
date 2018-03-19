@@ -857,6 +857,21 @@ body.page-account #hero {
     margin-top: 80px;
     margin-bottom: 40px; }
 
+#kube-pub {
+  max-width: 1000px;
+  margin: auto;
+  font-size: 17px;
+  line-height: 28px;
+  margin-bottom: 104px;
+  border-top: 1px solid rgba(0, 0, 0, 0.07); }
+  #kube-pub h2 {
+    font-size: 24px;
+    font-weight: 900;
+    text-align: center;
+    line-height: 32px;
+    margin-top: 80px;
+    margin-bottom: 40px; }
+
 #components {
   text-align: center; }
   #components.lists {

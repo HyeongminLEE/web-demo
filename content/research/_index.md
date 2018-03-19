@@ -4,6 +4,20 @@ title = "Research Area"
 description = "Blar Blar"
 +++
 
-## Section of Research Area
+<br>
 
-Markdown Style
+### Scene Understanding
+
+blar blar
+
+<br>
+
+### Human Analysis
+
+blar blar
+
+<br>
+
+### Image/Video Processing
+
+blar blakr
