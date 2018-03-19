@@ -1,0 +1,51 @@
+{{ define "title"}} {{ .Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+
+{{ define "main" }}
+
+<style>
+  #map {
+    height: 400px;
+    width: 100%;
+   }
+</style>
+
+<div id="hero" class="wrap">
+  <h1>{{.Title }}</h1>
+</div>
+<div id="kube-faq">
+	<h2 style="margin-bottom: 5px; font-size: 33px">Location</h2>
+	<p style="border-top: solid; border-width: 2px">
+		<div id="map"></div>
+		<script>
+		  function initMap() {
+		    var pos = {lat: 37.561735, lng: 126.935086};
+		    var map = new google.maps.Map(document.getElementById('map'), {
+		      zoom: 16.8,
+		      center: pos
+		    });
+		    var marker = new google.maps.Marker({
+		      position: pos,
+		      map: map
+		    });
+		  }
+		</script>
+		<script async defer
+		src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAbnTHOUfcHtRcRCU9YD3OhgjlIfcARRXs&callback=initMap">
+		</script>
+		</br>
+		<p>Engineering Hall 3, Yonsei University 50 Yonsei-ro, Seodaemun-gu, Seoul 120-749, Korea</p>
+	</p>
+
+	<h2 style="margin-bottom: 5px; font-size: 33px">Contact</h2>
+	<p style="border-top: solid; border-width: 2px">
+		<ul>
+			<li><b>Address</b>: Engineering Hall 3, Yonsei University 50 Yonsei-ro, Seodaemun-gu, Seoul 120-749, Korea</li>
+			<li><b>Tel</b>: +82-2-2123-7843</li>
+		</ul>
+	</p>
+</div>
+{{ end }} 
+{{ define "footer" }} 
+  {{ partial "footer" . }} 
+{{ end }}
