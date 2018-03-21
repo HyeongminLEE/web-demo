@@ -16,18 +16,19 @@ bref = "/web-demo/members/HyeongminLEE.png"
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
-                        <li style="margin-bottom: 5px">Future Video Coding</li>
-                        <li style="margin-bottom: 5px">Image/Video Restoration</li>
+                        <li style="margin-bottom: 5px">Hand Gesture Recognition</li>
+                        <li style="margin-bottom: 5px">Video Analysis</li>
+                        <li style="margin-bottom: 5px">Video Understanding</li>
                     </ul>
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>
                     <ul>
-                        <li style="margin-bottom: 5px">kto@yonsei.ac.kr</li>
+                        <li style="margin-bottom: 5px">minimonia@yonsei.ac.kr</li>
                     </ul>
                 </li>
                 <li style="font-size: 18px"><b>Web</b>
                     <ul>
-                        <li><a href="https://taeoh-kim.github.io/">https://taeoh-kim.github.io</a></li>
+                        <li><a href="https://hyeongminlee.github.io/">https://hyeongminlee.github.io</a></li>
                     </ul>
                 </li>
             </ul>
