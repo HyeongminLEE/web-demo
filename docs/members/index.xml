@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>Taeyoung Chung</title>
+      <title>Daehyun Pak</title>
       <link>https://hyeongminlee.github.io/web-demo/members/daehyunpak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -52,7 +52,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hyeongminlee.github.io/web-demo/members/hanbyeolbae/</guid>
-      <description>    Hanbyeol Bae (배한별) Research Area Face Matching Face Recognition   E-mail  ygbfamily00@yonsei.ac.kr       </description>
+      <description>    Hanbyeol Bae (배한별) Research Area Face Matching/Recognition   E-mail  ygbfamily00@yonsei.ac.kr       </description>
     </item>
     
     <item>
@@ -174,20 +174,29 @@
     
     <item>
       <title>Yongju Lee</title>
-      <link>https://hyeongminlee.github.io/web-demo/members/heansunglee/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hyeongminlee.github.io/web-demo/members/heansunglee/</guid>
-      <description>    Yongju Lee (이용주) Research Area Face Detection Facial Landmark Detection Image Restoration   E-mail  paulyongju@yonsei.ac.kr       </description>
-    </item>
-    
-    <item>
-      <title>Yongju Lee</title>
       <link>https://hyeongminlee.github.io/web-demo/members/yongjulee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hyeongminlee.github.io/web-demo/members/yongjulee/</guid>
       <description>    Yongju Lee (이용주) Research Area Face Detection Facial Landmark Detection Image Restoration   E-mail  paulyongju@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
+      <title>Heansung Lee</title>
+      <link>https://hyeongminlee.github.io/web-demo/members/heansunglee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyeongminlee.github.io/web-demo/members/heansunglee/</guid>
+      <description>    Heansung Lee (이현성) Research Area Depth Estimation Depth Enhancement Object Tracking   E-mail  hslee2860@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
+      <title>Myeongah Cho</title>
+      <link>https://hyeongminlee.github.io/web-demo/members/myeongahcho/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyeongminlee.github.io/web-demo/members/myeongahcho/</guid>
+      <description>    Myeongah Cho (조명아) Research Area Object Detection Object Tracking   E-mail  maycho0305@yonsei.ac.kr       </description>
     </item>
     
   </channel>

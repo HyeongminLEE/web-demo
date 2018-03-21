@@ -1,5 +1,5 @@
 +++
-title = "Taeyoung Chung"
+title = "Daehyun Pak"
 description = "Joint M.S/Ph.D 19th"
 weight = 10
 draft = false
