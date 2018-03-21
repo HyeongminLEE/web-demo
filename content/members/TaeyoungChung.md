@@ -1,7 +1,7 @@
 +++
 title = "Taeyoung Chung"
-description = "Joint M.S/Ph.D"
-weight = 20
+description = "Joint M.S/Ph.D 5th"
+weight = 110
 draft = false
 toc = true
 bref = "/web-demo/members/TaeyoungCHUNG.png"
@@ -14,10 +14,18 @@ bref = "/web-demo/members/TaeyoungCHUNG.png"
        </td>
        <td>
             <h4>Taeyoung Chung (정태영)</h4>
-            <ul>
-                <li style="font-size: 18px">Semester: Joint M.S/Ph.D 5st</li>
-                <li style="font-size: 18px">Research Area: Object Detection</li>
-                <li style="font-size: 18px">E-mail: tato0220@yonsei.ac.kr</li>
+            <ul class="member_info">
+                <li style="font-size: 18px"><b>Research Area</b>
+                    <ul class="interest">
+                        <li style="margin-bottom: 5px">Object Detection</li>
+                        <li style="margin-bottom: 5px">Object Segmentation</li>
+                    </ul>
+                </li>
+                <li style="font-size: 18px"><b>E-mail</b>
+                    <ul>
+                        <li style="margin-bottom: 5px">tato0220@yonsei.ac.kr</li>
+                    </ul>
+                </li>
             </ul>
             
          </td>

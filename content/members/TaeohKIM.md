@@ -1,7 +1,7 @@
 +++
 title = "Teaoh Kim"
-description = "Joint M.S/Ph.D"
-weight = 20
+description = "Joint M.S/Ph.D 7th"
+weight = 90
 draft = false
 toc = true
 bref = "/web-demo/members/TaeohKIM.png"
@@ -14,11 +14,23 @@ bref = "/web-demo/members/TaeohKIM.png"
        </td>
        <td>
             <h4>Teaoh Kim (김태오)</h4>
-            <ul>
-                <li style="font-size: 18px">Semester: Joint M.S/Ph.D 7st</li>
-                <li style="font-size: 18px">Research Area: Video Analysis</li>
-                <li style="font-size: 18px">E-mail: kto@yonsei.ac.kr</li>
-                <li style="font-size: 18px">Web: <a href="https://hyeongminlee.github.io/">https://taeoh-kim.github.io/</a></li>
+            <ul class="member_info">
+                <li style="font-size: 18px"><b>Research Area</b>
+                    <ul class="interest">
+                        <li style="margin-bottom: 5px">Future Video Coding</li>
+                        <li style="margin-bottom: 5px">Image/Video Restoration</li>
+                    </ul>
+                </li>
+                <li style="font-size: 18px"><b>E-mail</b>
+                    <ul>
+                        <li style="margin-bottom: 5px">kto@yonsei.ac.kr</li>
+                    </ul>
+                </li>
+                <li style="font-size: 18px"><b>Web</b>
+                    <ul>
+                        <li><a href="https://taeoh-kim.github.io/">https://taeoh-kim.github.io</a></li>
+                    </ul>
+                </li>
             </ul>
             
          </td>

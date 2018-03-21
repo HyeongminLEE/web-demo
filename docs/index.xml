@@ -22,33 +22,6 @@ Bear claw danish chocolate lollipop soufflé jelly. Apple pie chocolate cake jel
     </item>
     
     <item>
-      <title>Hyeongmin Lee</title>
-      <link>https://hyeongminlee.github.io/web-demo/members/hyeongminlee/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hyeongminlee.github.io/web-demo/members/hyeongminlee/</guid>
-      <description>    Hyeongmin Lee (이형민)  Semester: Joint M.S/Ph.D 1st Research Area: Video Understanding E-mail: minimonia@yonsei.ac.kr Web: https://hyeongminlee.github.io/     </description>
-    </item>
-    
-    <item>
-      <title>Taeyoung Chung</title>
-      <link>https://hyeongminlee.github.io/web-demo/members/taeyoungchung/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hyeongminlee.github.io/web-demo/members/taeyoungchung/</guid>
-      <description>    Taeyoung Chung (정태영)  Semester: Joint M.S/Ph.D 5st Research Area: Object Detection E-mail: tato0220@yonsei.ac.kr     </description>
-    </item>
-    
-    <item>
-      <title>Teaoh Kim</title>
-      <link>https://hyeongminlee.github.io/web-demo/members/taeohkim/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hyeongminlee.github.io/web-demo/members/taeohkim/</guid>
-      <description>    Teaoh Kim (김태오)  Semester: Joint M.S/Ph.D 7st Research Area: Video Analysis E-mail: kto@yonsei.ac.kr Web: https://taeoh-kim.github.io/     </description>
-    </item>
-    
-    <item>
       <title>Typography with kube</title>
       <link>https://hyeongminlee.github.io/web-demo/blog/typography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -78,12 +51,48 @@ Since time was of the essence and writing is expensive, I decided to do the prot
     </item>
     
     <item>
+      <title>Teaoh Kim</title>
+      <link>https://hyeongminlee.github.io/web-demo/members/taeohkim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyeongminlee.github.io/web-demo/members/taeohkim/</guid>
+      <description>    Teaoh Kim (김태오) Research Area Future Video Coding Image/Video Restoration   E-mail  kto@yonsei.ac.kr   Web  https://taeoh-kim.github.io       </description>
+    </item>
+    
+    <item>
+      <title>Junhyeop Lee</title>
+      <link>https://hyeongminlee.github.io/web-demo/members/junhyeoplee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyeongminlee.github.io/web-demo/members/junhyeoplee/</guid>
+      <description>    Junhyeop Lee (이준협) Research Area 3D Reconstruction Odometry Estimation for Visual/LiDAR SLAM   E-mail  jun.lee@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
+      <title>Taeyoung Chung</title>
+      <link>https://hyeongminlee.github.io/web-demo/members/taeyoungchung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyeongminlee.github.io/web-demo/members/taeyoungchung/</guid>
+      <description>    Taeyoung Chung (정태영) Research Area Object Detection Object Segmentation   E-mail  tato0220@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
       <title>Collapse</title>
       <link>https://hyeongminlee.github.io/web-demo/blog/collapse/</link>
       <pubDate>Mon, 10 Apr 2017 16:42:50 +0100</pubDate>
       
       <guid>https://hyeongminlee.github.io/web-demo/blog/collapse/</guid>
       <description>Base Item 1 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Hyeongmin Lee</title>
+      <link>https://hyeongminlee.github.io/web-demo/members/hyeongminlee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyeongminlee.github.io/web-demo/members/hyeongminlee/</guid>
+      <description>    Hyeongmin Lee (이형민) Research Area Future Video Coding Image/Video Restoration   E-mail  kto@yonsei.ac.kr   Web  https://taeoh-kim.github.io       </description>
     </item>
     
     <item>
