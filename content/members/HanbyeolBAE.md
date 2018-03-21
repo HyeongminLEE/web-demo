@@ -1,29 +1,29 @@
 +++
-title = "Tae-young Chung"
-description = "Joint M.S/Ph.D 5th"
-weight = 130
+title = "Hanbyeol Bae"
+description = "Ph.D 7th"
+weight = 50
 draft = false
 toc = true
-bref = "/web-demo/members/TaeyoungCHUNG.png"
+bref = "/web-demo/members/HanbyeolBAE.png"
 +++
 
 <table>
     <tr>
        <td width="280" align="center" valign="top">
-          <img alt="Baseline" width="200px" height="240" src="/web-demo/members/TaeyoungCHUNG.png">
+          <img alt="Baseline" width="200px" height="240" src="/web-demo/members/HanbyeolBAE.png">
        </td>
        <td>
-            <h4>Tae-young Chung (정태영)</h4>
+            <h4>Hanbyeol Bae (배한별)</h4>
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
-                        <li style="margin-bottom: 5px">Object Detection</li>
-                        <li style="margin-bottom: 5px">Object Segmentation</li>
+                        <li style="margin-bottom: 5px">Face Matching</li>
+                        <li style="margin-bottom: 5px">Face Recognition</li>
                     </ul>
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>
                     <ul>
-                        <li style="margin-bottom: 5px">tato0220@yonsei.ac.kr</li>
+                        <li style="margin-bottom: 5px">ygbfamily00@yonsei.ac.kr</li>
                     </ul>
                 </li>
             </ul>

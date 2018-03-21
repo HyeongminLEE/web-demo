@@ -20,7 +20,7 @@
     </item>
     
     <item>
-      <title>Taeyoung Chung</title>
+      <title>Jaesung Kim</title>
       <link>https://hyeongminlee.github.io/web-demo/members/jaesungkim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -29,12 +29,57 @@
     </item>
     
     <item>
-      <title>Taeyoung Chung</title>
+      <title>Eungyeol Song</title>
       <link>https://hyeongminlee.github.io/web-demo/members/eungyeolsong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hyeongminlee.github.io/web-demo/members/eungyeolsong/</guid>
       <description>    Eungyeol Song (송응열) Research Area Object Detection 3D Reconstruction Hand Gesture Recognition Image Retargeting   E-mail  tusltifid@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
+      <title>Changhyun Park</title>
+      <link>https://hyeongminlee.github.io/web-demo/members/changhyunpark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyeongminlee.github.io/web-demo/members/changhyunpark/</guid>
+      <description>    Changhyun Park (박창현) Research Area Medical Image Coding Perceptual Video Coding Future Video Coding   E-mail  qkrckd2002@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
+      <title>Hanbyeol Bae</title>
+      <link>https://hyeongminlee.github.io/web-demo/members/hanbyeolbae/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyeongminlee.github.io/web-demo/members/hanbyeolbae/</guid>
+      <description>    Hanbyeol Bae (배한별) Research Area Face Matching Face Recognition   E-mail  ygbfamily00@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
+      <title>Jaesung Choi</title>
+      <link>https://hyeongminlee.github.io/web-demo/members/jaesungchoi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyeongminlee.github.io/web-demo/members/jaesungchoi/</guid>
+      <description>    Jaesung Choi (최재성) Research Area Image Classification Object Detection Hand Pose Estimation   E-mail  ciyciyciy@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
+      <title>Minkyu Lee</title>
+      <link>https://hyeongminlee.github.io/web-demo/members/minkyulee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyeongminlee.github.io/web-demo/members/minkyulee/</guid>
+      <description>    Minkyu Lee (이민규) Research Area Facial Landmark Detection Single Object Tracking   E-mail  minkyulee@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
+      <title>Taejae Jeon</title>
+      <link>https://hyeongminlee.github.io/web-demo/members/taejaejeon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyeongminlee.github.io/web-demo/members/taejaejeon/</guid>
+      <description>    Taejae Jeon (전태재) Research Area Pedestrian Detection Face Emotion Recognition   E-mail  jtj7587@yonsei.ac.kr       </description>
     </item>
     
     <item>
@@ -56,12 +101,66 @@
     </item>
     
     <item>
-      <title>Taeyoung Chung</title>
+      <title>Hanbin Son</title>
+      <link>https://hyeongminlee.github.io/web-demo/members/hanbinson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyeongminlee.github.io/web-demo/members/hanbinson/</guid>
+      <description>    Hanbin Son (손한빈) Research Area Future Video Coding   E-mail  hbson@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
+      <title>Sangwon Hwang</title>
+      <link>https://hyeongminlee.github.io/web-demo/members/sangwonhwang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyeongminlee.github.io/web-demo/members/sangwonhwang/</guid>
+      <description>    Sangwon Hwang (황상원) Research Area Camera Ego-Motion Estimation   E-mail  sangwon1042@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
+      <title>Tae-young Chung</title>
       <link>https://hyeongminlee.github.io/web-demo/members/taeyoungchung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hyeongminlee.github.io/web-demo/members/taeyoungchung/</guid>
-      <description>    Taeyoung Chung (정태영) Research Area Object Detection Object Segmentation   E-mail  tato0220@yonsei.ac.kr       </description>
+      <description>    Tae-young Chung (정태영) Research Area Object Detection Object Segmentation   E-mail  tato0220@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
+      <title>Joosung Lee</title>
+      <link>https://hyeongminlee.github.io/web-demo/members/joosunglee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyeongminlee.github.io/web-demo/members/joosunglee/</guid>
+      <description>    Joosung Lee (이주성) Research Area Odometry Estimation for Visual SLAM   E-mail  m3155@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
+      <title>Sungju Park</title>
+      <link>https://hyeongminlee.github.io/web-demo/members/sungjupark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyeongminlee.github.io/web-demo/members/sungjupark/</guid>
+      <description>    Sungju Park (박성주) Research Area Facial Landmark Detection   E-mail  stray77769@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
+      <title>Jinkyung Do</title>
+      <link>https://hyeongminlee.github.io/web-demo/members/jinkyungdo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyeongminlee.github.io/web-demo/members/jinkyungdo/</guid>
+      <description>    Jinkyung Do (도진경) Research Area Face Emotion Recognition   E-mail  jkdo@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
+      <title>Woojin Kim</title>
+      <link>https://hyeongminlee.github.io/web-demo/members/woojinkim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyeongminlee.github.io/web-demo/members/woojinkim/</guid>
+      <description>    Woojin Kim (김우진) Research Area Moving Object Detection   E-mail  woojinkim0207@yonsei.ac.kr       </description>
     </item>
     
     <item>
@@ -71,6 +170,24 @@
       
       <guid>https://hyeongminlee.github.io/web-demo/members/hyeongminlee/</guid>
       <description>    Hyeongmin Lee (이형민) Research Area Hand Gesture Recognition Video Analysis Video Understanding   E-mail  minimonia@yonsei.ac.kr   Web  https://hyeongminlee.github.io       </description>
+    </item>
+    
+    <item>
+      <title>Yongju Lee</title>
+      <link>https://hyeongminlee.github.io/web-demo/members/heansunglee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyeongminlee.github.io/web-demo/members/heansunglee/</guid>
+      <description>    Yongju Lee (이용주) Research Area Face Detection Facial Landmark Detection Image Restoration   E-mail  paulyongju@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
+      <title>Yongju Lee</title>
+      <link>https://hyeongminlee.github.io/web-demo/members/yongjulee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyeongminlee.github.io/web-demo/members/yongjulee/</guid>
+      <description>    Yongju Lee (이용주) Research Area Face Detection Facial Landmark Detection Image Restoration   E-mail  paulyongju@yonsei.ac.kr       </description>
     </item>
     
   </channel>

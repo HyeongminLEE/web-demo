@@ -1,6 +1,6 @@
 +++
-title = "Taeyoung Chung"
-description = "Joint M.S/Ph.D 11th"
+title = "Eungyeol Song"
+description = "Ph.D 11th"
 weight = 30
 draft = false
 toc = true
@@ -10,7 +10,7 @@ bref = "/web-demo/members/EungyeolSONG.png"
 <table>
     <tr>
        <td width="280" align="center" valign="top">
-          <img alt="Baseline" width="200px" height="240" src="/web-demo/members/DaehyunPAK.png">
+          <img alt="Baseline" width="200px" height="240" src="/web-demo/members/EungyeolSONG.png">
        </td>
        <td>
             <h4>Eungyeol Song (송응열)</h4>
