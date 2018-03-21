@@ -1,10 +1,10 @@
 +++
 title = "Taeyoung Chung"
-description = "Joint M.S/Ph.D 19th"
-weight = 10
+description = "Joint M.S/Ph.D 11th"
+weight = 30
 draft = false
 toc = true
-bref = "/web-demo/members/DaehyunPAK.png"
+bref = "/web-demo/members/EungyeolSONG.png"
 +++
 
 <table>
@@ -13,19 +13,19 @@ bref = "/web-demo/members/DaehyunPAK.png"
           <img alt="Baseline" width="200px" height="240" src="/web-demo/members/DaehyunPAK.png">
        </td>
        <td>
-            <h4>Daehyun Pak (박대현)</h4>
+            <h4>Eungyeol Song (송응열)</h4>
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
-                        <li style="margin-bottom: 5px">Realtime and On-Demand Video Streaming System-Framework</li>
-                        <li style="margin-bottom: 5px">Error Concealment for Realtime Streaming
-
-</li>
+                        <li style="margin-bottom: 5px">Object Detection</li>
+                        <li style="margin-bottom: 5px">3D Reconstruction</li>
+                        <li style="margin-bottom: 5px">Hand Gesture Recognition</li>
+                        <li style="margin-bottom: 5px">Image Retargeting</li>
                     </ul>
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>
                     <ul>
-                        <li style="margin-bottom: 5px">koasing@yonsei.ac.kr</li>
+                        <li style="margin-bottom: 5px">tusltifid@yonsei.ac.kr</li>
                     </ul>
                 </li>
             </ul>
