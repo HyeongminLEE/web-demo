@@ -13,11 +13,16 @@ title = "Publications"
         }
 </style>
 
-<div id="action-buttons">
+<div id="action-buttons" style="margin-bottom: 15px; margin-top: 10px;">
 <a class="button outline big" href="/web-demo/publications">International Journal</a>
 <a class="button primary big" href="/web-demo/publications-int-conf">International Conference</a>
-<a class="button outline big" href="http://mvp.yonsei.ac.kr">Domestic Journal</a>
-<a class="button outline big" href="http://mvp.yonsei.ac.kr">Domestic Conference</a>
+<a class="button outline big" href="/web-demo/publications-dom">Domestic Publication</a>
+</div>
+
+<div id="action-buttons">
+<a class="button outline big" href="/web-demo/publications-int-pat">International Patent</a>
+<a class="button outline big" href="/web-demo/publications-dom-pat">Domestic Patent</a>
+<a class="button outline big" href="/web-demo/publications-std">Standardization</a>
 </div>
 
 

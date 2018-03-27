@@ -11,48 +11,33 @@ title = "Publications"
     .paper-author{
         font-weight: bold;
         }
-    #teleport{
-        text-decoration: none;
-        color: #3794de;
-        display: block;
-        text-align: right;
-        font-size: 19px;
-        }
-    #teleport:hover{
-        text-decoration: none;
-        font-weight: bold;
-        color: #3794de;
-        display: block;
-        text-align: right;
-        }
 </style>
 
 <div id="action-buttons" style="margin-bottom: 15px; margin-top: 10px;">
-<a class="button primary big" href="/web-demo/publications">International Journal</a>
+<a class="button outline big" href="/web-demo/publications">International Journal</a>
 <a class="button outline big" href="/web-demo/publications-int-conf">International Conference</a>
 <a class="button outline big" href="/web-demo/publications-dom">Domestic Publication</a>
 </div>
 
 <div id="action-buttons">
-<a class="button outline big" href="/web-demo/publications-int-pat">International Patent</a>
+<a class="button primary big" href="/web-demo/publications-int-pat">International Patent</a>
 <a class="button outline big" href="/web-demo/publications-dom-pat">Domestic Patent</a>
 <a class="button outline big" href="/web-demo/publications-std">Standardization</a>
 </div>
 
 
-<h2 style="font-size: 35px;">International Journal</h2> 
+<h2 style="font-size: 35px;">International Patent</h2> 
 ------
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2018 ~ Present</h3>
 
 <h5 class="paper-title">AHD: Thermal-Image Based Adaptive Hand Detection for Enhanced Tracking System</h5>
-<div class="paper-author">Eungyeol Song, Hyeongmin Lee, Jaesung Choi, and Sangyoun Lee</div>
+<div class="paper-author">Jaesung Choi, Eungyeol Song, and Sangyoun Lee</div>
 *IEEE Access*, Mar. 2018
 
 <h5 class="paper-title">L-Tree: A Local-Area-Learning-Based Tree Induction Algorithm for Image Classification</h5>
-<div class="paper-author">Jaesung Choi, Eungyeol Song, and Sangyoun Lee</div>
+<div class="paper-author">Eungyeol Song, Hyeongmin Lee, Jaesung Choi, and Sangyoun Lee</div>
 *Sensors*, Jan. 2018
-<a href="#top-of-page" id="teleport">[top]</a>
 
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2017</h3>
@@ -76,7 +61,6 @@ title = "Publications"
 <h5 class="paper-title">An Adaptive Local Binary Pattern for 3D Hand Tracking</h5>
 <div class="paper-author">Joongrock Kim, Sunjin Yu, Dongchul Kim, Kar-Ann Toh, and Sangyoun Lee</div>
 *Pattern Recognition*, Jan. 2017
-<a href="#top-of-page" id="teleport">[top]</a>
 
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2015</h3>
@@ -100,7 +84,6 @@ title = "Publications"
 <h5 class="paper-title">Depth Camera-Based 3D Hand Gesture Controls with Immersive Tactile Feedback for Natural Mid-Air Gesture Interactions</h5>
 <div class="paper-author">Kwangtaek Kim, Joongrock Kim, Jaesung Choi, Junghyun Kim, and Sangyoun Lee</div>
 *Sensors*, Jan. 2015
-<a href="#top-of-page" id="teleport">[top]</a>
 
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2014</h3>
@@ -120,7 +103,6 @@ title = "Publications"
 <h5 class="paper-title">Random-Profiles-Based 3D Face Recognition System</h5>
 <div class="paper-author">Joongrock Kim, Sunjin Yu, and Sangyoun Lee</div>
 *Sensors*, Mar. 2014
-<a href="#top-of-page" id="teleport">[top]</a>
 
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2013</h3>
@@ -132,7 +114,6 @@ title = "Publications"
 <h5 class="paper-title">Fast Intermode Decision Algorithm based on General and Local Residual Complexity in H.264/AVC</h5>
 <div class="paper-author">Jaeho Lee, Seongwan Kim, Kyungmin Lim, and Sangyoun Lee</div>
 *EURASIP Journal on Image and Video Processing*, May. 2013
-<a href="#top-of-page" id="teleport">[top]</a>
 
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2012</h3>
@@ -152,7 +133,6 @@ title = "Publications"
 <h5 class="paper-title">3D Hand Tracking using Kalman Filter in Depth Space</h5>
 <div class="paper-author">Sangheon Park, Sunjin Yu, Joongrock Kim, Sungjin Kim, and Sangyoun Lee</div>
 *EURASIP Journal on Advances in Signal Processing*, Feb. 2012
-<a href="#top-of-page" id="teleport">[top]</a>
 
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2010</h3>
@@ -168,7 +148,6 @@ title = "Publications"
 <h5 class="paper-title">Fast Inter Mode Decision Using Motion Vector-based Moving Window (MVMW)</h5>
 <div class="paper-author">Jaeho Lee, Seongwan Kim, Sangyoun Lee</div>
 *IEEE Transactions on Consumer Electronics*, Aug. 2010
-<a href="#top-of-page" id="teleport">[top]</a>
 
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">~2009</h3>
@@ -292,4 +271,3 @@ title = "Publications"
 <h5 class="paper-title">Parameter Optimization of Robust Low Bit-rate Video Coders</h5>
 <div class="paper-author">Sangyoun Lee, and Vijay K. Madisetti</div>
 *IEEE Transactions on Circuits and Systems for Video Technology*, Sep. 1999
-<a href="#top-of-page" id="teleport">[top]</a>
