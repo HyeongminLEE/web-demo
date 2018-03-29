@@ -11,6 +11,20 @@ title = "Publications"
     .paper-author{
         font-weight: bold;
         }
+    #teleport{
+        text-decoration: none;
+        color: #3794de;
+        display: block;
+        text-align: right;
+        font-size: 19px;
+        }
+    #teleport:hover{
+        text-decoration: none;
+        font-weight: bold;
+        color: #3794de;
+        display: block;
+        text-align: right;
+        }
 </style>
 
 <div id="action-buttons" style="margin-bottom: 15px; margin-top: 10px;">
@@ -35,10 +49,10 @@ title = "Publications"
 PCT/KR2017/014775, *WIPO Patent*, Dec. 2017
 
 <h5 class="paper-title">Apparatus and method for providing three-dimensional air-touch feedback</h5>
-14/670207, *United States Patent*, Mar. 2015
+14/ 670207, *United States Patent*, Mar. 2015
 
 <h5 class="paper-title">Method and apparatus of recognizing facial expression using adaptive decision tree based on local feature extraction</h5>
-14/598407, *United States Patent*, Jan. 2015
+14/ 598407, *United States Patent*, Jan. 2015
 
 <h5 class="paper-title">Vehicle detecting method and system</h5>
 201410686987, *China Patent*, Nov. 2014
@@ -51,6 +65,7 @@ PCT/KR2007/006611, *WIPO Patent*, Dec. 2007
 
 <h5 class="paper-title">Apparatus and method for automatic video summarization using fuzzy one-class support vector machines</h5>
 PCT/KR2004/001568, *WIPO Patent*, Jun. 2004
+<a href="#top-of-page" id="teleport">[top]</a>
 
 
 
@@ -76,3 +91,4 @@ CN1842867, *China Patent*, Jun. 2010
 <h5 class="paper-title">Apparatus and method for abstracting motion picture shape descriptor including statistical characteristic of still
 picture shape descriptor, and video indexing system and method using the same</h5>
 7609761, *United States Patent*, Oct. 2009
+<a href="#top-of-page" id="teleport">[top]</a>

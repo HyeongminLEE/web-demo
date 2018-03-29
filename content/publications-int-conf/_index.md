@@ -28,6 +28,8 @@ title = "Publications"
 
 <h2 style="font-size: 35px;">International Conference</h2> 
 ------
+
+<!--
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2018 ~ Present</h3>
 
@@ -270,4 +272,4 @@ title = "Publications"
 
 <h5 class="paper-title">Parameter Optimization of Robust Low Bit-rate Video Coders</h5>
 <div class="paper-author">Sangyoun Lee, and Vijay K. Madisetti</div>
-*IEEE Transactions on Circuits and Systems for Video Technology*, Sep. 1999
+*IEEE Transactions on Circuits and Systems for Video Technology*, Sep. 1999-->
