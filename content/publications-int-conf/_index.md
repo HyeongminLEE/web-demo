@@ -101,6 +101,14 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2015</h3>
 
+<h5 class="paper-title">Geometric Surface Reconstruction via LM Optimazation algorithm</h5>
+<div class="paper-author">Eungyeol Song, Junghyun Kim, Sangyoun Lee</div>
+*International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2015)*, Jul. 2015
+
+<h5 class="paper-title">Pedestrian Detection Using HOG, LBP and Color LBP</h5>
+<div class="paper-author">Taejae Jeon, Taeoh Kim, Hyunhye Shin, Sangyoun Lee</div>
+*International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2015)*, Jul. 2015
+
 <h5 class="paper-title">Depth Reliability Measurement for Vehicle Stereo Vision</h5>
 <div class="paper-author">Jaesung Kim, Changhyun Park, Junghyun Kim, Sangyoun Lee</div>
 *International Conference on Electronics, Information and Communication (ICEIC 2015)*, Jan. 2015
@@ -116,14 +124,6 @@ title = "Publications"
 <h5 class="paper-title">Generation of Neighborhood Euclidean Distance Maps for Rapid GrowCut</h5>
 <div class="paper-author">Kyungjae Lee, Eungyeol Song, Taejae Jeon, Sangyoun Lee</div>
 *International Conference on Electronics, Information and Communication (ICEIC 2015)*, Jan. 2015
-
-<h5 class="paper-title">Geometric Surface Reconstruction via LM Optimazation algorithm</h5>
-<div class="paper-author">Eungyeol Song, Junghyun Kim, Sangyoun Lee</div>
-*International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2015)*, Jul. 2015
-
-<h5 class="paper-title">Pedestrian Detection Using HOG, LBP and Color LBP</h5>
-<div class="paper-author">Taejae Jeon, Taeoh Kim, Hyunhye Shin, Sangyoun Lee</div>
-*International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2015)*, Jul. 2015
 <a href="#top-of-page" id="teleport">[top]</a>
 
 <br/>
