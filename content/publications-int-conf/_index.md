@@ -89,14 +89,6 @@ title = "Publications"
 <div class="paper-author">Kyungjae Lee, Jaesung Kim, Sangyoun Lee</div>
 *International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2016)*, Jul. 2016
 
-<h5 class="paper-title">Geometric Surface Reconstruction via LM Optimazation algorithm</h5>
-<div class="paper-author">Eungyeol Song, Junghyun Kim, Sangyoun Lee</div>
-*International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2016)*, Jul. 2016
-
-<h5 class="paper-title">Pedestrian Detection Using HOG, LBP and Color LBP</h5>
-<div class="paper-author">Taejae Jeon, Taeoh Kim, Hyunhye Shin, Sangyoun Lee</div>
-*International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2016)*, Jul. 2016
-
 <h5 class="paper-title">Body pose estimation using context-based bag-of-features</h5>
 <div class="paper-author">Yuseok Ban, Minkyu Lee, Jaesung Choi, Kyungjae Lee, Sangyoun Lee</div>
 *International Conference on Electronics, Information and Communication (ICEIC 2016)*, Jan. 2016
@@ -124,6 +116,14 @@ title = "Publications"
 <h5 class="paper-title">Generation of Neighborhood Euclidean Distance Maps for Rapid GrowCut</h5>
 <div class="paper-author">Kyungjae Lee, Eungyeol Song, Taejae Jeon, Sangyoun Lee</div>
 *International Conference on Electronics, Information and Communication (ICEIC 2015)*, Jan. 2015
+
+<h5 class="paper-title">Geometric Surface Reconstruction via LM Optimazation algorithm</h5>
+<div class="paper-author">Eungyeol Song, Junghyun Kim, Sangyoun Lee</div>
+*International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2015)*, Jul. 2015
+
+<h5 class="paper-title">Pedestrian Detection Using HOG, LBP and Color LBP</h5>
+<div class="paper-author">Taejae Jeon, Taeoh Kim, Hyunhye Shin, Sangyoun Lee</div>
+*International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2015)*, Jul. 2015
 <a href="#top-of-page" id="teleport">[top]</a>
 
 <br/>
@@ -284,18 +284,6 @@ title = "Publications"
 <h5 class="paper-title">Rapid shape acquisition for face recognition using the absolutely coded pattern</h5>
 <div class="paper-author">Sungwoo Yang, Sangyoun Lee, Jaihie Kim</div>
 *Intelligent Signal Processing and Communication Systems*, Nov. 2004
-
-<h5 class="paper-title">Face Description Using 2nd order LDA Mixture Model</h5>
-<div class="paper-author">Min-Sub Kim, Daijin Kim, Sang Youn Lee, WooYoung Lim</div>
-*ISO/IEC JTC1/SC21/WG11/M8570*, Jul. 2002
-
-<h5 class="paper-title">Experiment Results of Face Descriptor Using the Embedded HMM with the 2nd-order Block-specific Eigenvectors</h5>
-<div class="paper-author">Min-Sub Kim, Daijin Kim, Sang Youn Lee, Young Sik Choi</div>
-*ISO/IEC JTC1/SC21/WG11/M7997*, May. 2002
-
-<h5 class="paper-title">Face Recognition Descriptor Using the Embedded HMM with the 2nd-order Block-specific Eigenvectors</h5>
-<div class="paper-author">Min-Sub Kim, Daijin Kim, Sung Yang Bang, Sang Youn Lee, Young Sik Choi</div>
-*ISO/IEC JTC1/SC21/WG11/M7611*, Mar. 2002
 
 <h5 class="paper-title">Face Description Using 2nd order LDA Mixture Model</h5>
 <div class="paper-author">Min-Sub Kim, Daijin Kim, Sangyoun Lee, WooYoung Lim</div>
