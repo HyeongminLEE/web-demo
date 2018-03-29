@@ -65,8 +65,8 @@ title = "Publications"
 <div class="paper-author">박성주, 이경재, 이준협, 정태영, 이상윤</div>
 *한국통신학회 하계종합학술발표회*, Jun. 2017
 
-<h5 class="paper-title">증강현실을 위한 라인 프루닝 필터 허프변환 기반 대상 영역 검출</h5>
-<div class="paper-author">이형민, 이상윤</div>
+<h5 class="paper-title">Inversion of Spread-Direction and Alternate Neighborhood System for Cellular Automata-Based Image Segmentation Framework</h5>
+<div class="paper-author">이경재, 이준협, 황상원, 이상윤</div>
 *Journal of International Society for Simulation Surgery*, May. 2017
 
 <h5 class="paper-title">시각장애인을 위한 딥러닝 기반 표지판 검출 및 인식</h5>

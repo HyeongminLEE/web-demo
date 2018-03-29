@@ -25,6 +25,10 @@ publishDir = "docs"
     weight = 20
     url = "/research/"
 [[menu.main]]
+    name = "Projects"
+    weight = 25
+    url = "/projects/"
+[[menu.main]]
     name = "Publications"
     weight = 30
     url = "/publications/"
@@ -32,7 +36,3 @@ publishDir = "docs"
     name = "Contact"
     weight = 40
     url = "/contact/"
-[[menu.main]]
-    name = "Projects"
-    weight = 50
-    url = "/projects/"
