@@ -32,3 +32,7 @@ publishDir = "docs"
     name = "Contact"
     weight = 40
     url = "/contact/"
+[[menu.main]]
+    name = "Projects"
+    weight = 50
+    url = "/projects/"
