@@ -11,6 +11,20 @@ title = "Publications"
     .paper-author{
         font-weight: bold;
         }
+    #teleport{
+        text-decoration: none;
+        color: #3794de;
+        display: block;
+        text-align: right;
+        font-size: 19px;
+        }
+    #teleport:hover{
+        text-decoration: none;
+        font-weight: bold;
+        color: #3794de;
+        display: block;
+        text-align: right;
+        }
 </style>
 
 <div id="action-buttons" style="margin-bottom: 15px; margin-top: 10px;">
@@ -102,7 +116,7 @@ title = "Publications"
 
 <h5 class="paper-title">동영상으로부터 객체를 검출하는 장치 및 방법</h5>
 10-2013-0033972, Mar. 2013
-
+<a href="#top-of-page" id="teleport">[top]</a>
 
 
 
@@ -220,3 +234,4 @@ title = "Publications"
 
 <h5 class="paper-title">퍼지 기반 OC-SVM을 이용한 동영상 자동 요약 장치및 방법</h5>
 10-0708337, Apr. 2007
+<a href="#top-of-page" id="teleport">[top]</a>
