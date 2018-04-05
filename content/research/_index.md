@@ -21,7 +21,7 @@ title = "Research Area"
 <div class="big-title">Scene Understanding</div>
 
 </br>
-<div class="small-title">Visual Slam</div>
+<div class="small-title">Visual SLAM</div>
 <img alt="Baseline" width="" height="" src="/web-demo/img_research/Visual SLAM.png">
 
 </br>
