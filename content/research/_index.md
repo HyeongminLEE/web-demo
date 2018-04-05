@@ -14,11 +14,32 @@ title = "Research Area"
     .small-title{
         font-size: 30px;
         font-weight: bold;
-        }    
+        }
+    #teleport{
+        text-decoration: none;
+        color: #3794de;
+        display: block;
+        text-align: right;
+        font-size: 25px;
+        }
+    #teleport:hover{
+        text-decoration: none;
+        font-weight: bold;
+        color: #3794de;
+        display: block;
+        text-align: right;
+        font-size: 25px;
+        }
 </style>
 
+<div id="action-buttons">
+<a class="button outline big" href="#scene-understanding">Scene Understanding</a>
+<a class="button outline big" href="#human-analysis">Human Analysis</a>
+<a class="button outline big" href="#image-video-processing">Image/Video Processing</a>
+</div>
+
 </br>
-<div class="big-title">Scene Understanding</div>
+<div class="big-title" id="scene-understanding">Scene Understanding</div>
 
 </br>
 <div class="small-title">Visual SLAM</div>
@@ -43,9 +64,13 @@ title = "Research Area"
 </br>
 <div class="small-title">Single Object Tracking</div>
 <img alt="Baseline" width="" height="" src="/web-demo/img_research/Single Object Tracking.png">
+<a href="#top-of-page" id="teleport">[top]</a>
 
 </br>
-<div class="big-title">Human Analysis</div>
+</br>
+</br>
+</br>
+<div class="big-title" id="human-analysis">Human Analysis</div>
 
 </br>
 <div class="small-title">Facial Landmark Detection</div>
@@ -82,9 +107,13 @@ title = "Research Area"
 </br>
 <div class="small-title">Human Pose Estimation</div>
 <img alt="Baseline" width="" height="" src="/web-demo/img_research/Human Pose Estimation.png">
+<a href="#top-of-page" id="teleport">[top]</a>
 
 </br>
-<div class="big-title">Image/Video Processing</div>
+</br>
+</br>
+</br>
+<div class="big-title" id="image-video-processing">Image/Video Processing</div>
 
 </br>
 <div class="small-title">Depth Image Enhancement</div>
@@ -113,3 +142,4 @@ title = "Research Area"
 </br>
 <div class="small-title">Video Streaming Error Concealment</div>
 <img alt="Baseline" width="" height="" src="/web-demo/img_research/Video Streaming Error Concealment.png">
+<a href="#top-of-page" id="teleport">[top]</a>

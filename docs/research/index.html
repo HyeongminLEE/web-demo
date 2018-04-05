@@ -113,7 +113,7 @@
   <main>
 
 <div id="hero" class="wrap">
-  <h1>Research Area</h1>
+  <h1 id="top-of-page">Research Area</h1>
     <p><br></p>
 </div>
 <div id="kube-faq" style="max-width: 900px !important;">
@@ -128,11 +128,32 @@
     .small-title{
         font-size: 30px;
         font-weight: bold;
-        }    
+        }
+    #teleport{
+        text-decoration: none;
+        color: #3794de;
+        display: block;
+        text-align: right;
+        font-size: 25px;
+        }
+    #teleport:hover{
+        text-decoration: none;
+        font-weight: bold;
+        color: #3794de;
+        display: block;
+        text-align: right;
+        font-size: 25px;
+        }
 </style>
 
+<div id="action-buttons">
+<a class="button outline big" href="#scene-understanding">Scene Understanding</a>
+<a class="button outline big" href="#human-analysis">Human Analysis</a>
+<a class="button outline big" href="#image-video-processing">Image/Video Processing</a>
+</div>
+
 <p></br>
-<div class="big-title">Scene Understanding</div></p>
+<div class="big-title" id="scene-understanding">Scene Understanding</div></p>
 
 <p></br>
 <div class="small-title">Visual SLAM</div>
@@ -156,10 +177,14 @@
 
 <p></br>
 <div class="small-title">Single Object Tracking</div>
-<img alt="Baseline" width="" height="" src="/web-demo/img_research/Single Object Tracking.png"></p>
+<img alt="Baseline" width="" height="" src="/web-demo/img_research/Single Object Tracking.png">
+<a href="#top-of-page" id="teleport">[top]</a></p>
 
 <p></br>
-<div class="big-title">Human Analysis</div></p>
+</br>
+</br>
+</br>
+<div class="big-title" id="human-analysis">Human Analysis</div></p>
 
 <p></br>
 <div class="small-title">Facial Landmark Detection</div>
@@ -195,10 +220,14 @@
 
 <p></br>
 <div class="small-title">Human Pose Estimation</div>
-<img alt="Baseline" width="" height="" src="/web-demo/img_research/Human Pose Estimation.png"></p>
+<img alt="Baseline" width="" height="" src="/web-demo/img_research/Human Pose Estimation.png">
+<a href="#top-of-page" id="teleport">[top]</a></p>
 
 <p></br>
-<div class="big-title">Image/Video Processing</div></p>
+</br>
+</br>
+</br>
+<div class="big-title" id="image-video-processing">Image/Video Processing</div></p>
 
 <p></br>
 <div class="small-title">Depth Image Enhancement</div>
@@ -226,7 +255,8 @@
 
 <p></br>
 <div class="small-title">Video Streaming Error Concealment</div>
-<img alt="Baseline" width="" height="" src="/web-demo/img_research/Video Streaming Error Concealment.png"></p>
+<img alt="Baseline" width="" height="" src="/web-demo/img_research/Video Streaming Error Concealment.png">
+<a href="#top-of-page" id="teleport">[top]</a></p>
 
 </div>
 </main>
