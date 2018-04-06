@@ -2,6 +2,47 @@
 {{ define "header"}} {{ partial "header" .}} {{end}}
 {{ define "main"}}
 
+<style>
+    .small-title{
+        color: royalblue;
+        font-weight: 900;
+        font-size: 38px;
+    }
+    #recent-update>li{
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    #teleport{
+        text-decoration: none;
+        color: #3794de;
+        display: block;
+        text-align: right;
+        font-size: 22px;
+        }
+    #teleport:hover{
+        text-decoration: none;
+        font-weight: bold;
+        color: #3794de;
+        display: block;
+        text-align: right;
+        font-size: 22px;
+        }
+</style>
+
+<script>
+    $('.count').each(function () {
+        $(this).prop('Counter',0).animate({
+            Counter: $(this).text()
+        }, {
+            duration: 4000,
+            easing: 'swing',
+            step: function (now) {
+                $(this).text(Math.ceil(now));
+            }
+        });
+    });
+</script>
+
 <div id="main">
   <div style="background-image: url(/web-demo/general/graduate_photo2.png); background-repeat: no-repeat; background-size: cover; background-position: center;">
       <div id="hero">
@@ -9,15 +50,46 @@
       <p style="color: white">{{.Description}}</p>
     </div>
     <div id="action-buttons">
-      <a class="button primary big" href="http://mvp.yonsei.ac.kr" onclick="_gaq.push(['_trackEvent', 'kube', 'download']);">Current Webpage</a> <a class="button outline big" href="https://github.com/yonseimvp" onclick="_gaq.push(['_trackEvent', 'kube', 'github']);">View on Github</a>
+      <a class="button primary big" href="/web-demo/members" onclick="_gaq.push(['_trackEvent', 'kube', 'download']);">Our members</a>
       <p>Some Description</p>
     </div>
   </div>
+<!--
   <div class="message focus" data-component="message"> <span class="close small"></span>
     <h2>Recent Updates</h2> <br><br>
     <h4>- A Paper is Accepted <i>ECCV 2018</i> Blar Blar &ensp; <a class="button inverted small " href="https://naver.com/" > Arxiv </a> <a class="button inverted small " href="https://nate.com/" > Code </a> <a class="button inverted small " href="https://google..com/" > Project </a></h4> <br><br>
     <h4>- A Paper is Accepted <i>ECCV 2018</i> Blar Blar </h4>
   </div>
+-->
+  <h2 class="small-title">Recent Publications</h2>
+  <ul id="recent-update">
+      <li>
+          E. Song et al. <b>AHD: Thermal-Image Based Adaptive Hand Detection for Enhanced Tracking System</b>, <i>IEEE Access</i>, Mar 2018
+      </li>
+      <li>
+          J. Choi et al. <b>L-Tree: A Local-Area-Learning-Based Tree Induction Algorithm for Image Classification</b>, <i>Sensors</i>, Jan. 2018
+      </li>
+      <li>
+          K. Lee et al. <b>Brightness-Based Convolutional Neural Network for Thermal Image Enhancement</b>, <i>IEEE Access</i>, Nov. 2017
+      </li>
+      <li>
+          S. Kim et al. <b>SSIM-based Distortion Metric for Film Grain Noise in HEVC</b>, <i>Signal Image and Video Processing</i>, Oct. 2017
+      </li>
+      <li>
+          K. Lee et al. <b>Efficient Depth Enhancement Using a Combination of Color and Depth Information</b>, <i>Sensors</i>, Jul. 2017
+      </li>
+      <li>
+          S. Kim et al. <b>Tracking and Classification of In-Air Hand Gesture Based on Thermal Guided Joint Filter</b>, <i>Sensors</i>, Jan. 2017
+      </li>
+      <li>
+          J. Kim et al. <b>An Adaptive Local Binary Pattern for 3D Hand Tracking</b>, <i>Pattern Recognition</i>, Jan. 2017
+      </li>
+      <li class="count">
+          200
+      </li>
+  </ul>
+  <a href="/web-demo/publications" id="teleport">[More Publications]</a>
+ 
   <div id="kube-features">
     <div class="row gutters">
       <div class="col col-4 item">

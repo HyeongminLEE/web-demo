@@ -4,6 +4,4 @@ title = "News"
 description = "News"
 +++
 
-## News
-
-Markdown Style
+TBA
