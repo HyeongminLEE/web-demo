@@ -92,8 +92,6 @@
       <ul>
        
        
-    <li><a href="/web-demo/news/" >News</a></li>
-    
     <li><a href="/web-demo/members/" >Members</a></li>
     
     <li><a href="/web-demo/research/" >Research</a></li>
@@ -119,11 +117,20 @@
     .small-title{
         color: royalblue;
         font-weight: 900;
-        font-size: 38px;
+        font-size: 45px;
     }
     #recent-update>li{
         font-size: 20px;
-        margin-bottom: 15px;
+        margin-bottom: 18px;
+    }
+    #research-area>li{
+        font-size: 30px;
+        margin-bottom: 22px;
+        font-weight: 500;
+    }
+    #contact>li{
+        font-size: 25px;
+        margin-bottom: 22px;
     }
     #teleport{
         text-decoration: none;
@@ -140,21 +147,21 @@
         text-align: right;
         font-size: 22px;
         }
+    #ra-link{
+        text-decoration: none;
+        color: #3794de;
+        }
+    #ra-link:hover{
+        text-decoration: none;
+        font-weight: 1000;
+        color: #3794de;
+        }
+    .stats{
+        font-size: 30px !important;
+    }
 </style>
 
-<script>
-    $('.count').each(function () {
-        $(this).prop('Counter',0).animate({
-            Counter: $(this).text()
-        }, {
-            duration: 4000,
-            easing: 'swing',
-            step: function (now) {
-                $(this).text(Math.ceil(now));
-            }
-        });
-    });
-</script>
+
 
 <div id="main">
   <div style="background-image: url(/web-demo/general/graduate_photo2.png); background-repeat: no-repeat; background-size: cover; background-position: center;">
@@ -168,6 +175,35 @@
     </div>
   </div>
 
+  <h2 class="small-title">Stats</h2>
+    <div id="kube-features">
+    <div class="row gutters">
+      <div class="col col-4 item">
+        <figure>
+          <img alt="Baseline" height="48" src="/web-demo/img/kube/icon-baseline.png" width="48">
+        </figure>
+        <h3>Ongoing Projects</h3>
+        <p class="count stats">7</p>
+      </div>
+      <div class="col col-4 item">
+        <figure>
+          <img alt="Typography" height="48" src="/web-demo/img/kube/icon-typo.png" width="48">
+        </figure>
+        <h3>International Papers</h3>
+        <p class="count stats">113</p>
+      </div>
+      <div class="col col-4 item">
+        <figure>
+          <img alt="Minimalism" height="48" src="/web-demo/img/kube/icon-minimalism.png" width="48">
+        </figure>
+        <h3>Domestic Papers</h3>
+        <p class="count stats">65</p>
+      </div>
+    </div>
+    </div>
+  
+  <br/>
+  <br/>
   <h2 class="small-title">Recent Publications</h2>
   <ul id="recent-update">
       <li>
@@ -191,53 +227,46 @@
       <li>
           J. Kim et al. <b>An Adaptive Local Binary Pattern for 3D Hand Tracking</b>, <i>Pattern Recognition</i>, Jan. 2017
       </li>
-      <li class="count">
-          200
-      </li>
   </ul>
   <a href="/web-demo/publications" id="teleport">[More Publications]</a>
- 
-  <div id="kube-features">
-    <div class="row gutters">
-      <div class="col col-4 item">
-        <figure>
-          <img alt="Baseline" height="48" src="/web-demo/img/kube/icon-baseline.png" width="48">
-        </figure>
-        <h3>Research Interest 1</h3>
-        <p>Research Simple Description 1</p>
-      </div>
-      <div class="col col-4 item">
-        <figure>
-          <img alt="Typography" height="48" src="/web-demo/img/kube/icon-typo.png" width="48">
-        </figure>
-        <h3>Research Interest 2</h3>
-        <p>Research Simple Description 2</p>
-      </div>
-      <div class="col col-4 item">
-        <figure>
-          <img alt="Minimalism" height="48" src="/web-demo/img/kube/icon-minimalism.png" width="48">
-        </figure>
-        <h3>Research Interest 3</h3>
-        <p>Research Simple Description 3</p>
-      </div>
-    </div>
-    <div class="row gutters">
-      <div class="col col-4 item">
-        <h4>Small Description 1</h4>
-        <p>Small Description 1</p>
-      </div>
-      <div class="col col-4 item">
-        <h4>Small Description 2</h4>
-        <p>Small Description 2</p>
-      </div>
-      <div class="col col-4 item">
-        <h4>Small Description 3</h4>
-        <p>Small Description 3</p>
-    </div>
+  
+  <br/>
+  <br/>
+  <br/>
+  <h2 class="small-title">Research Area</h2>
+  <ul id="research-area">
+      <li><a id="ra-link" href="/web-demo/research/#scene-understanding">Scene Understanding</a></li>
+      <li><a id="ra-link" href="/web-demo/research/#human-analysis">Human Analysis</a></li>
+      <li><a id="ra-link" href="/web-demo/research/#image-video-processing">Image/Video Processing</a></li>
+  </ul>
+  
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <h2 class="small-title">Contact</h2>
+  <ul id="contact">
+      <li>Address: Engineering Hall 3, Yonsei University 50 Yonsei-ro, Seodaemun-gu, Seoul 120-749, Korea</li>
+      <li>Tel: +82-2-2123-7843</li>
+  </ul>
+  <a href="/web-demo/contact" id="teleport">[More Informations]</a>
+  
+</div>
 
-  </div>
-</div>
-</div>
+<script>
+    $('.count').each(function () {
+        $(this).prop('Counter',0).animate({
+            Counter: $(this).text()
+        }, {
+            duration: 2000,
+            easing: 'swing',
+            step: function (now) {
+                $(this).text(Math.ceil(now));
+            }
+        });
+    });
+</script>
+
 </main>
   <footer>   <footer id="footer">
     <nav>

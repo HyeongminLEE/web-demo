@@ -13,12 +13,8 @@ publishDir = "docs"
   email = "myemail@myaddress.xxx"
 
 [[menu.main]]
-    name = "News"
-    weight = 10
-    url = "/news/"
-[[menu.main]]
     name = "Members"
-    weight = 15
+    weight = 10
     url = "/members/"
 [[menu.main]]
     name = "Research"
