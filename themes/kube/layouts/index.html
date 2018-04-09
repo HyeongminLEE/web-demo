@@ -53,14 +53,13 @@
 
 
 <div id="main">
-  <div style="background-image: url(/web-demo/general/graduate_photo2.png); background-repeat: no-repeat; background-size: cover; background-position: center;">
+  <div class="width-rsp" style="background-image: url(/web-demo/general/graduate_photo2.png); background-repeat: no-repeat; background-size: cover; background-position: center top; padding-bottom: 1px;">
       <div id="hero">
       <h1 style="color: white">{{.Title}}</h1>
       <p style="color: white">{{.Description}}</p>
     </div>
     <div id="action-buttons">
       <a class="button primary big" href="/web-demo/members" onclick="_gaq.push(['_trackEvent', 'kube', 'download']);">Our members</a>
-      <p>Some Description</p>
     </div>
   </div>
 <!--
@@ -72,26 +71,33 @@
 -->
     <div id="kube-features">
     <div class="row gutters">
-      <div class="col col-4 item">
+      <div class="col col-3 item">
         <figure>
           <img alt="Baseline" height="48" src="{{ "/img/kube/icon-baseline.png" | relURL }}" width="48">
         </figure>
         <h3>Ongoing Projects</h3>
         <p class="count stats">7</p>
       </div>
-      <div class="col col-4 item">
+      <div class="col col-3 item">
         <figure>
           <img alt="Typography" height="48" src="{{ "/img/kube/icon-typo.png" | relURL }}" width="48">
         </figure>
         <h3>International Papers</h3>
         <p class="count stats">113</p>
       </div>
-      <div class="col col-4 item">
+      <div class="col col-3 item">
         <figure>
           <img alt="Minimalism" height="48" src="{{ "/img/kube/icon-minimalism.png" | relURL }}" width="48">
         </figure>
         <h3>Domestic Papers</h3>
         <p class="count stats">65</p>
+      </div>
+      <div class="col col-3 item">
+        <figure>
+          <img alt="Minimalism" height="48" src="{{ "/img/kube/icon-minimalism.png" | relURL }}" width="48">
+        </figure>
+        <h3>Patents</h3>
+        <p class="count stats">38</p>
       </div>
     </div>
     </div>
@@ -152,7 +158,7 @@
         $(this).prop('Counter',0).animate({
             Counter: $(this).text()
         }, {
-            duration: 2000,
+            duration: 2200,
             easing: 'swing',
             step: function (now) {
                 $(this).text(Math.ceil(now));
@@ -161,5 +167,8 @@
     });
 </script>
 
+<script>
+    document.getElementsByClassName("small-title").style.fontSize = "100px";
+</script>
 {{ end }}
 {{ define "footer"}} {{ partial "footer" .}} {{end}}
