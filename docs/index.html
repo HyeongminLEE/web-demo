@@ -9,7 +9,7 @@
   <title> Home </title>
 
   
-  <meta name="description" content="Image and Video Pattern Recognition Lab. School of Electrical and Electronic Engineering, Yonsei University, Seoul, Korea"> 
+  <meta name="description" content="Image and Video Pattern Recognition Lab."> 
   
   
   
@@ -22,7 +22,7 @@
 
 
   <meta property="og:title" content="Welcome to MVP LAB" />
-<meta property="og:description" content="Image and Video Pattern Recognition Lab. School of Electrical and Electronic Engineering, Yonsei University, Seoul, Korea" />
+<meta property="og:description" content="Image and Video Pattern Recognition Lab." />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://hyeongminlee.github.io/web-demo/" />
 
@@ -118,6 +118,7 @@
         color: royalblue;
         font-weight: 900;
         font-size: 45px;
+        text-align: center;
     }
     #recent-update>li{
         font-size: 20px;
@@ -127,10 +128,6 @@
         font-size: 30px;
         margin-bottom: 22px;
         font-weight: 500;
-    }
-    #contact>li{
-        font-size: 25px;
-        margin-bottom: 22px;
     }
     #teleport{
         text-decoration: none;
@@ -156,60 +153,54 @@
         font-weight: 1000;
         color: #3794de;
         }
+    #section-stats{
+        padding-top: 40px;
+        background-color: royalblue;
+    }
+    #section-stats > .small-title{
+        color: white;
+    }
     .stats{
+        color: white !important;
         font-size: 30px !important;
+        font-weight: 900;
+    }
+    .stats-title{
+        color: white;
+    }
+    .contact{
+        background-color: royalblue;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .contact .small-title{
+        color: white;
+    }
+    #contact-content{
+        color: white;
+        font-size: 25px;
+        text-align: center;
     }
 </style>
 
 
-
-<div id="main">
-  <div class="width-rsp" style="background-image: url(/web-demo/general/graduate_photo2.png); background-repeat: no-repeat; background-size: cover; background-position: center top; padding-bottom: 1px;">
+<div class="width-rsp" style="background-image: url(/web-demo/general/graduate_photo2.png); background-repeat: no-repeat; background-size: cover; background-position: center top; padding-bottom: 1px; width: 100%">
       <div id="hero">
       <h1 style="color: white">Welcome to MVP LAB</h1>
-      <p style="color: white">Image and Video Pattern Recognition Lab. School of Electrical and Electronic Engineering, Yonsei University, Seoul, Korea</p>
+      <p style="color: white">Image and Video Pattern Recognition Lab.</p>
+      <div style="color: white; font-size: 20px;">School of Electrical and Electronic Engineering, Yonsei University, Seoul, Korea</div>
     </div>
     <div id="action-buttons">
       <a class="button primary big" href="/web-demo/members" onclick="_gaq.push(['_trackEvent', 'kube', 'download']);">Our members</a>
     </div>
-  </div>
+</div>
 
-    <div id="kube-features">
-    <div class="row gutters">
-      <div class="col col-3 item">
-        <figure>
-          <img alt="Baseline" height="48" src="/web-demo/img/kube/icon-baseline.png" width="48">
-        </figure>
-        <h3>Ongoing Projects</h3>
-        <p class="count stats">7</p>
-      </div>
-      <div class="col col-3 item">
-        <figure>
-          <img alt="Typography" height="48" src="/web-demo/img/kube/icon-typo.png" width="48">
-        </figure>
-        <h3>International Papers</h3>
-        <p class="count stats">113</p>
-      </div>
-      <div class="col col-3 item">
-        <figure>
-          <img alt="Minimalism" height="48" src="/web-demo/img/kube/icon-minimalism.png" width="48">
-        </figure>
-        <h3>Domestic Papers</h3>
-        <p class="count stats">65</p>
-      </div>
-      <div class="col col-3 item">
-        <figure>
-          <img alt="Minimalism" height="48" src="/web-demo/img/kube/icon-minimalism.png" width="48">
-        </figure>
-        <h3>Patents</h3>
-        <p class="count stats">38</p>
-      </div>
-    </div>
-    </div>
-  
+<div id="main">
+
+
   <br/>
   <br/>
-  <h2 class="small-title">Recent Publications</h2>
+  <h2 class="small-title" style="margin-bottom: 30px; margin-top: 40px;">Recent Publications</h2>
   <ul id="recent-update">
       <li>
           E. Song et al. <b>AHD: Thermal-Image Based Adaptive Hand Detection for Enhanced Tracking System</b>, <i>IEEE Access</i>, Mar 2018
@@ -233,30 +224,102 @@
           J. Kim et al. <b>An Adaptive Local Binary Pattern for 3D Hand Tracking</b>, <i>Pattern Recognition</i>, Jan. 2017
       </li>
   </ul>
-  <a href="/web-demo/publications" id="teleport">[More Publications]</a>
+   <br/>
+    <div id="action-buttons">
+      <a class="button primary big" href="/web-demo/members" onclick="_gaq.push(['_trackEvent', 'kube', 'download']);">More Publications</a>
+    </div>
   
-  <br/>
-  <br/>
-  <br/>
-  <h2 class="small-title">Research Area</h2>
-  <ul id="research-area">
-      <li><a id="ra-link" href="/web-demo/research/#scene-understanding">Scene Understanding</a></li>
-      <li><a id="ra-link" href="/web-demo/research/#human-analysis">Human Analysis</a></li>
-      <li><a id="ra-link" href="/web-demo/research/#image-video-processing">Image/Video Processing</a></li>
-  </ul>
-  
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <h2 class="small-title">Contact</h2>
-  <ul id="contact">
-      <li>Address: Engineering Hall 3, Yonsei University 50 Yonsei-ro, Seodaemun-gu, Seoul 120-749, Korea</li>
-      <li>Tel: +82-2-2123-7843</li>
-  </ul>
-  <a href="/web-demo/contact" id="teleport">[More Informations]</a>
-  
+<br/>
+<br/>
+
 </div>
+
+<div id="section-stats">
+    <h2 class="small-title">Stats</h2>
+    <div id="main">
+        <div id="kube-features" style="margin-top: 30px !important;">
+            <div class="row gutters">
+              <div class="col col-3 item">
+                <figure>
+                  <img alt="Baseline" height="48" src="/web-demo/img/kube/icon-baseline.png" width="48">
+                </figure>
+                <h3 class="stats-title">Ongoing Projects</h3>
+                <p class="count stats">7</p>
+              </div>
+              <div class="col col-3 item">
+                <figure>
+                  <img alt="Typography" height="48" src="/web-demo/img/kube/icon-typo.png" width="48">
+                </figure>
+                <h3 class="stats-title">International Papers</h3>
+                <p class="count stats">113</p>
+              </div>
+              <div class="col col-3 item">
+                <figure>
+                  <img alt="Minimalism" height="48" src="/web-demo/img/kube/icon-minimalism.png" width="48">
+                </figure>
+                <h3 class="stats-title">Domestic Papers</h3>
+                <p class="count stats">65</p>
+              </div>
+              <div class="col col-3 item">
+                <figure>
+                  <img alt="Minimalism" height="48" src="/web-demo/img/kube/icon-minimalism.png" width="48">
+                </figure>
+                <h3 class="stats-title">Patents</h3>
+                <p class="count stats">38</p>
+              </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<br/>
+<br/>
+<br/>
+
+<div class="research-area">
+    <h2 class="small-title" style="margin-bottom: 70px;">Research Area</h2>
+    <div id="main">
+        <div id="kube-features" style="margin-top: 40px !important;">
+            <div class="row gutters">
+              <div class="col col-4 item">
+                <figure>
+                  <img alt="Baseline" height="48" src="/web-demo/img/kube/icon-baseline.png" width="48">
+                </figure>
+                <h3 class="ra-title">Ongoing Projects</h3>
+              </div>
+              <div class="col col-4 item">
+                <figure>
+                  <img alt="Typography" height="48" src="/web-demo/img/kube/icon-typo.png" width="48">
+                </figure>
+                <h3 class="ra-title">International Papers</h3>
+              </div>
+              <div class="col col-4 item">
+                <figure>
+                  <img alt="Minimalism" height="48" src="/web-demo/img/kube/icon-minimalism.png" width="48">
+                </figure>
+                <h3 class="ra-title">Domestic Papers</h3>
+              </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<br/>
+<br/>
+  
+<div class="contact">
+    <div id="main">
+      <h2 class="small-title">Contact</h2>
+      <br/>
+      <div id="contact-content">blar</div>
+      <br/>
+    <div id="action-buttons" style="margin-bottom: 0">
+      <a class="button primary big" href="/web-demo/members" onclick="_gaq.push(['_trackEvent', 'kube', 'download']);">Link</a>
+    </div>
+    </div>
+</div>  
+  
+
 
 <script>
     $('.count').each(function () {
@@ -272,9 +335,6 @@
     });
 </script>
 
-<script>
-    document.getElementsByClassName("small-title").style.fontSize = "100px";
-</script>
 </main>
   <footer>   <footer id="footer">
     <nav>

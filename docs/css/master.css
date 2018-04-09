@@ -1,5 +1,8 @@
 body {
-  font-family: Lato, Arial, sans-serif; }
+  font-family: Lato, Arial, sans-serif;
+  margin-left: 5%;
+  margin-right: 5%;
+}
 
 h1.title, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: Lato, Arial, sans-serif; }
@@ -18,7 +21,6 @@ h1, h2, h3, h4, h5, h6 {
 .form-subscribe {
   text-align: center;
   border-radius: 4px;
-  border: 3px dashed rgba(0, 0, 0, 0.1);
   padding: 64px 40px;
   margin-bottom: 24px; }
   .form-subscribe h4 {
@@ -338,7 +340,8 @@ h1, h2, h3, h4, h5, h6 {
 
 #main {
   margin: auto;
-  max-width: 1128px; }
+  max-width: 1128px;
+}
 
 body.docs #main,
 body.grafs-index #main,
@@ -834,8 +837,7 @@ body.page-account #hero {
     margin-top: 0; }
   #kube-features .row:first-child {
     padding-bottom: 32px;
-    margin-bottom: 64px;
-    border-bottom: 1px dashed rgba(0, 0, 0, 0.15); }
+    margin-bottom: 64px; }
   #kube-features p {
     font-size: 15px;
     color: rgba(0, 0, 0, 0.75); }
@@ -1107,7 +1109,8 @@ tr.border-none td {
   #post-box,
   #main {
     padding-left: 20px;
-    padding-right: 20px; }
+    padding-right: 20px;
+}
   #action-buttons .button,
   #action-buttons button {
     margin: 8px 0; }
