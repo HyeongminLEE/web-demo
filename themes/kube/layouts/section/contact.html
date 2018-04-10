@@ -8,12 +8,15 @@
     height: 400px;
     width: 100%;
    }
+    #contact-info > li{
+        margin-bottom: 20px;
+    }
 </style>
 
 <div id="hero" class="wrap">
   <h1>{{.Title }}</h1>
 </div>
-<div id="kube-faq" style="max-width: 950px !important;">
+<div id="kube-faq" style="max-width: 800px !important;">
 	<h2 style="margin-bottom: 5px; font-size: 33px">Location</h2>
 	<p style="border-top: solid; border-width: 2px">
 		<div id="map"></div>
@@ -34,15 +37,30 @@
 		src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAbnTHOUfcHtRcRCU9YD3OhgjlIfcARRXs&callback=initMap">
 		</script>
 		<br/>
+      <p style="text-align: center; font-weight: bold;">Image and Video Pattern Recognition Laboratory</p>
+      <p style="text-align: center;">The 3rd Engineering Building, Yonsei University 50 Yonsei-ro, Seodaemun-Gu, Seoul 120-749, Korea</p>
 	</p>
+
 
 	<h2 style="margin-bottom: 5px; font-size: 33px">Contact</h2>
 	<p style="border-top: solid; border-width: 2px">
-		<ul>
-			<li><b>Lab Address</b>: C507, Engineering Hall 3, Yonsei University 50 Yonsei-ro, Seodaemun-gu, Seoul 120-749, Korea</li>
-			<li><b>Professor Office Address</b>: C526, Engineering Hall 3, Yonsei University 50 Yonsei-ro, Seodaemun-gu, Seoul 120-749, Korea</li>
-			<li><b>Tel</b>: +82-2-2123-7843</li>
-			<li><b>Professor E-mail</b>: syleee@yonsei.ac.kr</li>
+		<ul id="contact-info">
+            <li>
+                <div style="font-weight: 900;">To Professor</div>
+                <ul>
+                    <li><b>Office</b>: C526, The 3rd Engineering Building</li>
+                    <li><b>Tel</b>: +82-2-2123-5768</li>
+                    <li><b>E-mail</b>: <a href="mailto:syleee@yonsei.ac.kr">syleee@yonsei.ac.kr</a></li>
+                </ul>
+            </li>
+			<li>
+                <div style="font-weight: 900;">To Lab</div>
+                <ul>
+                    <li><b>Lab</b>: C507, The 3rd Engineering Building</li>
+                    <li><b>Tel</b>: +82-2-2123-7843</li>
+                    <li><b>E-mail</b>: <a href="mailto:kto@yonsei.ac.kr">kto@yonsei.ac.kr</a> (Taeoh Kim, Lab Manager)</li>
+                </ul>
+            </li>
 		</ul>
 	</p>
 </div>
