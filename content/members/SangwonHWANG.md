@@ -1,6 +1,6 @@
 +++
 title = "Sangwon Hwang"
-description = "Joint M.S/Ph.D 5th"
+description = "M.S/Ph.D 5th"
 weight = 120
 draft = false
 toc = true
