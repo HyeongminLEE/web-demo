@@ -31,7 +31,7 @@ title = "Projects"
 <h3 style="border-bottom: 2px solid; font-size: 30px;">Ongoing Projects</h3>
 
 <h5 class="paper-title">인공 신경망 모델 압축 기술 개발</h5>
-삼성전자, Mar. 2018 - Dec. 2018
+삼성전자, Apr. 2018 - Dec. 2018
 
 <h5 class="paper-title">스마트카 다중 센서와 딥러닝을 이용한 초정밀 내츄럴 3D 뷰 생성 기술 개발 (창조씨앗형 2단계), 2nd Year</h5>
 정보통신기술진흥센터(IITP), Jan. 2018 - Dec. 2018
@@ -60,7 +60,7 @@ KT, Dec. 2017 - Jun. 2018
 
 
 <br/>
-<h3 style="border-bottom: 2px solid; font-size: 30px;">Past Projects in Recent 5 Years</h3>
+<h3 style="border-bottom: 2px solid; font-size: 30px;">Finished Projects in Recent 5 Years</h3>
 
 <h5 class="paper-title">음성/제스처 개인화 인식 기법을 통한 방송미디어 디바이스 제어 및 편집 기술 (창조씨앗형 1단계)</h5>
 정보통신기술진흥센터(IITP), Apr. 2017 - Dec. 2017
