@@ -61,6 +61,7 @@
         background-color: royalblue;
         padding-top: 80px;
         padding-bottom: 80px;
+        margin-top: 650px;
     }
     .contact .small-title{
         color: white;
@@ -79,11 +80,18 @@
         text-align: center;
         font-size: 17px;
     }
-    .tg tr{
-        width: 100%;
-    }
-    .tg td{
+    .tg{
         width: 33.3333333%;
+        float: left;
+    }
+    @media all and (max-width: 768px){
+        .tg{
+            display: block;
+            width: 100%;
+        }
+        .contact{
+            margin-top: 1500px;
+        }
     }
 </style>
 
@@ -186,14 +194,16 @@
 <br/>
 <br/>
 
+
+<!--
 <div class="research-area">
     <h2 class="small-title" style="margin-bottom: 70px;">Research Area</h2>
     <div id="main">
         <table class="tg">
           <tr>
-            <th class="tg-img">img1</th>
-            <th class="tg-img">img2</th>
-            <th class="tg-img">img3</th>
+            <td class="tg-img">img1</td>
+            <td class="tg-img">img2</td>
+            <td class="tg-img">img3</td>
           </tr>
           <tr>
             <td class="tg-title">Scene Understanding</td>
@@ -208,11 +218,27 @@
         </table>
     </div>
 </div>
-
-<br/>
-<br/>
-<br/>
-<br/>
+-->
+<div class="research-area">
+    <h2 class="small-title" style="margin-bottom: 70px;">Research Area</h2>
+    <div id="main">
+        <table class="tg">
+            <tr><td class="tg-img">img1</td></tr>
+            <tr><td class="tg-title">Scene Understanding</td></tr>
+            <tr><td class="tg-content">Scene Understanding consists of detection, tracking and recognition of the general objects in various environment.<br><br>By understanding the spatiotemporal and semantic relationship in between the objects, object and scene can be modeled and reconstructed in 3D.<br><br>Based on the understanding of the scene and the object, our researches can be applied to real-time applications such as Autonomous Driving and Surveillance systems.</td></tr>
+        </table>
+        <table class="tg">
+            <tr><td class="tg-img">img1</td></tr>
+            <tr><td class="tg-title">Scene Understanding</td></tr>
+            <tr><td class="tg-content">Scene Understanding consists of detection, tracking and recognition of the general objects in various environment.<br><br>By understanding the spatiotemporal and semantic relationship in between the objects, object and scene can be modeled and reconstructed in 3D.<br><br>Based on the understanding of the scene and the object, our researches can be applied to real-time applications such as Autonomous Driving and Surveillance systems.</td></tr>
+        </table>
+        <table class="tg">
+            <tr><td class="tg-img">img1</td></tr>
+            <tr><td class="tg-title">Scene Understanding</td></tr>
+            <tr><td class="tg-content">Scene Understanding consists of detection, tracking and recognition of the general objects in various environment.<br><br>By understanding the spatiotemporal and semantic relationship in between the objects, object and scene can be modeled and reconstructed in 3D.<br><br>Based on the understanding of the scene and the object, our researches can be applied to real-time applications such as Autonomous Driving and Surveillance systems.</td></tr>
+        </table>
+    </div>
+</div>
   
 <div class="contact">
     <div id="main">
