@@ -4,7 +4,7 @@ description = "M.S 3rd"
 weight = 150
 draft = false
 toc = true
-bref = "/web-demo/members/SungjuPARK.png"
+bref = "/web-demo/members/SungjuPARK.jpg"
 +++
 
 <table>

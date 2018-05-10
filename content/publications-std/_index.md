@@ -25,6 +25,9 @@ title = "Publications"
         display: block;
         text-align: right;
         }
+    .button{
+        width: 250px;
+        }
 </style>
 
 <div id="action-buttons" style="margin-bottom: 15px; margin-top: 10px;">

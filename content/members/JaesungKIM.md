@@ -4,7 +4,7 @@ description = "Ph.D 11th"
 weight = 20
 draft = false
 toc = true
-bref = "/web-demo/members/JaesungKIM.png"
+bref = "/web-demo/members/JaesungKIM.jpg"
 +++
 
 <table>
