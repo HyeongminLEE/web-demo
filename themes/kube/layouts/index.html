@@ -61,7 +61,6 @@
         background-color: royalblue;
         padding-top: 80px;
         padding-bottom: 80px;
-        margin-top: 650px;
     }
     .contact .small-title{
         color: white;
@@ -80,17 +79,17 @@
         text-align: center;
         font-size: 17px;
     }
-    .tg{
+    .tg:nth-child(1),.tg:nth-child(2){
         width: 33.3333333%;
         float: left;
     }
+    .tg:nth-child(3){
+        width: 33.3333333%;
+    }
     @media all and (max-width: 768px){
-        .tg{
+        .tg:nth-child(1), .tg:nth-child(2), .tg:nth-child(3){
             display: block;
             width: 100%;
-        }
-        .contact{
-            margin-top: 1500px;
         }
     }
 </style>
@@ -239,6 +238,11 @@
         </table>
     </div>
 </div>
+ 
+ <br/>
+ <br/>
+ <br/>
+ <br/>
   
 <div class="contact">
     <div id="main">
