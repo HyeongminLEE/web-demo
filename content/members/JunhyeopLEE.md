@@ -11,7 +11,7 @@ bref = "/web-demo/members/JunhyeopLEE.png"
 <table>
     <tr>
        <td width="280" align="center" valign="top">
-          <img alt="Baseline" width="200px" height="240" src="/web-demo/members/JunhyeopLEE.png">
+          <img alt="Baseline" width="200px" height="240" src="/web-demo/members/JunhyeopLEE.jpg">
        </td>
        <td>
             <h4>Junhyeop Lee (이준협)</h4>

@@ -10,7 +10,7 @@ bref = "/web-demo/members/DaehyunPAK.png"
 <table>
     <tr>
        <td width="280" align="center" valign="top">
-          <img alt="Baseline" width="200px" height="240" src="/web-demo/members/DaehyunPAK.png">
+          <img alt="Baseline" width="200px" height="240" src="/web-demo/members/DaehyunPAK.jpg">
        </td>
        <td>
             <h4>Daehyun Pak (박대현)</h4>

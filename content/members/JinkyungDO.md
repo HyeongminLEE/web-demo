@@ -10,7 +10,7 @@ bref = "/web-demo/members/JinkyungDO.png"
 <table>
     <tr>
        <td width="280" align="center" valign="top">
-          <img alt="Baseline" width="200px" height="240" src="/web-demo/members/JinkyungDO.png">
+          <img alt="Baseline" width="200px" height="240" src="/web-demo/members/JinkyungDO.jpg">
        </td>
        <td>
             <h4>Jinkyung Do (도진경)</h4>
