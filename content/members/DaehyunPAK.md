@@ -28,6 +28,11 @@ bref = "/web-demo/members/DaehyunPAK.jpg"
                         <li style="margin-bottom: 5px">koasing@yonsei.ac.kr</li>
                     </ul>
                 </li>
+                <li style="font-size: 18px"><b>Web</b>
+                    <ul>
+                        <li><a href="https://daehyun-pak.github.io/">https://daehyun-pak.github.io/</a></li>
+                    </ul>
+                </li>
             </ul>
             
          </td>
