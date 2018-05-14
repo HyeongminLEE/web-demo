@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Home</title>
-    <link>https://mvp.yonsei.ac.kr/publications-int-conf/</link>
+    <link>mvp.yonsei.ac.kr/publications-int-conf/</link>
     <description>Recent content in Publications on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://mvp.yonsei.ac.kr/publications-int-conf/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="mvp.yonsei.ac.kr/publications-int-conf/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

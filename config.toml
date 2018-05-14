@@ -1,4 +1,4 @@
-baseURL = "https://mvp.yonsei.ac.kr"
+baseURL = "mvp.yonsei.ac.kr"
 languageCode = "en-us"
 title = "Home"
 theme = "kube"

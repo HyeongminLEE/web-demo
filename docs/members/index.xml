@@ -2,200 +2,200 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Members on Home</title>
-    <link>https://mvp.yonsei.ac.kr/members/</link>
+    <link>mvp.yonsei.ac.kr/members/</link>
     <description>Recent content in Members on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://mvp.yonsei.ac.kr/members/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="mvp.yonsei.ac.kr/members/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Daehyun Pak</title>
-      <link>https://mvp.yonsei.ac.kr/members/daehyunpak/</link>
+      <link>mvp.yonsei.ac.kr/members/daehyunpak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mvp.yonsei.ac.kr/members/daehyunpak/</guid>
+      <guid>mvp.yonsei.ac.kr/members/daehyunpak/</guid>
       <description>    Daehyun Pak (박대현) Research Area Realtime and On-Demand Video Streaming System-Framework Error Concealment for Realtime Streaming    E-mail  koasing@yonsei.ac.kr   Web  https://daehyun-pak.github.io/       </description>
     </item>
     
     <item>
       <title>Jaesung Kim</title>
-      <link>https://mvp.yonsei.ac.kr/members/jaesungkim/</link>
+      <link>mvp.yonsei.ac.kr/members/jaesungkim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mvp.yonsei.ac.kr/members/jaesungkim/</guid>
+      <guid>mvp.yonsei.ac.kr/members/jaesungkim/</guid>
       <description>    Jaesung Kim (김재성) Research Area 3D Hand Tracking Sign Language Recognition Vehicle Tracking   E-mail  tusltifid@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Eungyeol Song</title>
-      <link>https://mvp.yonsei.ac.kr/members/eungyeolsong/</link>
+      <link>mvp.yonsei.ac.kr/members/eungyeolsong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mvp.yonsei.ac.kr/members/eungyeolsong/</guid>
+      <guid>mvp.yonsei.ac.kr/members/eungyeolsong/</guid>
       <description>    Eungyeol Song (송응열) Research Area Object Detection 3D Reconstruction Hand Gesture Recognition Image Retargeting   E-mail  wp2001@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Changhyun Park</title>
-      <link>https://mvp.yonsei.ac.kr/members/changhyunpark/</link>
+      <link>mvp.yonsei.ac.kr/members/changhyunpark/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mvp.yonsei.ac.kr/members/changhyunpark/</guid>
+      <guid>mvp.yonsei.ac.kr/members/changhyunpark/</guid>
       <description>    Changhyun Park (박창현) Research Area Medical Image Coding Perceptual Video Coding Future Video Coding   E-mail  qkrckd2002@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Hanbyeol Bae</title>
-      <link>https://mvp.yonsei.ac.kr/members/hanbyeolbae/</link>
+      <link>mvp.yonsei.ac.kr/members/hanbyeolbae/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mvp.yonsei.ac.kr/members/hanbyeolbae/</guid>
+      <guid>mvp.yonsei.ac.kr/members/hanbyeolbae/</guid>
       <description>    Hanbyeol Bae (배한별) Research Area Face Matching/Recognition   E-mail  ygbfamily00@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Jaesung Choi</title>
-      <link>https://mvp.yonsei.ac.kr/members/jaesungchoi/</link>
+      <link>mvp.yonsei.ac.kr/members/jaesungchoi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mvp.yonsei.ac.kr/members/jaesungchoi/</guid>
+      <guid>mvp.yonsei.ac.kr/members/jaesungchoi/</guid>
       <description>    Jaesung Choi (최재성) Research Area Image Classification Object Detection Hand Pose Estimation   E-mail  ciyciyciy@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Minkyu Lee</title>
-      <link>https://mvp.yonsei.ac.kr/members/minkyulee/</link>
+      <link>mvp.yonsei.ac.kr/members/minkyulee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mvp.yonsei.ac.kr/members/minkyulee/</guid>
+      <guid>mvp.yonsei.ac.kr/members/minkyulee/</guid>
       <description>    Minkyu Lee (이민규) Research Area Facial Landmark Detection Single Object Tracking   E-mail  minkyulee@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Taejae Jeon</title>
-      <link>https://mvp.yonsei.ac.kr/members/taejaejeon/</link>
+      <link>mvp.yonsei.ac.kr/members/taejaejeon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mvp.yonsei.ac.kr/members/taejaejeon/</guid>
+      <guid>mvp.yonsei.ac.kr/members/taejaejeon/</guid>
       <description>    Taejae Jeon (전태재) Research Area Pedestrian Detection Face Emotion Recognition   E-mail  jtj7587@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Teaoh Kim</title>
-      <link>https://mvp.yonsei.ac.kr/members/taeohkim/</link>
+      <link>mvp.yonsei.ac.kr/members/taeohkim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mvp.yonsei.ac.kr/members/taeohkim/</guid>
+      <guid>mvp.yonsei.ac.kr/members/taeohkim/</guid>
       <description>    Teaoh Kim (김태오) Research Area Future Video Coding Image/Video Restoration   E-mail  kto@yonsei.ac.kr   Web  https://taeoh-kim.github.io       </description>
     </item>
     
     <item>
       <title>Junhyeop Lee</title>
-      <link>https://mvp.yonsei.ac.kr/members/junhyeoplee/</link>
+      <link>mvp.yonsei.ac.kr/members/junhyeoplee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mvp.yonsei.ac.kr/members/junhyeoplee/</guid>
+      <guid>mvp.yonsei.ac.kr/members/junhyeoplee/</guid>
       <description>    Junhyeop Lee (이준협) Research Area 3D Reconstruction Odometry Estimation for Visual/LiDAR SLAM   E-mail  jun.lee@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Hanbin Son</title>
-      <link>https://mvp.yonsei.ac.kr/members/hanbinson/</link>
+      <link>mvp.yonsei.ac.kr/members/hanbinson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mvp.yonsei.ac.kr/members/hanbinson/</guid>
+      <guid>mvp.yonsei.ac.kr/members/hanbinson/</guid>
       <description>    Hanbin Son (손한빈) Research Area Future Video Coding   E-mail  hbson@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Sangwon Hwang</title>
-      <link>https://mvp.yonsei.ac.kr/members/sangwonhwang/</link>
+      <link>mvp.yonsei.ac.kr/members/sangwonhwang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mvp.yonsei.ac.kr/members/sangwonhwang/</guid>
+      <guid>mvp.yonsei.ac.kr/members/sangwonhwang/</guid>
       <description>    Sangwon Hwang (황상원) Research Area Camera Ego-Motion Estimation   E-mail  sangwon1042@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Tae-young Chung</title>
-      <link>https://mvp.yonsei.ac.kr/members/taeyoungchung/</link>
+      <link>mvp.yonsei.ac.kr/members/taeyoungchung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mvp.yonsei.ac.kr/members/taeyoungchung/</guid>
+      <guid>mvp.yonsei.ac.kr/members/taeyoungchung/</guid>
       <description>    Tae-young Chung (정태영) Research Area Object Detection Object Segmentation   E-mail  tato0220@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Joosung Lee</title>
-      <link>https://mvp.yonsei.ac.kr/members/joosunglee/</link>
+      <link>mvp.yonsei.ac.kr/members/joosunglee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mvp.yonsei.ac.kr/members/joosunglee/</guid>
+      <guid>mvp.yonsei.ac.kr/members/joosunglee/</guid>
       <description>    Joosung Lee (이주성) Research Area Odometry Estimation for Visual SLAM   E-mail  m3155@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Sungju Park</title>
-      <link>https://mvp.yonsei.ac.kr/members/sungjupark/</link>
+      <link>mvp.yonsei.ac.kr/members/sungjupark/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mvp.yonsei.ac.kr/members/sungjupark/</guid>
+      <guid>mvp.yonsei.ac.kr/members/sungjupark/</guid>
       <description>    Sungju Park (박성주) Research Area Facial Landmark Detection   E-mail  stray77769@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Jinkyung Do</title>
-      <link>https://mvp.yonsei.ac.kr/members/jinkyungdo/</link>
+      <link>mvp.yonsei.ac.kr/members/jinkyungdo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mvp.yonsei.ac.kr/members/jinkyungdo/</guid>
+      <guid>mvp.yonsei.ac.kr/members/jinkyungdo/</guid>
       <description>    Jinkyung Do (도진경) Research Area Face Emotion Recognition   E-mail  jkdo@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Woojin Kim</title>
-      <link>https://mvp.yonsei.ac.kr/members/woojinkim/</link>
+      <link>mvp.yonsei.ac.kr/members/woojinkim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mvp.yonsei.ac.kr/members/woojinkim/</guid>
+      <guid>mvp.yonsei.ac.kr/members/woojinkim/</guid>
       <description>    Woojin Kim (김우진) Research Area Moving Object Detection   E-mail  woojinkim0207@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Hyeongmin Lee</title>
-      <link>https://mvp.yonsei.ac.kr/members/hyeongminlee/</link>
+      <link>mvp.yonsei.ac.kr/members/hyeongminlee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mvp.yonsei.ac.kr/members/hyeongminlee/</guid>
+      <guid>mvp.yonsei.ac.kr/members/hyeongminlee/</guid>
       <description>    Hyeongmin Lee (이형민) Research Area Hand Gesture Recognition Video Analysis Video Understanding   E-mail  minimonia@yonsei.ac.kr   Web  https://hyeongminlee.github.io       </description>
     </item>
     
     <item>
       <title>Yongju Lee</title>
-      <link>https://mvp.yonsei.ac.kr/members/yongjulee/</link>
+      <link>mvp.yonsei.ac.kr/members/yongjulee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mvp.yonsei.ac.kr/members/yongjulee/</guid>
+      <guid>mvp.yonsei.ac.kr/members/yongjulee/</guid>
       <description>    Yongju Lee (이용주) Research Area Face Detection Facial Landmark Detection Image Restoration   E-mail  paulyongju@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Heansung Lee</title>
-      <link>https://mvp.yonsei.ac.kr/members/heansunglee/</link>
+      <link>mvp.yonsei.ac.kr/members/heansunglee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mvp.yonsei.ac.kr/members/heansunglee/</guid>
+      <guid>mvp.yonsei.ac.kr/members/heansunglee/</guid>
       <description>    Heansung Lee (이현성) Research Area Depth Estimation Depth Enhancement Object Tracking   E-mail  hslee2860@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Myeongah Cho</title>
-      <link>https://mvp.yonsei.ac.kr/members/myeongahcho/</link>
+      <link>mvp.yonsei.ac.kr/members/myeongahcho/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mvp.yonsei.ac.kr/members/myeongahcho/</guid>
+      <guid>mvp.yonsei.ac.kr/members/myeongahcho/</guid>
       <description>    Myeongah Cho (조명아) Research Area Object Detection Object Tracking   E-mail  maycho0305@yonsei.ac.kr       </description>
     </item>
     
