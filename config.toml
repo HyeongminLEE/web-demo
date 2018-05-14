@@ -1,4 +1,4 @@
-baseURL = "https://hyeongminlee.github.io/web-demo"
+baseURL = "https://mvp.yonsei.ac.kr"
 languageCode = "en-us"
 title = "Home"
 theme = "kube"

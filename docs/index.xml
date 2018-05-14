@@ -2,286 +2,286 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to MVP LAB on Home</title>
-    <link>https://hyeongminlee.github.io/web-demo/</link>
+    <link>https://mvp.yonsei.ac.kr/</link>
     <description>Recent content in Welcome to MVP LAB on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 21:56:55 +0100</lastBuildDate>
     
-	<atom:link href="https://hyeongminlee.github.io/web-demo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mvp.yonsei.ac.kr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome to Kube</title>
-      <link>https://hyeongminlee.github.io/web-demo/blog/welcome/</link>
+      <link>https://mvp.yonsei.ac.kr/blog/welcome/</link>
       <pubDate>Thu, 02 Mar 2017 21:56:55 +0100</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/blog/welcome/</guid>
+      <guid>https://mvp.yonsei.ac.kr/blog/welcome/</guid>
       <description>Welcome to Kube – an open source documentation like theme for Hugo Hi there and welcome to kube - my two theme for the static site generator hugo. kube is open source and can be found on kube. This article is just a demo post and shows you the style of common used elements.
 Bear claw danish chocolate lollipop soufflé jelly. Apple pie chocolate cake jelly-o icing bonbon. Gingerbread pastry fruitcake muffin chocolate bar cheesecake.</description>
     </item>
     
     <item>
       <title>Daehyun Pak</title>
-      <link>https://hyeongminlee.github.io/web-demo/members/daehyunpak/</link>
+      <link>https://mvp.yonsei.ac.kr/members/daehyunpak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/members/daehyunpak/</guid>
+      <guid>https://mvp.yonsei.ac.kr/members/daehyunpak/</guid>
       <description>    Daehyun Pak (박대현) Research Area Realtime and On-Demand Video Streaming System-Framework Error Concealment for Realtime Streaming    E-mail  koasing@yonsei.ac.kr   Web  https://daehyun-pak.github.io/       </description>
     </item>
     
     <item>
       <title>Jaesung Kim</title>
-      <link>https://hyeongminlee.github.io/web-demo/members/jaesungkim/</link>
+      <link>https://mvp.yonsei.ac.kr/members/jaesungkim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/members/jaesungkim/</guid>
+      <guid>https://mvp.yonsei.ac.kr/members/jaesungkim/</guid>
       <description>    Jaesung Kim (김재성) Research Area 3D Hand Tracking Sign Language Recognition Vehicle Tracking   E-mail  tusltifid@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Typography with kube</title>
-      <link>https://hyeongminlee.github.io/web-demo/blog/typography/</link>
+      <link>https://mvp.yonsei.ac.kr/blog/typography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/blog/typography/</guid>
+      <guid>https://mvp.yonsei.ac.kr/blog/typography/</guid>
       <description>Get Started Typography of Kube based on the 4px horizontal grid, it means that for the headers, paragraphs, quotes and any other texts chosen are a combination of line-height, that fit into the 4px grid and help set the horizontal rhythm of design by default.
   4px grid for typography - the magic of the horizontal rhythm   With this feature, you can quickly and easily make a solid and harmonious-looking website and UI design.</description>
     </item>
     
     <item>
       <title>Prototyping with markdown</title>
-      <link>https://hyeongminlee.github.io/web-demo/blog/prototyping/</link>
+      <link>https://mvp.yonsei.ac.kr/blog/prototyping/</link>
       <pubDate>Sun, 02 Apr 2017 22:01:15 +0100</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/blog/prototyping/</guid>
+      <guid>https://mvp.yonsei.ac.kr/blog/prototyping/</guid>
       <description>I have been working on a large set of documentation for a prototype that will eventually make it into a product. One issue with the publishing system at my company is that it makes doing prototypes, or really anything not within the rigidly and narrowly scoped model, difficult to set up. It takes a lot of work just to get to the point where you can begin writing.
 Since time was of the essence and writing is expensive, I decided to do the prototype outside of the publishing system.</description>
     </item>
     
     <item>
       <title>Eungyeol Song</title>
-      <link>https://hyeongminlee.github.io/web-demo/members/eungyeolsong/</link>
+      <link>https://mvp.yonsei.ac.kr/members/eungyeolsong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/members/eungyeolsong/</guid>
+      <guid>https://mvp.yonsei.ac.kr/members/eungyeolsong/</guid>
       <description>    Eungyeol Song (송응열) Research Area Object Detection 3D Reconstruction Hand Gesture Recognition Image Retargeting   E-mail  wp2001@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Changhyun Park</title>
-      <link>https://hyeongminlee.github.io/web-demo/members/changhyunpark/</link>
+      <link>https://mvp.yonsei.ac.kr/members/changhyunpark/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/members/changhyunpark/</guid>
+      <guid>https://mvp.yonsei.ac.kr/members/changhyunpark/</guid>
       <description>    Changhyun Park (박창현) Research Area Medical Image Coding Perceptual Video Coding Future Video Coding   E-mail  qkrckd2002@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Hanbyeol Bae</title>
-      <link>https://hyeongminlee.github.io/web-demo/members/hanbyeolbae/</link>
+      <link>https://mvp.yonsei.ac.kr/members/hanbyeolbae/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/members/hanbyeolbae/</guid>
+      <guid>https://mvp.yonsei.ac.kr/members/hanbyeolbae/</guid>
       <description>    Hanbyeol Bae (배한별) Research Area Face Matching/Recognition   E-mail  ygbfamily00@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Jaesung Choi</title>
-      <link>https://hyeongminlee.github.io/web-demo/members/jaesungchoi/</link>
+      <link>https://mvp.yonsei.ac.kr/members/jaesungchoi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/members/jaesungchoi/</guid>
+      <guid>https://mvp.yonsei.ac.kr/members/jaesungchoi/</guid>
       <description>    Jaesung Choi (최재성) Research Area Image Classification Object Detection Hand Pose Estimation   E-mail  ciyciyciy@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Minkyu Lee</title>
-      <link>https://hyeongminlee.github.io/web-demo/members/minkyulee/</link>
+      <link>https://mvp.yonsei.ac.kr/members/minkyulee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/members/minkyulee/</guid>
+      <guid>https://mvp.yonsei.ac.kr/members/minkyulee/</guid>
       <description>    Minkyu Lee (이민규) Research Area Facial Landmark Detection Single Object Tracking   E-mail  minkyulee@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Taejae Jeon</title>
-      <link>https://hyeongminlee.github.io/web-demo/members/taejaejeon/</link>
+      <link>https://mvp.yonsei.ac.kr/members/taejaejeon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/members/taejaejeon/</guid>
+      <guid>https://mvp.yonsei.ac.kr/members/taejaejeon/</guid>
       <description>    Taejae Jeon (전태재) Research Area Pedestrian Detection Face Emotion Recognition   E-mail  jtj7587@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Messages</title>
-      <link>https://hyeongminlee.github.io/web-demo/blog/messages/</link>
+      <link>https://mvp.yonsei.ac.kr/blog/messages/</link>
       <pubDate>Mon, 10 Apr 2017 16:41:34 +0100</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/blog/messages/</guid>
+      <guid>https://mvp.yonsei.ac.kr/blog/messages/</guid>
       <description>Usage You have 2 modules waiting to installation. Install   &amp;lt;div class=&amp;ldquo;message&amp;rdquo; data-component=&amp;ldquo;message&amp;rdquo;&amp;gt; &amp;hellip; &amp;lt;span class=&amp;ldquo;close small&amp;rdquo;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;  You have 2 modules waiting to installation. Install   &amp;lt;div class=&amp;ldquo;message error&amp;rdquo; data-component=&amp;ldquo;message&amp;rdquo;&amp;gt; &amp;hellip; &amp;lt;span class=&amp;ldquo;close small&amp;rdquo;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;  You have 2 modules waiting to installation. Install   &amp;lt;div class=&amp;ldquo;message success&amp;rdquo; data-component=&amp;ldquo;message&amp;rdquo;&amp;gt; &amp;hellip; &amp;lt;span class=&amp;ldquo;close small&amp;rdquo;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;  Warning!You have 2 modules waiting to installation. Install   &amp;lt;div class=&amp;ldquo;message warning&amp;rdquo; data-component=&amp;ldquo;message&amp;rdquo;&amp;gt; &amp;lt;h5&amp;gt;&amp;hellip;&amp;lt;/h5&amp;gt; &amp;hellip; &amp;lt;span class=&amp;ldquo;close small&amp;rdquo;&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;/div&amp;gt;   You have 2 modules waiting to installation.</description>
     </item>
     
     <item>
       <title>Teaoh Kim</title>
-      <link>https://hyeongminlee.github.io/web-demo/members/taeohkim/</link>
+      <link>https://mvp.yonsei.ac.kr/members/taeohkim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/members/taeohkim/</guid>
+      <guid>https://mvp.yonsei.ac.kr/members/taeohkim/</guid>
       <description>    Teaoh Kim (김태오) Research Area Future Video Coding Image/Video Restoration   E-mail  kto@yonsei.ac.kr   Web  https://taeoh-kim.github.io       </description>
     </item>
     
     <item>
       <title>Junhyeop Lee</title>
-      <link>https://hyeongminlee.github.io/web-demo/members/junhyeoplee/</link>
+      <link>https://mvp.yonsei.ac.kr/members/junhyeoplee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/members/junhyeoplee/</guid>
+      <guid>https://mvp.yonsei.ac.kr/members/junhyeoplee/</guid>
       <description>    Junhyeop Lee (이준협) Research Area 3D Reconstruction Odometry Estimation for Visual/LiDAR SLAM   E-mail  jun.lee@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Hanbin Son</title>
-      <link>https://hyeongminlee.github.io/web-demo/members/hanbinson/</link>
+      <link>https://mvp.yonsei.ac.kr/members/hanbinson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/members/hanbinson/</guid>
+      <guid>https://mvp.yonsei.ac.kr/members/hanbinson/</guid>
       <description>    Hanbin Son (손한빈) Research Area Future Video Coding   E-mail  hbson@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Sangwon Hwang</title>
-      <link>https://hyeongminlee.github.io/web-demo/members/sangwonhwang/</link>
+      <link>https://mvp.yonsei.ac.kr/members/sangwonhwang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/members/sangwonhwang/</guid>
+      <guid>https://mvp.yonsei.ac.kr/members/sangwonhwang/</guid>
       <description>    Sangwon Hwang (황상원) Research Area Camera Ego-Motion Estimation   E-mail  sangwon1042@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Tae-young Chung</title>
-      <link>https://hyeongminlee.github.io/web-demo/members/taeyoungchung/</link>
+      <link>https://mvp.yonsei.ac.kr/members/taeyoungchung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/members/taeyoungchung/</guid>
+      <guid>https://mvp.yonsei.ac.kr/members/taeyoungchung/</guid>
       <description>    Tae-young Chung (정태영) Research Area Object Detection Object Segmentation   E-mail  tato0220@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Joosung Lee</title>
-      <link>https://hyeongminlee.github.io/web-demo/members/joosunglee/</link>
+      <link>https://mvp.yonsei.ac.kr/members/joosunglee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/members/joosunglee/</guid>
+      <guid>https://mvp.yonsei.ac.kr/members/joosunglee/</guid>
       <description>    Joosung Lee (이주성) Research Area Odometry Estimation for Visual SLAM   E-mail  m3155@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Sungju Park</title>
-      <link>https://hyeongminlee.github.io/web-demo/members/sungjupark/</link>
+      <link>https://mvp.yonsei.ac.kr/members/sungjupark/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/members/sungjupark/</guid>
+      <guid>https://mvp.yonsei.ac.kr/members/sungjupark/</guid>
       <description>    Sungju Park (박성주) Research Area Facial Landmark Detection   E-mail  stray77769@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Jinkyung Do</title>
-      <link>https://hyeongminlee.github.io/web-demo/members/jinkyungdo/</link>
+      <link>https://mvp.yonsei.ac.kr/members/jinkyungdo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/members/jinkyungdo/</guid>
+      <guid>https://mvp.yonsei.ac.kr/members/jinkyungdo/</guid>
       <description>    Jinkyung Do (도진경) Research Area Face Emotion Recognition   E-mail  jkdo@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Woojin Kim</title>
-      <link>https://hyeongminlee.github.io/web-demo/members/woojinkim/</link>
+      <link>https://mvp.yonsei.ac.kr/members/woojinkim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/members/woojinkim/</guid>
+      <guid>https://mvp.yonsei.ac.kr/members/woojinkim/</guid>
       <description>    Woojin Kim (김우진) Research Area Moving Object Detection   E-mail  woojinkim0207@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Collapse</title>
-      <link>https://hyeongminlee.github.io/web-demo/blog/collapse/</link>
+      <link>https://mvp.yonsei.ac.kr/blog/collapse/</link>
       <pubDate>Mon, 10 Apr 2017 16:42:50 +0100</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/blog/collapse/</guid>
+      <guid>https://mvp.yonsei.ac.kr/blog/collapse/</guid>
       <description>Base Item 1 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Hyeongmin Lee</title>
-      <link>https://hyeongminlee.github.io/web-demo/members/hyeongminlee/</link>
+      <link>https://mvp.yonsei.ac.kr/members/hyeongminlee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/members/hyeongminlee/</guid>
+      <guid>https://mvp.yonsei.ac.kr/members/hyeongminlee/</guid>
       <description>    Hyeongmin Lee (이형민) Research Area Hand Gesture Recognition Video Analysis Video Understanding   E-mail  minimonia@yonsei.ac.kr   Web  https://hyeongminlee.github.io       </description>
     </item>
     
     <item>
       <title>Yongju Lee</title>
-      <link>https://hyeongminlee.github.io/web-demo/members/yongjulee/</link>
+      <link>https://mvp.yonsei.ac.kr/members/yongjulee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/members/yongjulee/</guid>
+      <guid>https://mvp.yonsei.ac.kr/members/yongjulee/</guid>
       <description>    Yongju Lee (이용주) Research Area Face Detection Facial Landmark Detection Image Restoration   E-mail  paulyongju@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Heansung Lee</title>
-      <link>https://hyeongminlee.github.io/web-demo/members/heansunglee/</link>
+      <link>https://mvp.yonsei.ac.kr/members/heansunglee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/members/heansunglee/</guid>
+      <guid>https://mvp.yonsei.ac.kr/members/heansunglee/</guid>
       <description>    Heansung Lee (이현성) Research Area Depth Estimation Depth Enhancement Object Tracking   E-mail  hslee2860@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Myeongah Cho</title>
-      <link>https://hyeongminlee.github.io/web-demo/members/myeongahcho/</link>
+      <link>https://mvp.yonsei.ac.kr/members/myeongahcho/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/members/myeongahcho/</guid>
+      <guid>https://mvp.yonsei.ac.kr/members/myeongahcho/</guid>
       <description>    Myeongah Cho (조명아) Research Area Object Detection Object Tracking   E-mail  maycho0305@yonsei.ac.kr       </description>
     </item>
     
     <item>
       <title>Inline 🐣Text Styles</title>
-      <link>https://hyeongminlee.github.io/web-demo/blog/inline-style/</link>
+      <link>https://mvp.yonsei.ac.kr/blog/inline-style/</link>
       <pubDate>Sun, 02 Apr 2017 21:56:55 +0100</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/blog/inline-style/</guid>
+      <guid>https://mvp.yonsei.ac.kr/blog/inline-style/</guid>
       <description>Chocolate tiramisu pastry a link cotton candy sesame snaps. Dessert cake chocolate bar a bold part sugar plum bonbon marshmallow lollipop toffee soufflé. Donut caramels chocolate bar. Oat cake cookie a marked part cheesecake donut. Jelly-o  $code marzipan cake. Bonbon sesame snaps chocolate an italic part oat cake pudding sweet roll caramels bonbon. Soufflé muffin 👻 gummies sugar plum dessert bonbon bear claw. Sweet ice cream jujubes. Marzipan sugar plum pastry chocolate ⌘+A bar fruitcake.</description>
     </item>
     
     <item>
       <title>Company</title>
-      <link>https://hyeongminlee.github.io/web-demo/company/</link>
+      <link>https://mvp.yonsei.ac.kr/company/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/company/</guid>
+      <guid>https://mvp.yonsei.ac.kr/company/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Password Recovery</title>
-      <link>https://hyeongminlee.github.io/web-demo/password-recovery/</link>
+      <link>https://mvp.yonsei.ac.kr/password-recovery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/password-recovery/</guid>
+      <guid>https://mvp.yonsei.ac.kr/password-recovery/</guid>
       <description>Your email    Send Back to Log In
  </description>
     </item>
     
     <item>
       <title>Sign In</title>
-      <link>https://hyeongminlee.github.io/web-demo/account/</link>
+      <link>https://mvp.yonsei.ac.kr/account/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hyeongminlee.github.io/web-demo/account/</guid>
+      <guid>https://mvp.yonsei.ac.kr/account/</guid>
       <description>Email   Password   Log in
 Forgot password?
 If you have any questions about authorization or you&#39;re our customer but haven&#39;t receive your login credentials, just send us a short email at support@company.com and we&#39;ll fix it right away.

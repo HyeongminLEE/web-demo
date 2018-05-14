@@ -49,6 +49,10 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2018 ~ Present</h3>
 
+<h5 class="paper-title">CollaboNet: Collaboration of Generative Models by Unsupervised Classification</h5>
+<div class="paper-author">Hyeongmin Lee, Taeoh Kim, Eungyeol Song, Sangyoun Lee</div>
+*IEEE International Conference on Image Processing (ICIP 2018)*, Oct. 2018
+
 <h5 class="paper-title">Adaptive In-Loop Filtering for Ringing Artifact Reduction using Noise Level Prediction in HEVC</h5>
 <div class="paper-author">Hanbin Son, Changhyun Park, Taeoh Kim, Sangyoun Lee</div>
 *International Conference on Electronics, Information and Communication (ICEIC 2018)*, Jan. 2018
