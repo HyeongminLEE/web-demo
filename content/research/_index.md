@@ -46,27 +46,27 @@ title = "Research Area"
 
 </br>
 <div class="small-title">Visual SLAM</div>
-<img alt="Baseline" width="" height="" src="/web-demo/img_research/Visual SLAM.jpg">
+<img alt="Baseline" width="" height="" src="/img_research/Visual SLAM.jpg">
 
 </br>
 <div class="small-title">Visual-based Odometry Estimation</div>
-<img alt="Baseline" width="" height="" src="/web-demo/img_research/Visual-based Odometry Estimation.jpg">
+<img alt="Baseline" width="" height="" src="/img_research/Visual-based Odometry Estimation.jpg">
 
 </br>
 <div class="small-title">Object Detection</div>
-<img alt="Baseline" width="" height="" src="/web-demo/img_research/Object Detection.jpg">
+<img alt="Baseline" width="" height="" src="/img_research/Object Detection.jpg">
 
 </br>
 <div class="small-title">Object Segmentation</div>
-<img alt="Baseline" width="" height="" src="/web-demo/img_research/Object Segmentation.jpg">
+<img alt="Baseline" width="" height="" src="/img_research/Object Segmentation.jpg">
 
 </br>
 <div class="small-title">Moving Object Detection</div>
-<img alt="Baseline" width="" height="" src="/web-demo/img_research/Moving Object Detection.jpg">
+<img alt="Baseline" width="" height="" src="/img_research/Moving Object Detection.jpg">
 
 </br>
 <div class="small-title">Single Object Tracking</div>
-<img alt="Baseline" width="" height="" src="/web-demo/img_research/Single Object Tracking.jpg">
+<img alt="Baseline" width="" height="" src="/img_research/Single Object Tracking.jpg">
 <a href="#top-of-page" id="teleport">[top]</a>
 
 </br>
@@ -77,39 +77,39 @@ title = "Research Area"
 
 </br>
 <div class="small-title">Facial Landmark Detection</div>
-<img alt="Baseline" width="" height="" src="/web-demo/img_research/Facial Landmark Detection.jpg">
+<img alt="Baseline" width="" height="" src="/img_research/Facial Landmark Detection.jpg">
 
 </br>
 <div class="small-title">Facial Pose Estimation</div>
-<img alt="Baseline" width="" height="" src="/web-demo/img_research/Facial Pose Estimation.jpg">
+<img alt="Baseline" width="" height="" src="/img_research/Facial Pose Estimation.jpg">
 
 </br>
 <div class="small-title">Heterogeneous Face Recognition</div>
-<img alt="Baseline" width="" height="" src="/web-demo/img_research/Heterogeneous Face Recognition.jpg">
+<img alt="Baseline" width="" height="" src="/img_research/Heterogeneous Face Recognition.jpg">
 
 </br>
 <div class="small-title">3D Face Reconstruction</div>
-<img alt="Baseline" width="" height="" src="/web-demo/img_research/3D Face Reconstruction.jpg">
+<img alt="Baseline" width="" height="" src="/img_research/3D Face Reconstruction.jpg">
 
 </br>
 <div class="small-title">Finger Pointing Estimation</div>
-<img alt="Baseline" width="" height="" src="/web-demo/img_research/Finger Pointing Estimation.jpg">
+<img alt="Baseline" width="" height="" src="/img_research/Finger Pointing Estimation.jpg">
 
 </br>
 <div class="small-title">Hand Pose Estimation</div>
-<img alt="Baseline" width="" height="" src="/web-demo/img_research/Hand Pose Estimation.jpg">
+<img alt="Baseline" width="" height="" src="/img_research/Hand Pose Estimation.jpg">
 
 </br>
 <div class="small-title">Thermal-based Hand Tracking</div>
-<img alt="Baseline" width="" height="" src="/web-demo/img_research/Thermal-based Hand Tracking.jpg">
+<img alt="Baseline" width="" height="" src="/img_research/Thermal-based Hand Tracking.jpg">
 
 </br>
 <div class="small-title">Depth-based Multiple Hand Tracking</div>
-<img alt="Baseline" width="" height="" src="/web-demo/img_research/Depth-based Multiple Hand Tracking.jpg">
+<img alt="Baseline" width="" height="" src="/img_research/Depth-based Multiple Hand Tracking.jpg">
 
 </br>
 <div class="small-title">Human Pose Estimation</div>
-<img alt="Baseline" width="" height="" src="/web-demo/img_research/Human Pose Estimation.jpg">
+<img alt="Baseline" width="" height="" src="/img_research/Human Pose Estimation.jpg">
 <a href="#top-of-page" id="teleport">[top]</a>
 
 </br>
@@ -120,29 +120,29 @@ title = "Research Area"
 
 </br>
 <div class="small-title">Depth Image Enhancement</div>
-<img alt="Baseline" width="" height="" src="/web-demo/img_research/Depth Image Enhancement.jpg">
+<img alt="Baseline" width="" height="" src="/img_research/Depth Image Enhancement.jpg">
 
 </br>
 <div class="small-title">Thermal Image Enhancement</div>
-<img alt="Baseline" width="" height="" src="/web-demo/img_research/Thermal Image Enhancement.jpg">
+<img alt="Baseline" width="" height="" src="/img_research/Thermal Image Enhancement.jpg">
 
 </br>
 <div class="small-title">Image to Image Translation</div>
-<img alt="Baseline" width="" height="" src="/web-demo/img_research/Image to Image Translation.jpg">
+<img alt="Baseline" width="" height="" src="/img_research/Image to Image Translation.jpg">
 
 </br>
 <div class="small-title">Perceptual Noise Level Prediction</div>
-<img alt="Baseline" width="" height="" src="/web-demo/img_research/Perceptual Noise Level Prediction.jpg">
+<img alt="Baseline" width="" height="" src="/img_research/Perceptual Noise Level Prediction.jpg">
 
 </br>
 <div class="small-title">Perceptual Noise Preserving</div>
-<img alt="Baseline" width="" height="" src="/web-demo/img_research/Perceptual Noise Preserving.jpg">
+<img alt="Baseline" width="" height="" src="/img_research/Perceptual Noise Preserving.jpg">
 
 </br>
 <div class="small-title">Quality-Aware Video Coding</div>
-<img alt="Baseline" width="" height="" src="/web-demo/img_research/Quality-Aware Video Coding.jpg">
+<img alt="Baseline" width="" height="" src="/img_research/Quality-Aware Video Coding.jpg">
 
 </br>
 <div class="small-title">Video Streaming Error Concealment</div>
-<img alt="Baseline" width="" height="" src="/web-demo/img_research/Video Streaming Error Concealment.jpg">
+<img alt="Baseline" width="" height="" src="/img_research/Video Streaming Error Concealment.jpg">
 <a href="#top-of-page" id="teleport">[top]</a>

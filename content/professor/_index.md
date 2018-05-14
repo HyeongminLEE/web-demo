@@ -7,7 +7,7 @@ description = "Professor"
 <table>
     <tr>
        <td width="280" align="center" valign="top">
-          <img alt="Baseline" width="200px" height="240" src="/web-demo/members/SangyounLEE.png">
+          <img alt="Baseline" width="200px" height="240" src="/members/SangyounLEE.png">
        </td>
        <td>
             <h4>Sangyoun Lee (이상윤)</h4>
