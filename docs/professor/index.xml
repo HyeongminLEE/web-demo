@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sangyoun Lee on Home</title>
-    <link>mvp.yonsei.ac.kr/professor/</link>
+    <link>http://mvp.yonsei.ac.kr/professor/</link>
     <description>Recent content in Sangyoun Lee on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="mvp.yonsei.ac.kr/professor/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mvp.yonsei.ac.kr/professor/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
