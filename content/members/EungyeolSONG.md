@@ -4,13 +4,13 @@ description = "Ph.D 11th"
 weight = 30
 draft = false
 toc = true
-bref = "/web-demo/members/EungyeolSONG.jpg"
+bref = "/members/EungyeolSONG.jpg"
 +++
 
 <table>
     <tr>
        <td width="280" align="center" valign="top">
-          <img alt="Baseline" width="200px" height="240" src="/web-demo/members/EungyeolSONG.jpg">
+          <img alt="Baseline" width="200px" height="240" src="/members/EungyeolSONG.jpg">
        </td>
        <td>
             <h4>Eungyeol Song (송응열)</h4>

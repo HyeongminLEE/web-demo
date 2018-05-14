@@ -4,12 +4,12 @@ description = "M.S/Ph.D 1st"
 weight = 180
 draft = false
 toc = true
-bref = "/web-demo/members/HyeongminLEE.jpg"
+bref = "/members/HyeongminLEE.jpg"
 +++
 <table>
     <tr>
        <td width="280" align="center" valign="top">
-          <img alt="Baseline" width="200px" height="240" src="/web-demo/members/HyeongminLEE.jpg">
+          <img alt="Baseline" width="200px" height="240" src="/members/HyeongminLEE.jpg">
        </td>
        <td>
             <h4>Hyeongmin Lee (이형민)</h4>

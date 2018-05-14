@@ -4,13 +4,13 @@ description = "M.S 3rd"
 weight = 160
 draft = false
 toc = true
-bref = "/web-demo/members/JinkyungDO.jpg"
+bref = "/members/JinkyungDO.jpg"
 +++
 
 <table>
     <tr>
        <td width="280" align="center" valign="top">
-          <img alt="Baseline" width="200px" height="240" src="/web-demo/members/JinkyungDO.jpg">
+          <img alt="Baseline" width="200px" height="240" src="/members/JinkyungDO.jpg">
        </td>
        <td>
             <h4>Jinkyung Do (도진경)</h4>
