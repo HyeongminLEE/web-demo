@@ -1,2 +1,2 @@
-start /max http://localhost:1313/web-demo
+start /max http://localhost:52320/
 hugo server
