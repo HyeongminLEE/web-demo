@@ -16,7 +16,7 @@ bref = "/members/HyeongminLEE.jpg"
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
-                        <li style="margin-bottom: 5px">Video Analysis</li>
+                        <li style="margin-bottom: 5px">Video Processing</li>
                         <li style="margin-bottom: 5px">Video Understanding</li>
                     </ul>
                 </li>
