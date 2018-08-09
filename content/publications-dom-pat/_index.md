@@ -48,6 +48,9 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">출원</h3>
 
+<h5 class="paper-title">학습을 이용한 얼굴 특징점 검출 방법 및 장치</h5>
+10-2018-0049414, Apr. 2018
+
 <h5 class="paper-title">인코딩, 디코딩 방법 및 장치</h5>
 10-2018-0018803, Feb. 2018
 
