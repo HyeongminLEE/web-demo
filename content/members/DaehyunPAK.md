@@ -1,6 +1,6 @@
 +++
 title = "Daehyun Pak"
-description = "M.S/Ph.D 19th"
+description = "M.S/Ph.D 20th"
 weight = 10
 draft = false
 toc = true

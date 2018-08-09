@@ -30,6 +30,12 @@ title = "Projects"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">Ongoing Projects</h3>
 
+<h5 class="paper-title">상대방의 감성을 추론, 판단하여 그에 맞추어 대화하고 대응할 수 있는 감성지능 기술 연구개발 (3차년도)</h5>
+정보통신기술진흥센터, Jul. 2018 - Apr. 2019
+
+<h5 class="paper-title">초고속영상 기반의 지능형 디지털콘텐츠 플랫폼 기술연구 및 인력양성 (1차년도)</h5>
+정보통신기술진흥센터, Jun. 2018 - Feb. 2019
+
 <h5 class="paper-title">인공 신경망 모델 압축 기술 개발</h5>
 삼성전자, Apr. 2018 - Dec. 2018
 
@@ -45,13 +51,6 @@ Microsoft, Dec. 2016 - Dec. 2018
 <h5 class="paper-title">6-DOF 가상현실 비디오 변환 솔루션</h5>
 KT, Dec. 2017 - Jun. 2018
 
-<h5 class="paper-title">상대방의 감성을 추론, 판단하여 그에 맞추어 대화하고 대응할 수 있는 감성지능 기술 연구개발, 2nd Year</h5>
-정보통신기술진흥센터(IITP), Sep. 2017 - Jun. 2018
-
-<h5 class="paper-title">SFM 적용한 Face-Anti Spoofing 연구, 2nd Year</h5>
-한국스마트인증, Jun. 2017 - May. 2018
-
-
 <a href="#top-of-page" id="teleport">[top]</a>
 
 
@@ -61,6 +60,12 @@ KT, Dec. 2017 - Jun. 2018
 
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">Finished Projects in Recent 5 Years</h3>
+
+<h5 class="paper-title">상대방의 감성을 추론, 판단하여 그에 맞추어 대화하고 대응할 수 있는 감성지능 기술 연구개발, 2nd Year</h5>
+정보통신기술진흥센터(IITP), Sep. 2017 - Jun. 2018
+
+<h5 class="paper-title">SFM 적용한 Face-Anti Spoofing 연구, 2nd Year</h5>
+한국스마트인증, Jun. 2017 - May. 2018
 
 <h5 class="paper-title">음성/제스처 개인화 인식 기법을 통한 방송미디어 디바이스 제어 및 편집 기술 (창조씨앗형 1단계)</h5>
 정보통신기술진흥센터(IITP), Apr. 2017 - Dec. 2017

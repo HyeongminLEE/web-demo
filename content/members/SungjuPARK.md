@@ -1,6 +1,6 @@
 +++
 title = "Sungju Park"
-description = "M.S 3rd"
+description = "M.S 4th"
 weight = 150
 draft = false
 toc = true

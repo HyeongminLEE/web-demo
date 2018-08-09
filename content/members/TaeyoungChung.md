@@ -1,6 +1,6 @@
 +++
 title = "Tae-young Chung"
-description = "M.S/Ph.D 5th"
+description = "M.S/Ph.D 6th"
 weight = 130
 draft = false
 toc = true
@@ -19,6 +19,7 @@ bref = "/members/TaeyoungCHUNG.jpg"
                     <ul class="interest">
                         <li style="margin-bottom: 5px">Object Detection</li>
                         <li style="margin-bottom: 5px">Object Segmentation</li>
+                        <li style="margin-bottom: 5px">Self-Supervised Learning</li>
                     </ul>
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>
