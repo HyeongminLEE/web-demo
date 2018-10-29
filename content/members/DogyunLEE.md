@@ -1,5 +1,5 @@
 +++
-title = "Dokyun Lee"
+title = "Dogyoon Lee"
 description = "Undergraduate Intern"
 weight = 230
 draft = false
@@ -13,7 +13,7 @@ bref = "/members/DogyunLEE.jpg"
           <img alt="Baseline" width="200px" height="240" src="/members/DogyunLEE.jpg">
        </td>
        <td>
-            <h4>Dokyun Lee (이도균)</h4>
+            <h4>Dogyoon Lee (이도균)</h4>
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
