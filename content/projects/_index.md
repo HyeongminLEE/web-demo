@@ -30,6 +30,9 @@ title = "Projects"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">Ongoing Projects</h3>
 
+<h5 class="paper-title">이종 CCTV 영상에서의 딥러닝 기반 실종자 초동 신원확인 및 추적시스템 (1단계)(1차년도)</h5>
+한국연구재단, Oct. 2018 - Apr. 2019
+
 <h5 class="paper-title">상대방의 감성을 추론, 판단하여 그에 맞추어 대화하고 대응할 수 있는 감성지능 기술 연구개발 (3차년도)</h5>
 정보통신기술진흥센터, Jul. 2018 - Apr. 2019
 

@@ -131,6 +131,8 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">등록</h3>
 
+<h5 class="paper-title">학습을 이용한 얼굴 인식 장치 및 방법</h5>
+10-1877683, Jul. 2018
 
 <h5 class="paper-title">적응형 랜덤 포레스트와 피드백 모듈을 이용하여 얼굴 표정을 인식하기 위한 장치 및 그 방법</h5>
 10-1784418, Sep. 2017
