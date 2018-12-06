@@ -57,11 +57,11 @@ title = "Publications"
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2019</h3>
 
 <h5 class="paper-title">Moving Object Detection via Foreground and Background Segmentation</h5>
-<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/woojinkim/" class="author">Woojin Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/sangwonhwang/" class="author">Sangwon Hwang</a>, <a href="http://mvp.yonsei.ac.kr/members/junhyeoplee/" class="author">Junhyeop Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/jaesungchoi/" class="author">Jaesung Choi</a>,<a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/woojinkim/" class="author">Woojin Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/sangwonhwang/" class="author">Sangwon Hwang</a>, <a href="http://mvp.yonsei.ac.kr/members/junhyeoplee/" class="author">Junhyeop Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/jaesungchoi/" class="author">Jaesung Choi</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *International Conference on Electronics, Information and Communication (ICEIC 2019)*, Jan. 2019
 
 <h5 class="paper-title">Face Recognition using Ensemble of CNNs</h5>
-<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/hanbyeolbae/" class="author">Hanbyeol Bae</a>, <a href="http://mvp.yonsei.ac.kr/members/yongjulee/" class="author">Yongju Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/taejaejeon/" class="author">Taejae Jeon</a>,<a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/hanbyeolbae/" class="author">Hanbyeol Bae</a>, <a href="http://mvp.yonsei.ac.kr/members/yongjulee/" class="author">Yongju Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/taejaejeon/" class="author">Taejae Jeon</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *International Conference on Electronics, Information and Communication (ICEIC 2019)*, Jan. 2019
 
 <br/>
