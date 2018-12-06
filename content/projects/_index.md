@@ -51,9 +51,6 @@ Microsoft, Dec. 2016 - Dec. 2018
 <h5 class="paper-title">계층적 휴먼 비강체 특징점 검출 기술 연구, 3rd Year</h5>
 한국연구재단, Nov. 2017 - Oct. 2018
 
-<h5 class="paper-title">6-DOF 가상현실 비디오 변환 솔루션</h5>
-KT, Dec. 2017 - Jun. 2018
-
 <a href="#top-of-page" id="teleport">[top]</a>
 
 
@@ -63,6 +60,9 @@ KT, Dec. 2017 - Jun. 2018
 
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">Finished Projects in Recent 5 Years</h3>
+
+<h5 class="paper-title">6-DOF 가상현실 비디오 변환 솔루션</h5>
+KT, Dec. 2017 - Jun. 2018
 
 <h5 class="paper-title">상대방의 감성을 추론, 판단하여 그에 맞추어 대화하고 대응할 수 있는 감성지능 기술 연구개발, 2nd Year</h5>
 정보통신기술진흥센터(IITP), Sep. 2017 - Jun. 2018
