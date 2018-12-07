@@ -64,6 +64,10 @@ title = "Publications"
 <div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/hanbyeolbae/" class="author">Hanbyeol Bae</a>, <a href="http://mvp.yonsei.ac.kr/members/yongjulee/" class="author">Yongju Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/taejaejeon/" class="author">Taejae Jeon</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *International Conference on Electronics, Information and Communication (ICEIC 2019)*, Jan. 2019
 
+<h5 class="paper-title">Simple Calibration Method between RGBD Camera and Omnidirectional Camera</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/minkyulee/" class="author">Minkyu Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/jaesungchoi/" class="author">Jaesung Choi</a>, <a href="http://mvp.yonsei.ac.kr/members/woojinkim/" class="author">Woojin Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/yongjulee/" class="author">Yongju Lee</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*International Conference on Electronics, Information and Communication (ICEIC 2019)*, Jan. 2019
+
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2018</h3>
 
