@@ -56,6 +56,10 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2018</h3>
 
+<h5 class="paper-title">Sampling Operator to Learn the Scalable Correlation Filter for Visual Tracking</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/minkyulee/" class="author">Minkyu Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/taeohkim/" class="author">Taeoh Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/eungyeolsong/" class="author">Eungyeol Song</a>, Yuseok Ban, and <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE Access*, Jan. 2019, Accepted
+
 <h5 class="paper-title">CarvingNet: Content-Guided Seam Carving using Deep Convolution Neural Network</h5>
 <div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/eungyeolsong/" class="author">Eungyeol Song</a>, <a href="http://mvp.yonsei.ac.kr/members/minkyulee/" class="author">Minkyu Lee</a>, and <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *IEEE Access*, Dec. 2018
