@@ -1,6 +1,6 @@
 +++
 title = "Changhyun Park"
-description = "M.S/Ph.D 14th"
+description = "M.S/Ph.D 15th"
 weight = 40
 draft = false
 toc = true

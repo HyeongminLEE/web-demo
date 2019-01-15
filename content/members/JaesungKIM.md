@@ -1,7 +1,7 @@
 +++
 title = "Jaesung Kim"
-description = "Ph.D 12th"
-weight = 20
+description = "Ph.D 9th"
+weight = 49
 draft = false
 toc = true
 bref = "/members/JaesungKIM.jpg"

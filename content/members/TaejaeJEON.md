@@ -1,6 +1,6 @@
 +++
 title = "Taejae Jeon"
-description = "M.S/Ph.D 10th"
+description = "M.S/Ph.D 11th"
 weight = 80
 draft = false
 toc = true
@@ -18,7 +18,7 @@ bref = "/members/TaejaeJEON.jpg"
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
                         <li style="margin-bottom: 5px">Pedestrian Detection</li>
-                        <li style="margin-bottom: 5px">Face Emotion Recognition</li>
+                        <li style="margin-bottom: 5px">Stress Recognition</li>
                     </ul>
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>
