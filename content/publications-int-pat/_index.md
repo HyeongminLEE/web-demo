@@ -48,6 +48,12 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">Application</h3>
 
+<h5 class="paper-title">학습을 이용한 얼굴 인식 장치 및 방법</h5>
+PCT/KR2018/006818, *WIPO Patent*, Jun. 2018
+
+<h5 class="paper-title">학습을 이용한 얼굴 특징점 검출 방법 및 장치</h5>
+PCT/KR2018/006079, *WIPO Patent*, May. 2018
+
 <h5 class="paper-title">Apparatus and method for detecting moving object</h5>
 PCT/KR2017/014775, *WIPO Patent*, Dec. 2017
 
