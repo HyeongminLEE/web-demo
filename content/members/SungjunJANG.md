@@ -22,7 +22,7 @@ bref = "/members/SungjunJANG.jpg"
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>
                     <ul>
-                        <li style="margin-bottom: 5px">jeu2250@gmail.com</li>
+                        <li style="margin-bottom: 5px">jeu2250@yonsei.ac.kr</li>
                     </ul>
                 </li>
             </ul>
