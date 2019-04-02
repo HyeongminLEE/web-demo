@@ -56,6 +56,10 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2019</h3>
 
+<h5 class="paper-title">NIR-to-VIS Face Recognition via Embedding Relations and Coordinates of the Pairwise Features</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/myeongahcho/" class="author">Myeong Ah Cho</a>, <a href="http://mvp.yonsei.ac.kr/members/taeyoungchung/" class="author">Tae-young Chung</a>, <a href="http://mvp.yonsei.ac.kr/members/taeohkim/" class="author">Taeoh Kim</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IAPR International Conference on Biometrics (ICB 2019)*, Jun. 2019
+
 <h5 class="paper-title">Moving Object Detection via Foreground and Background Segmentation</h5>
 <div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/woojinkim/" class="author">Woojin Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/sangwonhwang/" class="author">Sangwon Hwang</a>, <a href="http://mvp.yonsei.ac.kr/members/junhyeoplee/" class="author">Junhyeop Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/jaesungchoi/" class="author">Jaesung Choi</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *International Conference on Electronics, Information and Communication (ICEIC 2019)*, Jan. 2019

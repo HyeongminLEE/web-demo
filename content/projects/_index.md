@@ -30,6 +30,15 @@ title = "Projects"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">Ongoing Projects</h3>
 
+<h5 class="paper-title">지능형 CCTV를 위한 보행자 재식별, 얼굴인식, 이상행동 검출 기술 개발에 관한 연구</h5>
+한화테크윈, Mar. 2019 - Jan. 2020
+
+<h5 class="paper-title">초고속영상 기반의 지능형 디지털콘텐츠 플랫폼 기술연구 및 인력양성 (2차년도)</h5>
+정보통신기술진흥센터, Mar. 2019 - Dec. 2019
+
+<h5 class="paper-title">비젼 알고리즘 기반 강아지 비문인식에 대한 연구 (1차년도)</h5>
+호윤, Nov. 2018 - Feb. 2019
+
 <h5 class="paper-title">스마트카 다중 센서와 딥러닝을 이용한 초정밀 내츄럴 3D 뷰 생성 기술 개발 (창조씨앗형 2단계)(3차년도)</h5>
 정보통신기술진흥센터, Jan. 2019 - Dec. 2019
 
@@ -38,9 +47,6 @@ title = "Projects"
 
 <h5 class="paper-title">상대방의 감성을 추론, 판단하여 그에 맞추어 대화하고 대응할 수 있는 감성지능 기술 연구개발 (3차년도)</h5>
 정보통신기술진흥센터, Jul. 2018 - Apr. 2019
-
-<h5 class="paper-title">초고속영상 기반의 지능형 디지털콘텐츠 플랫폼 기술연구 및 인력양성 (1차년도)</h5>
-정보통신기술진흥센터, Jun. 2018 - Feb. 2019
 
 <a href="#top-of-page" id="teleport">[top]</a>
 
@@ -51,6 +57,9 @@ title = "Projects"
 
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">Finished Projects in Recent 5 Years</h3>
+
+<h5 class="paper-title">초고속영상 기반의 지능형 디지털콘텐츠 플랫폼 기술연구 및 인력양성 (1차년도)</h5>
+정보통신기술진흥센터, Jun. 2018 - Feb. 2019
 
 <h5 class="paper-title">인공 신경망 모델 압축 기술 개발</h5>
 삼성전자, Apr. 2018 - Dec. 2018
@@ -168,18 +177,6 @@ Microsoft, Apr. 2014 - Apr. 2015
 
 <h5 class="paper-title">멀티 스펙트럼 3D 데이터 기반 정밀 휴먼 검출/추적/인식 기술 연구, 3rd Year</h5>
 한국연구재단, May. 2013 - Apr. 2014
-
-<h5 class="paper-title">2D 영상 기반 국소 얼굴 특징점 추출 기술 개발</h5>
-LG전자, Apr. 2013 - Nov. 2013
-
-<h5 class="paper-title">차세대 멀티미디어 부호화 연구, 2nd Year</h5>
-삼성전자, Feb. 2013 - Feb. 2014
-
-<h5 class="paper-title">객체 검출, 추적 및 인식을 위한 영상처리 기술 개발</h5>
-지식경제부, Jan. 2013 - Mar. 2013
-
-<h5 class="paper-title">차세대 디지털 TV방송시스템(실감형/모바일/양방향)핵심기술 개발, 4th Year</h5>
-정보통신기술진흥센터(IITP), Jan. 2013 - Dec. 2013
 
 
 
