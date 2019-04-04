@@ -17,8 +17,9 @@ bref = "/members/TaeohKIM.jpg"
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
-                        <li style="margin-bottom: 5px">Future Video Coding</li>
                         <li style="margin-bottom: 5px">Image/Video Restoration</li>
+                        <li style="margin-bottom: 5px">Object Detection/Tracking</li>
+                        <li style="margin-bottom: 5px">Model Compression</li>
                     </ul>
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>
