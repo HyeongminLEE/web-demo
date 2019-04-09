@@ -18,6 +18,7 @@ bref = "/members/HyeongminLEE.jpg"
                     <ul class="interest">
                         <li style="margin-bottom: 5px">Video Prediction</li>
                         <li style="margin-bottom: 5px">Video Understanding</li>
+                        <li style="margin-bottom: 5px">Image/Video Restoration</li>
                     </ul>
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>
