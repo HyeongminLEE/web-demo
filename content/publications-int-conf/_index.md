@@ -56,6 +56,22 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2019</h3>
 
+<h5 class="paper-title">SF-CNN: A Fast Compresssion Artifacts Removal via Spatial-to-Frequency Convolutional Neural Networks</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/taeohkim/" class="author">Taeoh Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/hyeongminlee/" class="author">Hyeongmin Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/hanbinson/" class="author">Hanbin Son</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE International Conference on Image Processing (ICIP 2019)*, Sep. 2019
+
+<h5 class="paper-title">N-RPN: Hard Example Learning for Region Proposal Networks</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/myeongahcho/" class="author">Myeong Ah Cho</a>, <a href="http://mvp.yonsei.ac.kr/members/taeyoungchung/" class="author">Tae-young Chung</a>, <a href="http://mvp.yonsei.ac.kr/members/hyeongminlee/" class="author">Hyeongmin Lee</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE International Conference on Image Processing (ICIP 2019)*, Sep. 2019
+
+<h5 class="paper-title">Face Landmark Detection using Gaussian Guided Regression Network</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/yongjulee/" class="author">Yongju Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/taeohkim/" class="author">Taeoh Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/taejaejeon/" class="author">Taejae Jeon</a>, <a href="http://mvp.yonsei.ac.kr/members/hanbyeolbae/" class="author">Hanbyeol Bae</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2019)*, Jun. 2019
+
+<h5 class="paper-title">Online Adaptation for Siamese-based Visual Object Tracking</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/heansunglee/" class="author">Heansung Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/myeongahcho/" class="author">Myeong Ah Cho</a>, <a href="http://mvp.yonsei.ac.kr/members/taeyoungchung/" class="author">Tae-young Chung</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2019)*, Jun. 2019
+
 <h5 class="paper-title">NIR-to-VIS Face Recognition via Embedding Relations and Coordinates of the Pairwise Features</h5>
 <div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/myeongahcho/" class="author">Myeong Ah Cho</a>, <a href="http://mvp.yonsei.ac.kr/members/taeyoungchung/" class="author">Tae-young Chung</a>, <a href="http://mvp.yonsei.ac.kr/members/taeohkim/" class="author">Taeoh Kim</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *IAPR International Conference on Biometrics (ICB 2019)*, Jun. 2019
