@@ -30,14 +30,17 @@ title = "Projects"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">Ongoing Projects</h3>
 
+<h5 class="paper-title">Locally Controllable DNN 알고리즘 개발</h5>
+삼성전자, May. 2019 - Dec. 2019
+
+<h5 class="paper-title">비젼 알고리즘 기반 강아지 비문인식에 대한 연구 (2차년도)</h5>
+주식회사 호윤, Mar. 2019 - Dec. 2019
+
 <h5 class="paper-title">지능형 CCTV를 위한 보행자 재식별, 얼굴인식, 이상행동 검출 기술 개발에 관한 연구</h5>
 한화테크윈, Mar. 2019 - Jan. 2020
 
 <h5 class="paper-title">초고속영상 기반의 지능형 디지털콘텐츠 플랫폼 기술연구 및 인력양성 (2차년도)</h5>
 정보통신기술진흥센터, Mar. 2019 - Dec. 2019
-
-<h5 class="paper-title">비젼 알고리즘 기반 강아지 비문인식에 대한 연구 (1차년도)</h5>
-호윤, Nov. 2018 - Feb. 2019
 
 <h5 class="paper-title">스마트카 다중 센서와 딥러닝을 이용한 초정밀 내츄럴 3D 뷰 생성 기술 개발 (창조씨앗형 2단계)(3차년도)</h5>
 정보통신기술진흥센터, Jan. 2019 - Dec. 2019
@@ -57,6 +60,9 @@ title = "Projects"
 
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">Finished Projects in Recent 5 Years</h3>
+
+<h5 class="paper-title">비젼 알고리즘 기반 강아지 비문인식에 대한 연구 (1차년도)</h5>
+주식회사 호윤, Nov. 2018 - Feb. 2019
 
 <h5 class="paper-title">초고속영상 기반의 지능형 디지털콘텐츠 플랫폼 기술연구 및 인력양성 (1차년도)</h5>
 정보통신기술진흥센터, Jun. 2018 - Feb. 2019
