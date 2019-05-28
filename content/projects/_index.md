@@ -30,8 +30,14 @@ title = "Projects"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">Ongoing Projects</h3>
 
+<h5 class="paper-title">상대방의 감성을 추론, 판단하여 그에 맞추어 대화하고 대응할 수 있는 감성지능 기술 연구개발 (4차년도)</h5>
+정보통신기술진흥센터, May. 2019 - Feb. 2020
+
 <h5 class="paper-title">Locally Controllable DNN 알고리즘 개발</h5>
 삼성전자, May. 2019 - Dec. 2019
+
+<h5 class="paper-title">이종 CCTV 영상에서의 딥러닝 기반 실종자 초동 신원확인 및 추적시스템 (1단계)(2차년도)</h5>
+한국연구재단, Apr. 2019 - Apr. 2020
 
 <h5 class="paper-title">비젼 알고리즘 기반 강아지 비문인식에 대한 연구 (2차년도)</h5>
 주식회사 호윤, Mar. 2019 - Dec. 2019
@@ -45,12 +51,6 @@ title = "Projects"
 <h5 class="paper-title">스마트카 다중 센서와 딥러닝을 이용한 초정밀 내츄럴 3D 뷰 생성 기술 개발 (창조씨앗형 2단계)(3차년도)</h5>
 정보통신기술진흥센터, Jan. 2019 - Dec. 2019
 
-<h5 class="paper-title">이종 CCTV 영상에서의 딥러닝 기반 실종자 초동 신원확인 및 추적시스템 (1단계)(1차년도)</h5>
-한국연구재단, Oct. 2018 - Apr. 2019
-
-<h5 class="paper-title">상대방의 감성을 추론, 판단하여 그에 맞추어 대화하고 대응할 수 있는 감성지능 기술 연구개발 (3차년도)</h5>
-정보통신기술진흥센터, Jul. 2018 - Apr. 2019
-
 <a href="#top-of-page" id="teleport">[top]</a>
 
 
@@ -60,6 +60,12 @@ title = "Projects"
 
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">Finished Projects in Recent 5 Years</h3>
+
+<h5 class="paper-title">이종 CCTV 영상에서의 딥러닝 기반 실종자 초동 신원확인 및 추적시스템 (1단계)(1차년도)</h5>
+한국연구재단, Oct. 2018 - Apr. 2019
+
+<h5 class="paper-title">상대방의 감성을 추론, 판단하여 그에 맞추어 대화하고 대응할 수 있는 감성지능 기술 연구개발 (3차년도)</h5>
+정보통신기술진흥센터, Jul. 2018 - Apr. 2019
 
 <h5 class="paper-title">비젼 알고리즘 기반 강아지 비문인식에 대한 연구 (1차년도)</h5>
 주식회사 호윤, Nov. 2018 - Feb. 2019
