@@ -1,6 +1,6 @@
 +++
 title = "Woojin Kim"
-description = "M.S/Ph.D 4th"
+description = "M.S/Ph.D 5th"
 weight = 170
 draft = false
 toc = true

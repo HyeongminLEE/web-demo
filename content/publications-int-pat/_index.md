@@ -46,9 +46,38 @@ title = "Publications"
 <h2 style="font-size: 35px;">International Patent</h2>
 ------
 <br/>
+<h3 style="border-bottom: 2px solid; font-size: 30px;">Registration</h3>
+
+
+<h5 class="paper-title">Vehicle detecting method and system</h5>
+9524557, *United States Patent*, Dec. 2016
+
+<h5 class="paper-title">Device and method for controlling mouse pointer</h5>
+8957857, *United States Patent*, Feb. 2015
+
+<h5 class="paper-title">Apparatus and method for automatic video summarization using fuzzy one-class support vector machines</h5>
+8238672, *United States Patent*, Aug. 2012
+
+<h5 class="paper-title">Automatic video summarization system and method using fuzzy foundation characteristics Support Vector</h5>
+JP4965250B2, *Japan Patent*, Jul. 2012
+
+<h5 class="paper-title">Apparatus and method for automatically summarizing moving picture by using a fuzzy based OC-SVM</h5>
+CN1842867, *China Patent*, Jun. 2010
+
+<h5 class="paper-title">Apparatus and method for abstracting motion picture shape descriptor including statistical characteristic of still picture shape descriptor, and video indexing system and method using the same</h5>
+7609761, *United States Patent*, Oct. 2009
+<a href="#top-of-page" id="teleport">[top]</a>
+
+<br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">Application</h3>
 
-<h5 class="paper-title">학습을 이용한 얼굴 인식 장치 및 방법</h5>
+<h5 class="paper-title">영상과 얼굴의 특징점을 이용한 스트레스 인식 장치 및 방법</h5>
+PCT/KR2019/003160, *WIPO Patent*, Mar. 2019
+
+<h5 class="paper-title">가우시안 특징점맵과 회귀 기법을 이용한 얼굴 특징점 검출 장치 및 방법</h5>
+PCT/KR2019/003163, *WIPO Patent*, Mar. 2019
+
+<h5 class="paper-title">Face Recognition Apparatus and Method using Learning</h5>
 PCT/KR2018/006818, *WIPO Patent*, Jun. 2018
 
 <h5 class="paper-title">학습을 이용한 얼굴 특징점 검출 방법 및 장치</h5>
@@ -78,26 +107,4 @@ PCT/KR2004/001568, *WIPO Patent*, Jun. 2004
 
 
 
-<br/>
-<h3 style="border-bottom: 2px solid; font-size: 30px;">Registration</h3>
 
-
-<h5 class="paper-title">Vehicle detecting method and system</h5>
-9524557, *United States Patent*, Dec. 2016
-
-<h5 class="paper-title">Device and method for controlling mouse pointer</h5>
-8957857, *United States Patent*, Feb. 2015
-
-<h5 class="paper-title">Apparatus and method for automatic video summarization using fuzzy one-class support vector machines</h5>
-8238672, *United States Patent*, Aug. 2012
-
-<h5 class="paper-title">Automatic video summarization system and method using fuzzy foundation characteristics Support Vector</h5>
-JP4965250B2, *Japan Patent*, Jul. 2012
-
-<h5 class="paper-title">Apparatus and method for automatically summarizing moving picture by using a fuzzy based OC-SVM</h5>
-CN1842867, *China Patent*, Jun. 2010
-
-<h5 class="paper-title">Apparatus and method for abstracting motion picture shape descriptor including statistical characteristic of still
-picture shape descriptor, and video indexing system and method using the same</h5>
-7609761, *United States Patent*, Oct. 2009
-<a href="#top-of-page" id="teleport">[top]</a>

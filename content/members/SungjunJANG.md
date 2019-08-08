@@ -1,6 +1,6 @@
 +++
 title = "Sungjun Jang"
-description = "M.S 1st"
+description = "M.S 2nd"
 weight = 240
 draft = false
 toc = true

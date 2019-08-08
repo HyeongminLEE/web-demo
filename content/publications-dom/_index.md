@@ -48,6 +48,14 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2017 ~ Present</h3>
 
+<h5 class="paper-title">개선된 병목 블록에 따른 경량화 네트워크를 이용한 얼굴 인식</h5>
+<div class="paper-author">장성준, 이용주, 김태오, 이상윤</div>
+*대한전자공학회 하계종합학술대회*, Jun. 2019
+
+<h5 class="paper-title">기하학적 손실 함수를 통한 이미지 기반의 카메라 포즈 예측의 안정성</h5>
+<div class="paper-author">이도균, 황상원, 이준협, 이상윤</div>
+*대한전자공학회 하계종합학술대회*, Jun. 2019
+
 <h5 class="paper-title">앙상블 기반 합성곱 신경망을 이용한 얼굴 표정 인식</h5>
 <div class="paper-author">도진경, 배한별, 최재성, 이형민, 이상윤</div>
 *대한전자공학회 하계종합학술대회*, Jun. 2018
