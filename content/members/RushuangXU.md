@@ -1,28 +1,28 @@
 +++
-title = "Suhwan Cho"
-description = "Undergraduate Intern"
-weight = 250
+title = "Rushuang Xu"
+description = "M.S 1st"
+weight = 245
 draft = false
 toc = true
-bref = "/members/SuhwanCHO.jpg"
+bref = "/members/RushuangXU.jpg"
 +++
 
 <table>
     <tr>
        <td width="280" align="center" valign="top">
-          <img alt="Baseline" width="200px" height="240" src="/members/SuhwanCHO.jpg">
+          <img alt="Baseline" width="200px" height="240" src="/members/RushuangXU.jpg">
        </td>
        <td>
-            <h4>Suhwan Cho (조수환)</h4>
+            <h4>Rushuang Xu </h4>
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
-                        <li style="margin-bottom: 5px">Video Object Segmentation</li>
+                        <li style="margin-bottom: 5px">TBD</li>
                     </ul>
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>
                     <ul>
-                        <li style="margin-bottom: 5px">chosuhwan@yonsei.ac.kr</li>
+                        <li style="margin-bottom: 5px">rushuangxu@yonsei.ac.kr</li>
                     </ul>
                 </li>
             </ul>

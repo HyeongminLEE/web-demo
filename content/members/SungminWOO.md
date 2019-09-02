@@ -17,7 +17,8 @@ bref = "/members/SungminWOO.jpg"
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
-                        <li style="margin-bottom: 5px">TBD</li>
+                        <li style="margin-bottom: 5px">3D Object Detection</li>
+                        <li style="margin-bottom: 5px">3D Multi-Object Tracking</li>
                     </ul>
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>

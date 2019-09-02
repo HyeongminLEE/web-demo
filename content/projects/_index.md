@@ -30,6 +30,9 @@ title = "Projects"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">Ongoing Projects</h3>
 
+<h5 class="paper-title">Single & Multi LiDAR ADAS를 위한 3차원 물체 검출 및 추적 기술 개발</h5>
+만도, Aug. 2019 - Jul. 2020
+
 <h5 class="paper-title">딥러닝 기반 생성 모델을 활용한 오디오, 비디오, 3차원 맵 및 활성화 맵 생성 시스템에 관한 연구</h5>
 정보통신기획평가원, Jul. 2019 - Dec. 2019
 
