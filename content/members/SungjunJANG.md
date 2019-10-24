@@ -17,7 +17,8 @@ bref = "/members/SungjunJANG.jpg"
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
-                        <li style="margin-bottom: 5px">TBD</li>
+                        <li style="margin-bottom: 5px">Face Recognition</li>
+                        <li style="margin-bottom: 5px">Image Segmentation</li>
                     </ul>
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>
