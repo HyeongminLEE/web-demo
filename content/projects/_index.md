@@ -36,9 +36,6 @@ title = "Projects"
 <h5 class="paper-title">딥러닝 기반 생성 모델을 활용한 오디오, 비디오, 3차원 맵 및 활성화 맵 생성 시스템에 관한 연구</h5>
 정보통신기획평가원, Jul. 2019 - Dec. 2019
 
-<h5 class="paper-title">증강현실을 위한 실 공간 3차원 메쉬화 전처리 기술 연구</h5>
-한국콘텐츠진흥원, Jun. 2019 - Nov. 2019
-
 <h5 class="paper-title">상대방의 감성을 추론, 판단하여 그에 맞추어 대화하고 대응할 수 있는 감성지능 기술 연구개발 (4차년도)</h5>
 정보통신기획평가원, May. 2019 - Feb. 2020
 
@@ -69,6 +66,12 @@ title = "Projects"
 
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">Finished Projects in Recent 5 Years</h3>
+
+<h5 class="paper-title">수중 환경 이상 상황 예측 모델</h5>
+대양전기공업/한국산업기술평가관리원, Sep. 2019 - Nov. 2019
+
+<h5 class="paper-title">증강현실을 위한 실 공간 3차원 메쉬화 전처리 기술 연구</h5>
+ETRI/한국콘텐츠진흥원, Jun. 2019 - Nov. 2019
 
 <h5 class="paper-title">이종 CCTV 영상에서의 딥러닝 기반 실종자 초동 신원확인 및 추적시스템 (1단계)(1차년도)</h5>
 한국연구재단, Oct. 2018 - Apr. 2019
@@ -173,45 +176,6 @@ Microsoft, Apr. 2014 - Apr. 2015
 
 <h5 class="paper-title">차세대 멀티미디어 부호화 연구, 3rd Year</h5>
 삼성전자, Mar. 2014 - Feb. 2015
-
-
-
-
-
-<h5 class="paper-title">차세대 디지털 TV방송시스템(실감형/모바일/양방향)핵심기술 개발, 5th Year</h5>
-정보통신기술진흥센터(IITP), Jan. 2014 - Dec. 2014
-
-<h5 class="paper-title">영상분석 알고리즘을 위한 DSP 가속 기술 개발</h5>
-삼성전자, Dec. 2013 - Oct. 2014
-
-<h5 class="paper-title">스테레오 기반 보행자 검출 알고리즘 개발</h5>
-한국전자통신연구원(ETRI), Sep. 2013 - Aug. 2014
-
-<h5 class="paper-title">3D 몽타주 생성 및 연령별 얼굴 변환 예측 시스템 개발, 3rd Year</h5>
-한국산업기술평가관리원, Jun. 2013 - May. 2014
-
-<h5 class="paper-title">사용자 감성정보 획득을 위한 표정 및 제스처 연구</h5>
-한국전자통신연구원(ETRI), Jun. 2013 - Jan. 2014
-
-<h5 class="paper-title">Vision-based 3D Closed-Surface Object Modeling</h5>
-삼성전자, May. 2013 - Dec. 2014
-
-<h5 class="paper-title">멀티 스펙트럼 3D 데이터 기반 정밀 휴먼 검출/추적/인식 기술 연구, 3rd Year</h5>
-한국연구재단, May. 2013 - Apr. 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <a href="#top-of-page" id="teleport">[top]</a>
