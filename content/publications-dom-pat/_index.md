@@ -171,6 +171,24 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">출원</h3>
 
+<h5 class="paper-title">영상 압축 장치, 이의 학습 장치 및 방법</h5>
+10-2019-0143346, Nov. 2019
+
+<h5 class="paper-title">다양한 시점에서 연속적으로 획득된 영상을 활용한 카메라 자세 및 깊이 추정 장치 및 방법</h5>
+10-2019-0141508, Nov. 2019
+
+<h5 class="paper-title">동적 객체 검출 장치 및 방법</h5>
+10-2019-0135439, Oct. 2019
+
+<h5 class="paper-title">영상 처리 장치 및 그 동작방법</h5>
+10-2019-0056553, May. 2019
+
+<h5 class="paper-title">영상과 얼굴의 특징점을 이용한 스트레스 인식 장치 및 방법</h5>
+10-2019-0017408, Feb. 2019
+
+<h5 class="paper-title">가우시안 특징점맵과 회귀 기법을 이용한 얼굴 특징점 검출 장치 및 방법</h5>
+10-2019-0022152, Feb. 2019
+
 <h5 class="paper-title">라이다를 이용한 지면 및 비지면 검출 장치 및 방법</h5>
 10-2018-0149266, Nov. 2018
 

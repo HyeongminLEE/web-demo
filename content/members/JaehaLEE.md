@@ -1,19 +1,19 @@
 +++
-title = "Woojun Lee"
+title = "Jaeha Lee"
 description = "Undergraduate Intern"
 weight = 290
 draft = false
 toc = true
-bref = "/members/WoojunLEE.jpg"
+bref = "/members/JaehaLEE.jpg"
 +++
 
 <table>
     <tr>
        <td width="280" align="center" valign="top">
-          <img alt="Baseline" width="200px" height="240" src="/members/WoojunLEE.jpg">
+          <img alt="Baseline" width="200px" height="240" src="/members/JaehaLEE.jpg">
        </td>
        <td>
-            <h4>Woojun Lee (이우준)</h4>
+            <h4>Jaeha Lee (이재하)</h4>
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
@@ -22,7 +22,7 @@ bref = "/members/WoojunLEE.jpg"
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>
                     <ul>
-                        <li style="margin-bottom: 5px">wjleekr95@yonsei.ac.kr</li>
+                        <li style="margin-bottom: 5px">years6666@gmail.com</li>
                     </ul>
                 </li>
             </ul>

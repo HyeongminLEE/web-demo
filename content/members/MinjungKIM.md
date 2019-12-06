@@ -1,19 +1,19 @@
 +++
-title = "Piljong Kim"
+title = "Min Jung Kim"
 description = "Undergraduate Intern"
 weight = 280
 draft = false
 toc = true
-bref = "/members/PiljongKIM.jpg"
+bref = "/members/MinjungKIM.jpg"
 +++
 
 <table>
     <tr>
        <td width="280" align="center" valign="top">
-          <img alt="Baseline" width="200px" height="240" src="/members/PiljongKIM.jpg">
+          <img alt="Baseline" width="200px" height="240" src="/members/MinjungKIM.jpg">
        </td>
        <td>
-            <h4>Piljong Kim (김필종)</h4>
+            <h4>Min Jung Kim (김민정)</h4>
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
@@ -22,7 +22,7 @@ bref = "/members/PiljongKIM.jpg"
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>
                     <ul>
-                        <li style="margin-bottom: 5px">salt108@yonsei.ac.kr</li>
+                        <li style="margin-bottom: 5px">alsl2321@naver.com</li>
                     </ul>
                 </li>
             </ul>
