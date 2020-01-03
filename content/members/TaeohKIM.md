@@ -1,6 +1,6 @@
 +++
-title = "Teaoh Kim"
-description = "M.S/Ph.D 10th"
+title = "Taeoh Kim"
+description = "M.S/Ph.D 11th"
 weight = 90
 draft = false
 toc = true
@@ -13,7 +13,7 @@ bref = "/members/TaeohKIM.jpg"
           <img alt="Baseline" width="200px" height="240" src="/members/TaeohKIM.jpg">
        </td>
        <td>
-            <h4>Teaoh Kim (김태오)</h4>
+            <h4>Taeoh Kim (김태오)</h4>
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
