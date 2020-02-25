@@ -56,6 +56,10 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2020</h3>
 
+<h5 class="paper-title">AdaCoF: Adaptive Collaboration of Flows for Video Frame Interpolation</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/hyeongminlee/" class="author">Hyeongmin Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/taeohkim/" class="author">Taeoh Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/taeyoungchung/" class="author">Tae-young Chung</a>, <a href="http://mvp.yonsei.ac.kr/members/daehyunpak/" class="author">Daehyun Pak</a>, Yuseok Ban, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020)*, Jun. 2020
+
 <h5 class="paper-title">Stress Recognition using Face Images and Facial Landmarks</h5>
 <div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/taejaejeon/" class="author">Taejae Jeon</a>, <a href="http://mvp.yonsei.ac.kr/members/hanbyeolbae/" class="author">Hanbyeol Bae</a>, <a href="http://mvp.yonsei.ac.kr/members/yongjulee/" class="author">Yongju Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/sungjunjang/" class="author">Sungjun Jang</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *International Conference on Electronics, Information and Communication (ICEIC 2020)*, Jan. 2020
