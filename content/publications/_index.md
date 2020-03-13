@@ -56,7 +56,7 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2020</h3>
 
-<h5 class="paper-title">Protuberance of depth : Detecting interest points from a depth image</h5>
+<h5 class="paper-title">Protuberance of depth: Detecting interest points from a depth image</h5>
 <div class="paper-author">Yuseok Ban, and <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *Computer Vision and Image Understanding*, May. 2020
 
