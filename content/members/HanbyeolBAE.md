@@ -1,7 +1,7 @@
 +++
 title = "Hanbyeol Bae"
-description = "Ph.D 11th"
-weight = 50
+description = "Post Doc."
+weight = 20
 draft = false
 toc = true
 bref = "/members/HanbyeolBAE.jpg"
