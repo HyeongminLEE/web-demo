@@ -18,6 +18,7 @@ bref = "/members/DogyunLEE.jpg"
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
                         <li style="margin-bottom: 5px">3D Point Cloud processing</li>
+                        <li style="margin-bottom: 5px">3D Multi-Object Tracking</li>
                     </ul>
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>
