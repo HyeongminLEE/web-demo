@@ -61,7 +61,7 @@ title = "Publications"
 *IEEE International Conference on Image Processing (ICIP 2020)*, Oct. 2020
 
 <h5 class="paper-title">False Positive Removal for 3D Vehicle Detection with Penetrated Point Classifier</h5>
-<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/sangjinlee/" class="author">Sangjin Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/hyeongminlee/" class="author">Hyeongmin Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/taeohkim/" class="author">Taeoh Kim</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/suhwancho/" class="author">Suhwan Cho</a>, <a href="http://mvp.yonsei.ac.kr/members/myeongahcho/" class="author">MyeongAh Cho</a>, <a href="http://mvp.yonsei.ac.kr/members/taeyoungchung/" class="author">Tae-young Chung</a>, <a href="http://mvp.yonsei.ac.kr/members/heansunglee/" class="author">Heansung Lee</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *IEEE International Conference on Image Processing (ICIP 2020)*, Oct. 2020
 
 <h5 class="paper-title">Extrapolative-Interpolative Cycle-Consistency Learning for Video Frame Extrapolation</h5>
