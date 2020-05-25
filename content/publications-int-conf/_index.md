@@ -56,6 +56,18 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2020</h3>
 
+<h5 class="paper-title">CRVOS: Clue Refining Network for Video Object Segmentation</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/sungminwoo/" class="author">Sungmin Woo</a>, <a href="http://mvp.yonsei.ac.kr/members/sangwonhwang/" class="author">Sangwon Hwang</a>, <a href="http://mvp.yonsei.ac.kr/members/woojinkim/" class="author">Woojin Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/junhyeoplee/" class="author">Junhyeop Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/dogyoonlee/" class="author">Dogyoon Lee</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE International Conference on Image Processing (ICIP 2020)*, Oct. 2020
+
+<h5 class="paper-title">False Positive Removal for 3D Vehicle Detection with Penetrated Point Classifier</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/sangjinlee/" class="author">Sangjin Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/hyeongminlee/" class="author">Hyeongmin Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/taeohkim/" class="author">Taeoh Kim</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE International Conference on Image Processing (ICIP 2020)*, Oct. 2020
+
+<h5 class="paper-title">Extrapolative-Interpolative Cycle-Consistency Learning for Video Frame Extrapolation</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/sangjinlee/" class="author">Sangjin Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/hyeongminlee/" class="author">Hyeongmin Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/taeohkim/" class="author">Taeoh Kim</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE International Conference on Image Processing (ICIP 2020)*, Oct. 2020
+
 <h5 class="paper-title">AdaCoF: Adaptive Collaboration of Flows for Video Frame Interpolation</h5>
 <div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/hyeongminlee/" class="author">Hyeongmin Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/taeohkim/" class="author">Taeoh Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/taeyoungchung/" class="author">Tae-young Chung</a>, <a href="http://mvp.yonsei.ac.kr/members/daehyunpak/" class="author">Daehyun Pak</a>, Yuseok Ban, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020)*, Jun. 2020

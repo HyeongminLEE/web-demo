@@ -1,6 +1,6 @@
 baseURL = "http://mvp.yonsei.ac.kr"
 languageCode = "en-us"
-title = "Home"
+title = "MVP LAB"
 theme = "kube"
 description = "Image and Video Pattern Recogntion"
 Paginate = 4

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Home</title>
+    <title>Blogs on MVP LAB</title>
     <link>http://mvp.yonsei.ac.kr/blog/</link>
-    <description>Recent content in Blogs on Home</description>
+    <description>Recent content in Blogs on MVP LAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 21:56:55 +0100</lastBuildDate>
