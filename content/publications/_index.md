@@ -56,6 +56,10 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2020</h3>
 
+<h5 class="paper-title">Relational Deep Feature Learning for Heterogeneous Face Recognition</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/Myeongahcho/" class="author">MyeongAh Cho</a>, <a href="http://mvp.yonsei.ac.kr/members/taeohkim/" class="author">Taeoh Kim</a>, Ig-Jae Kim, Kyungjae Lee, and <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE Transactions on Information Forensics and Security*, Accepted
+
 <h5 class="paper-title">Protuberance of depth: Detecting interest points from a depth image</h5>
 <div class="paper-author">Yuseok Ban, and <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *Computer Vision and Image Understanding*, May. 2020
