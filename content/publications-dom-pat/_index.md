@@ -171,6 +171,15 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">출원</h3>
 
+<h5 class="paper-title">다중 플로우 기반 프레임 보간 장치 및 방법</h5>
+10-2020-0064766, May. 2020
+
+<h5 class="paper-title">자기 집중 방식 객체 추적 장치 및 방법</h5>
+10-2020-0047605, Apr. 2020
+
+<h5 class="paper-title">얼굴 및 스트레스 인식 장치 및 방법</h5>
+10-2020-0005317, Jan. 2020
+
 <h5 class="paper-title">영상 압축 장치, 이의 학습 장치 및 방법</h5>
 10-2019-0143346, Nov. 2019
 

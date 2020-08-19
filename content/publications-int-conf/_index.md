@@ -56,6 +56,10 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2020</h3>
 
+<h5 class="paper-title">Learning Temporally Invariant and Localizable Features via Data Augmentation for Video Recognition</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/taeohkim/" class="author">Taeoh Kim\*</a>, <a href="http://mvp.yonsei.ac.kr/members/hyeongminlee/" class="author">Hyeongmin Lee\*</a>, <a href="http://mvp.yonsei.ac.kr/members/myeongahcho/" class="author">MyeongAh Cho\*</a>, Hoseong Lee, Dong Heon Cho, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a> (\* Equal Contribution)</div>
+*European Conference on Computer Vision Workshop (ECCVW 2020)*, Aug. 2020
+
 <h5 class="paper-title">CRVOS: Clue Refining Network for Video Object Segmentation</h5>
 <div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/suhwancho/" class="author">Suhwan Cho</a>, <a href="http://mvp.yonsei.ac.kr/members/myeongahcho/" class="author">MyeongAh Cho</a>, <a href="http://mvp.yonsei.ac.kr/members/taeyoungchung/" class="author">Tae-young Chung</a>, <a href="http://mvp.yonsei.ac.kr/members/heansunglee/" class="author">Heansung Lee</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *IEEE International Conference on Image Processing (ICIP 2020)*, Oct. 2020

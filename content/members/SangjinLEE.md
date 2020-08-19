@@ -17,7 +17,7 @@ bref = "/members/SangjinLEE.jpg"
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
-                        <li style="margin-bottom: 5px">Video Frame Prediction</li>
+                        <li style="margin-bottom: 5px">Video Frame Prediction</li>                       <li style="margin-bottom: 5px">Video inpainting</li>
                     </ul>
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>

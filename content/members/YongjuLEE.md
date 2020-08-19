@@ -17,9 +17,10 @@ bref = "/members/YongjuLEE.jpg"
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
-                        <li style="margin-bottom: 5px">Face Detection</li>
+                        <li style="margin-bottom: 5px">Face Recognition</li>
                         <li style="margin-bottom: 5px">Facial Landmark Detection</li>
-                        <li style="margin-bottom: 5px">Image Restoration</li>
+                        <li style="margin-bottom: 5px">Head Pose Estimation</li>
+                        <li style="margin-bottom: 5px">Face Detection</li>
                     </ul>
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>

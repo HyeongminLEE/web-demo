@@ -18,6 +18,7 @@ bref = "/members/SangwonHWANG.jpg"
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
                         <li style="margin-bottom: 5px">Camera Ego-Motion Estimation</li>
+                        <li style="margin-bottom: 5px">Depth Completion</li>
                     </ul>
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>
