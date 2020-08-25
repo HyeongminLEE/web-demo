@@ -48,6 +48,18 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2017 ~ Present</h3>
 
+<h5 class="paper-title">Photorealistic Style Transfer with Adversarial Loss for Photo-to-Sketch Facial Image Synthesis</h5>
+<div class="paper-author">허여상, 조명아, 김태오, 이상윤</div>
+*대한전자공학회 하계종합학술대회*, Aug. 2020
+
+<h5 class="paper-title">클래스 분포 정보를 이용한 의미론적 영상 분할</h5>
+<div class="paper-author">김민정, 이형민, 김태오, 이상윤</div>
+*대한전자공학회 하계종합학술대회*, Aug. 2020
+
+<h5 class="paper-title">비지도학습방법을 이용한 카메라 자세(Pose) 및 깊이영상(Depth) 추정 방법</h5>
+<div class="paper-author">이재하, 황상원, 김우진, 이도균, 우성민, 이상윤</div>
+*대한전자공학회 하계종합학술대회*, Aug. 2020
+
 <h5 class="paper-title">개선된 병목 블록에 따른 경량화 네트워크를 이용한 얼굴 인식</h5>
 <div class="paper-author">장성준, 이용주, 김태오, 이상윤</div>
 *대한전자공학회 하계종합학술대회*, Jun. 2019
