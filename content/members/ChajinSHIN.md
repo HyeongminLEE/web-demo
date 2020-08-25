@@ -22,7 +22,7 @@ bref = "/members/ChajinSHIN.jpg"
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>
                     <ul>
-                        <li style="margin-bottom: 5px">nainshi@yonsei.ac.kr</li>
+                        <li style="margin-bottom: 5px">chajin@yonsei.ac.kr</li>
                     </ul>
                 </li>
             </ul>
