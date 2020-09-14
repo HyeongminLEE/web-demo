@@ -49,6 +49,12 @@ title = "Publications"
 <h3 style="border-bottom: 2px solid; font-size: 30px;">등록</h3>
 
 <h5 class="paper-title">동적 객체 검출 장치 및 방법</h5>
+10-2140873, Jul. 2020
+
+<h5 class="paper-title">라이다를 이용한 지면 및 비지면 검출 장치 및 방법</h5>
+10-2114558, May. 2020
+
+<h5 class="paper-title">동적 객체 검출 장치 및 방법</h5>
 10-2002228, Jul. 2019
 
 <h5 class="paper-title">오류 은닉을 이용한 비디오 코딩의 부호화 방법 및 복호화 방법</h5>
