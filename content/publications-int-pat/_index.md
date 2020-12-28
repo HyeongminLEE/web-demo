@@ -71,6 +71,15 @@ CN1842867, *China Patent*, Jun. 2010
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">Application</h3>
 
+<h5 class="paper-title">다중 플로우 기반 프레임 보간 장치 및 방법</h5>
+PCT/KR2020/011173, *WIPO Patent*, Aug. 2020
+
+<h5 class="paper-title">요소 간 관계 추출 기반 이종 얼굴 인식 장치 및 방법</h5>
+PCT/KR2020/005235, *WIPO Patent*, Apr. 2020
+
+<h5 class="paper-title">얼굴 및 스트레스 인식 장치 및 방법</h5>
+PCT/KR2020/001301, *WIPO Patent*, Jan. 2020
+
 <h5 class="paper-title">영상과 얼굴의 특징점을 이용한 스트레스 인식 장치 및 방법</h5>
 PCT/KR2019/003160, *WIPO Patent*, Mar. 2019
 

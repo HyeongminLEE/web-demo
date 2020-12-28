@@ -177,11 +177,30 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">출원</h3>
 
+<h5 class="paper-title">CCTV 환경에서의 보행자 추적 장치 및 방법</h5>
+10-2020-0155092, Nov. 2020
+
+<h5 class="paper-title">이상 상황 감지 장치 및 방법</h5>
+10-2020-0153560, Nov. 2020
+
+<h5 class="paper-title">라이다 깊이 이미지 채움 장치 및 방법</h5>
+10-2020-0141887, Oct. 2020
+
+<h5 class="paper-title">포인트 클라우드 기반 검출 객체 오류 보정 장치 및 방법</h5>
+10-2020-0141515, Oct. 2020
+
+
 <h5 class="paper-title">다중 플로우 기반 프레임 보간 장치 및 방법</h5>
 10-2020-0064766, May. 2020
 
 <h5 class="paper-title">자기 집중 방식 객체 추적 장치 및 방법</h5>
 10-2020-0047605, Apr. 2020
+
+<h5 class="paper-title">다중 CCTV 환경에서의 보행자 추적 장치 및 방법</h5>
+10-2020-0041019, Apr. 2020
+
+<h5 class="paper-title">요소 간 관계 추출 기반 이종 얼굴 인식 장치 및 방법</h5>
+10-2020-0038715, Mar. 2020
 
 <h5 class="paper-title">얼굴 및 스트레스 인식 장치 및 방법</h5>
 10-2020-0005317, Jan. 2020

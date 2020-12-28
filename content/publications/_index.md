@@ -102,9 +102,13 @@ title = "Publications"
 <div class="paper-author">Seongwan Kim, <a href="http://mvp.yonsei.ac.kr/members/daehyunpak/" class="author">Daehyun Pak</a>, and <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *Signal Image and Video Processing*, Oct. 2017
 
-<h5 class="paper-title">Efficient Depth Enhancement Using a Combination of Color and Depth Information</h5>
+<h5 class="paper-title">Inversion of Spread-Direction and Alternate Neighborhood System for Cellular Automata-Based Image Segmentation Framework</h5>
 <div class="paper-author">Kyungjae Lee, Yuseok Ban, and <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *Sensors*, Jul. 2017
+
+<h5 class="paper-title">Efficient Depth Enhancement Using a Combination of Color and Depth Information</h5>
+<div class="paper-author">Kyungjae Lee, <a href="http://mvp.yonsei.ac.kr/members/junhyeoplee/" class="author">Junhyeop Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/sangwonhwang/" class="author">Sangwon Hwang</a>, and <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*Journal of International Society for Simulation Surgery*, Jun. 2017
 
 <h5 class="paper-title">Tracking and Classification of In-Air Hand Gesture Based on Thermal Guided Joint Filter</h5>
 <div class="paper-author">Seongwan Kim, Yuseok Ban and <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
