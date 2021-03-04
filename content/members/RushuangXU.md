@@ -1,6 +1,6 @@
 +++
 title = "Rushuang Xu"
-description = "M.S 3rd"
+description = "M.S 4th"
 weight = 245
 draft = false
 toc = true

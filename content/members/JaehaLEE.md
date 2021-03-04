@@ -1,6 +1,6 @@
 +++
 title = "Jaeha Lee"
-description = "M.S 2nd"
+description = "M.S 3rd"
 weight = 290
 draft = false
 toc = true
@@ -17,7 +17,7 @@ bref = "/members/JaehaLEE.jpg"
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
-                        <li style="margin-bottom: 5px">TBD</li>
+                        <li style="margin-bottom: 5px">Object Detection</li>
                     </ul>
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>
@@ -26,7 +26,7 @@ bref = "/members/JaehaLEE.jpg"
                     </ul>
                 </li>
             </ul>
-            
+
          </td>
     </tr>
 </table>

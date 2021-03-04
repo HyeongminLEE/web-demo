@@ -1,6 +1,6 @@
 +++
 title = "Minhyeok Lee"
-description = "Undergraduate Intern"
+description = "M.S/Ph.D 1st"
 weight = 310
 draft = false
 toc = true
@@ -26,7 +26,7 @@ bref = "/members/MinhyeokLEE.jpg"
                     </ul>
                 </li>
             </ul>
-            
+
          </td>
     </tr>
 </table>

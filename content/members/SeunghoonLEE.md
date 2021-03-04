@@ -1,33 +1,34 @@
 +++
-title = "Sungjun Jang"
-description = "M.S/Ph.D 5th"
-weight = 240
+title = "Seunghoon Lee"
+description = "M.S/Ph.D 1st"
+weight = 320
 draft = false
 toc = true
-bref = "/members/SungjunJANG.jpg"
+bref = "/members/SeunghoonLEE.jpg"
+
 +++
 
 <table>
     <tr>
        <td width="280" align="center" valign="top">
-          <img alt="Baseline" width="200px" height="240" src="/members/SungjunJANG.jpg">
+          <img alt="Baseline" width="200px" height="240" src="/members/SeunghoonLEE.jpg">
        </td>
        <td>
-            <h4>Sungjun Jang (장성준)</h4>
+            <h4>Seunghoon Lee (이승훈)</h4>
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
-                        <li style="margin-bottom: 5px">Face Recognition</li>
-                        <li style="margin-bottom: 5px">Image Segmentation</li>
+                        <li style="margin-bottom: 5px">TBD</li>
                     </ul>
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>
                     <ul>
-                        <li style="margin-bottom: 5px">jeu2250@yonsei.ac.kr</li>
+                        <li style="margin-bottom: 5px">shlee423@yoinsei.ac.kr</li>
                     </ul>
                 </li>
             </ul>
-            
+
+
          </td>
     </tr>
 </table>

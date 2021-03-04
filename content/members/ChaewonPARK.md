@@ -1,6 +1,6 @@
 +++
 title = "Chaewon Park"
-description = "M.S 1st"
+description = "M.S 2nd"
 weight = 310
 draft = false
 toc = true

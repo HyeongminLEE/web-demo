@@ -54,7 +54,7 @@ title = "Publications"
 <h2 style="font-size: 35px;">International Journal</h2> 
 ------
 <br/>
-<h3 style="border-bottom: 2px solid; font-size: 30px;">2020</h3>
+<h3 style="border-bottom: 2px solid; font-size: 30px;">2021</h3>
 
 <h5 class="paper-title">3D Mesh Transformation Preprocessing System in the Real Space for Augmented Reality Services</h5>
 <div class="paper-author">Young-Suk Yoon, <a href="http://mvp.yonsei.ac.kr/members/sangwonhwang/" class="author">Sangwon Hwang</a>, <a href="http://mvp.yonsei.ac.kr/members/dogyoonlee/" class="author">Dogyoon Lee</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a>, Jae-Won Suh, Sung-Uk Jung</div>

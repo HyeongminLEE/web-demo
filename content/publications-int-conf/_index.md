@@ -54,6 +54,13 @@ title = "Publications"
 <h2 style="font-size: 35px;">International Conference</h2> 
 ------
 <br/>
+
+<h3 style="border-bottom: 2px solid; font-size: 30px;">2021</h3>
+
+<h5 class="paper-title">Regularization Strategy for Point Cloud via Rigidly Mixed Sample</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/dogyoonlee/" class="author">Dogyoon Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/jaehalee/" class="author">Jaeha Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/junhyeoplee/" class="author">Junhyeop Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/hyeongminlee/" class="author">Hyeongmin Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/minhyeoklee/" class="author">Minhyeok Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/sungminwoo/" class="author">Sungmin Woo</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)*, Jun. 2021
+
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2020</h3>
 
 <h5 class="paper-title">Real Space 3D Mesh Transformation Preprocessing System for AR Services</h5>
