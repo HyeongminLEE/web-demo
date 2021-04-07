@@ -56,6 +56,10 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2021</h3>
 
+<h5 class="paper-title">Dog Nose-print Identification Using Deep Neural Networks</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/hanbyeolbae/" class="author">Hanbyeol Bae</a>, Daehyun Pak, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE Access*, May. 2021
+
 <h5 class="paper-title">3D Mesh Transformation Preprocessing System in the Real Space for Augmented Reality Services</h5>
 <div class="paper-author">Young-Suk Yoon, <a href="http://mvp.yonsei.ac.kr/members/sangwonhwang/" class="author">Sangwon Hwang</a>, <a href="http://mvp.yonsei.ac.kr/members/dogyoonlee/" class="author">Dogyoon Lee</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a>, Jae-Won Suh, Sung-Uk Jung</div>
 *ICT Express*, Accepted
@@ -65,7 +69,7 @@ title = "Publications"
 
 <h5 class="paper-title">Relational Deep Feature Learning for Heterogeneous Face Recognition</h5>
 <div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/Myeongahcho/" class="author">MyeongAh Cho</a>, <a href="http://mvp.yonsei.ac.kr/members/taeohkim/" class="author">Taeoh Kim</a>, Ig-Jae Kim, Kyungjae Lee, and <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
-*IEEE Transactions on Information Forensics and Security*, Accepted
+*IEEE Transactions on Information Forensics and Security*, Jul. 2020
 
 <h5 class="paper-title">Protuberance of depth: Detecting interest points from a depth image</h5>
 <div class="paper-author">Yuseok Ban, and <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
