@@ -56,6 +56,14 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2021</h3>
 
+<h5 class="paper-title">Block-Attentive Subpixel Prediction Networks for Computationally Efficient Image Restoration</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/taeohkim/" class="author">Taeoh Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/chajinshin/" class="author">Chajin Shin</a>, <a href="http://mvp.yonsei.ac.kr/members/sangjinlee/" class="author">Sangjin Lee</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE Access*, Accepted
+
+<h5 class="paper-title">AIBM: Accurate and Instant Background Modeling for Moving Object Detection</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/woojinkim/" class="author">Woo Jin Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/sangwonhwang/" class="author">Sangwon Hwang</a>, <a href="http://mvp.yonsei.ac.kr/members/junhyeoplee/" class="author">Junhyeop Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/sungminwoo/" class="author">Sungmin Woo</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE Transactions on Intelligent Transportation Systems*, Accepted
+
 <h5 class="paper-title">Dog Nose-print Identification Using Deep Neural Networks</h5>
 <div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/hanbyeolbae/" class="author">Hanbyeol Bae</a>, Daehyun Pak, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *IEEE Access*, May. 2021
