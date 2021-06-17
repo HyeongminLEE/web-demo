@@ -57,6 +57,14 @@ title = "Publications"
 
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2021</h3>
 
+<h5 class="paper-title">Test-Time Adaptation for Out-of-Distributed Image Inpainting</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/chajinshin/" class="author">Chajin Shin</a>, <a href="http://mvp.yonsei.ac.kr/members/taeohkim/" class="author">Taeoh Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/taeyoungchung/" class="author">sangjinlee</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE International Conference on Image Processing (ICIP 2021)*, Sep. 2021
+
+<h5 class="paper-title">A NIR-to-VIS Face Recognition via Part Adaptive and Relation Attention Module</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/rushuangxu/" class="author">Rushuang Xu</a>, <a href="http://mvp.yonsei.ac.kr/members/myeongahcho/" class="author">MyeongAh Cho</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE International Conference on Image Processing (ICIP 2021)*, Sep. 2021
+
 <h5 class="paper-title">Regularization Strategy for Point Cloud via Rigidly Mixed Sample</h5>
 <div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/dogyoonlee/" class="author">Dogyoon Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/jaehalee/" class="author">Jaeha Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/junhyeoplee/" class="author">Junhyeop Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/hyeongminlee/" class="author">Hyeongmin Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/minhyeoklee/" class="author">Minhyeok Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/sungminwoo/" class="author">Sungmin Woo</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)*, Jun. 2021
