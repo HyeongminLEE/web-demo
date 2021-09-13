@@ -1,5 +1,5 @@
 +++
-title = "Woojin Kim"
+title = "Woo Jin Kim"
 description = "M.S/Ph.D 8th"
 weight = 170
 draft = false
@@ -13,7 +13,7 @@ bref = "/members/WoojinKIM.jpg"
           <img alt="Baseline" width="200px" height="240" src="/members/WoojinKIM.jpg">
        </td>
        <td>
-            <h4>Woojin Kim (김우진)</h4>
+            <h4>Woo Jin Kim (김우진)</h4>
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">

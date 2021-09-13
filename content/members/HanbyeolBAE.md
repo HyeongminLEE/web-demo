@@ -1,5 +1,5 @@
 +++
-title = "Hanbyeol Bae"
+title = "Han Byeol Bae"
 description = "Post Doc."
 weight = 20
 draft = false
@@ -13,7 +13,7 @@ bref = "/members/HanbyeolBAE.jpg"
           <img alt="Baseline" width="200px" height="240" src="/members/HanbyeolBAE.jpg">
        </td>
        <td>
-            <h4>Hanbyeol Bae (배한별)</h4>
+            <h4>Han Byeol Bae (배한별)</h4>
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
