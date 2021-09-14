@@ -1,32 +1,34 @@
 +++
-title = "Han Byeol Bae"
-description = "Post Doc."
-weight = 20
+title = "Dong Hyeong Kim"
+description = "M.S/Ph.D 1st"
+weight = 330
 draft = false
 toc = true
-bref = "/members/HanbyeolBAE.jpg"
+bref = "/members/default.jpg"
+
 +++
 
 <table>
     <tr>
        <td width="280" align="center" valign="top">
-          <img alt="Baseline" width="200px" height="240" src="/members/HanbyeolBAE.jpg">
+          <img alt="Baseline" width="200px" height="240" src="/members/default.jpg">
        </td>
        <td>
-            <h4>Han Byeol Bae (배한별)</h4>
+            <h4>Dong Hyeong Kim (김동형)</h4>
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
-                        <li style="margin-bottom: 5px">Face Matching/Recognition</li>
+                        <li style="margin-bottom: 5px">TBD</li>
                     </ul>
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>
                     <ul>
-                        <li style="margin-bottom: 5px">ygbfamily00@yonsei.ac.kr</li>
+                        <li style="margin-bottom: 5px">donghyung87@yonsei.ac.kr</li>
                     </ul>
                 </li>
             </ul>
-            
+
+
          </td>
     </tr>
 </table>

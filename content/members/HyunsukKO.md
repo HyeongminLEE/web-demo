@@ -1,19 +1,20 @@
 +++
-title = "Rushuang Xu"
-description = "M.S 4th"
-weight = 245
+title = "Hyun suk Ko"
+description = "Undergraduate Intern"
+weight = 330
 draft = false
 toc = true
-bref = "/members/RushuangXU.jpg"
+bref = "/members/default.jpg"
+
 +++
 
 <table>
     <tr>
        <td width="280" align="center" valign="top">
-          <img alt="Baseline" width="200px" height="240" src="/members/RushuangXU.jpg">
+          <img alt="Baseline" width="200px" height="240" src="/members/default.jpg">
        </td>
        <td>
-            <h4>Rushuang Xu </h4>
+            <h4>Hyun suk Ko (고현석)</h4>
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
@@ -22,11 +23,12 @@ bref = "/members/RushuangXU.jpg"
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>
                     <ul>
-                        <li style="margin-bottom: 5px">rushuangxu@yonsei.ac.kr</li>
+                        <li style="margin-bottom: 5px">hahapan@yonsei.ac.kr</li>
                     </ul>
                 </li>
             </ul>
-            
+
+
          </td>
     </tr>
 </table>

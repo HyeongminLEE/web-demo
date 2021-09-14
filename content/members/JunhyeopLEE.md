@@ -1,6 +1,6 @@
 +++
 title = "Junhyeop Lee"
-description = "M.S/Ph.D 12th"
+description = "M.S/Ph.D 13th"
 weight = 100
 draft = false
 toc = true

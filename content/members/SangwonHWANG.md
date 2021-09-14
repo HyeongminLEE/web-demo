@@ -1,6 +1,6 @@
 +++
 title = "Sangwon Hwang"
-description = "M.S/Ph.D 11th"
+description = "M.S/Ph.D 12th"
 weight = 120
 draft = false
 toc = true
@@ -17,10 +17,9 @@ bref = "/members/SangwonHWANG.jpg"
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
-                        <li style="margin-bottom: 5px">2D/3D Vision</li>
                         <li style="margin-bottom: 5px">Camera Pose Estimation</li>
-                        <li style="margin-bottom: 5px">Point Cloud Processing</li>
                         <li style="margin-bottom: 5px">Depth Estimation / Completion</li> 
+                        <li style="margin-bottom: 5px">3D Object Detection / Segmentation</li>
                     </ul>
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>

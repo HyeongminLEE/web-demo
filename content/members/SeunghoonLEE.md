@@ -1,6 +1,6 @@
 +++
 title = "Seunghoon Lee"
-description = "M.S/Ph.D 1st"
+description = "M.S/Ph.D 2nd"
 weight = 320
 draft = false
 toc = true
@@ -23,7 +23,7 @@ bref = "/members/SeunghoonLEE.jpg"
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>
                     <ul>
-                        <li style="margin-bottom: 5px">shlee423@yoinsei.ac.kr</li>
+                        <li style="margin-bottom: 5px">shlee423@yonsei.ac.kr</li>
                     </ul>
                 </li>
             </ul>

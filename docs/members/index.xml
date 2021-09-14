@@ -11,15 +11,6 @@
     
     
     <item>
-      <title>Han Byeol Bae</title>
-      <link>http://mvp.yonsei.ac.kr/members/hanbyeolbae/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mvp.yonsei.ac.kr/members/hanbyeolbae/</guid>
-      <description>    Han Byeol Bae (배한별) Research Area Face Matching/Recognition   E-mail  ygbfamily00@yonsei.ac.kr       </description>
-    </item>
-    
-    <item>
       <title>Eungyeol Song</title>
       <link>http://mvp.yonsei.ac.kr/members/eungyeolsong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -56,15 +47,6 @@
     </item>
     
     <item>
-      <title>Taeoh Kim</title>
-      <link>http://mvp.yonsei.ac.kr/members/taeohkim/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mvp.yonsei.ac.kr/members/taeohkim/</guid>
-      <description>    Taeoh Kim (김태오) Research Area Image/Video Restoration Object Detection/Tracking Model Compression   E-mail  kto@yonsei.ac.kr   Web  https://taeoh-kim.github.io       </description>
-    </item>
-    
-    <item>
       <title>Junhyeop Lee</title>
       <link>http://mvp.yonsei.ac.kr/members/junhyeoplee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -88,7 +70,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mvp.yonsei.ac.kr/members/sangwonhwang/</guid>
-      <description>    Sangwon Hwang (황상원) Research Area 2D/3D Vision Camera Pose Estimation Point Cloud Processing Depth Estimation / Completion   E-mail  sangwon1042@yonsei.ac.kr       </description>
+      <description>    Sangwon Hwang (황상원) Research Area Camera Pose Estimation Depth Estimation / Completion 3D Object Detection / Segmentation   E-mail  sangwon1042@yonsei.ac.kr       </description>
     </item>
     
     <item>
@@ -151,7 +133,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mvp.yonsei.ac.kr/members/dogyunlee/</guid>
-      <description>    Dogyoon Lee (이도균) Research Area 3D Point Cloud processing 3D Multi-Object Tracking   E-mail  nemotio@yonsei.ac.kr       </description>
+      <description>    Dogyoon Lee (이도균) Research Area 3D Point Cloud processing 3D scene representation   E-mail  nemotio@yonsei.ac.kr       </description>
     </item>
     
     <item>
@@ -161,15 +143,6 @@
       
       <guid>http://mvp.yonsei.ac.kr/members/sungjunjang/</guid>
       <description>    Sungjun Jang (장성준) Research Area Face Recognition Image Segmentation   E-mail  jeu2250@yonsei.ac.kr       </description>
-    </item>
-    
-    <item>
-      <title>Rushuang Xu</title>
-      <link>http://mvp.yonsei.ac.kr/members/rushuangxu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mvp.yonsei.ac.kr/members/rushuangxu/</guid>
-      <description>    Rushuang Xu  Research Area TBD   E-mail  rushuangxu@yonsei.ac.kr       </description>
     </item>
     
     <item>
@@ -250,7 +223,34 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mvp.yonsei.ac.kr/members/seunghoonlee/</guid>
-      <description>    Seunghoon Lee (이승훈) Research Area TBD   E-mail  shlee423@yoinsei.ac.kr       </description>
+      <description>    Seunghoon Lee (이승훈) Research Area TBD   E-mail  shlee423@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
+      <title>Jungho Lee</title>
+      <link>http://mvp.yonsei.ac.kr/members/jungholee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mvp.yonsei.ac.kr/members/jungholee/</guid>
+      <description>    Jungho Lee (이정호) Research Area TBD   E-mail  2015142131@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
+      <title>Dong Hyeong Kim</title>
+      <link>http://mvp.yonsei.ac.kr/members/donghyeongkim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mvp.yonsei.ac.kr/members/donghyeongkim/</guid>
+      <description>    Dong Hyeong Kim (김동형) Research Area TBD   E-mail  donghyung87@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
+      <title>Hyun suk Ko</title>
+      <link>http://mvp.yonsei.ac.kr/members/hyunsukko/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mvp.yonsei.ac.kr/members/hyunsukko/</guid>
+      <description>    Hyun suk Ko (고현석) Research Area TBD   E-mail  hahapan@yonsei.ac.kr       </description>
     </item>
     
   </channel>

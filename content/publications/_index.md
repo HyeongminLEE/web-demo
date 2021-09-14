@@ -65,7 +65,7 @@ title = "Publications"
 *IEEE Transactions on Intelligent Transportation Systems*, Accepted
 
 <h5 class="paper-title">Dog Nose-print Identification Using Deep Neural Networks</h5>
-<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/hanbyeolbae/" class="author">Hanbyeol Bae</a>, Daehyun Pak, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/hanbyeolbae/" class="author">Han Byeol Bae</a>, Daehyun Pak, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *IEEE Access*, May. 2021
 
 <h5 class="paper-title">3D Mesh Transformation Preprocessing System in the Real Space for Augmented Reality Services</h5>
@@ -84,7 +84,7 @@ title = "Publications"
 *Computer Vision and Image Understanding*, May. 2020
 
 <h5 class="paper-title">Non-Visual to Visual Translation for Cross-Domain Face Recognition</h5>
-<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/hanbyeolbae/" class="author">Hanbyeol Bae</a>, <a href="http://mvp.yonsei.ac.kr/members/taejaejeon/" class="author">Taejae Jeon</a>, <a href="http://mvp.yonsei.ac.kr/members/yongjulee/" class="author">Yongju Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/sungjunjang/" class="author">Sungjun Jang</a>, and <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/hanbyeolbae/" class="author">Han Byeol Bae</a>, <a href="http://mvp.yonsei.ac.kr/members/taejaejeon/" class="author">Taejae Jeon</a>, <a href="http://mvp.yonsei.ac.kr/members/yongjulee/" class="author">Yongju Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/sungjunjang/" class="author">Sungjun Jang</a>, and <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *IEEE Access*, Mar. 2020
 
 <br/>
