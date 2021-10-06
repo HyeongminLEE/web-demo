@@ -54,11 +54,28 @@ title = "Publications"
 <h2 style="font-size: 35px;">International Conference</h2> 
 ------
 <br/>
+<h3 style="border-bottom: 2px solid; font-size: 30px;">2022</h3>
+
+<h5 class="paper-title">Pixel-Level Bijective Matching for Video Object Segmentation</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/suhwancho/" class="author">Suhwan Cho</a>, <a href="http://mvp.yonsei.ac.kr/members/heansunglee/" class="author">Heansung Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/minjungkim/" class="author">Minjung Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/sungjunkang/" class="author">Sungjun Jang</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2022)*, Jan. 2022
+
+<h5 class="paper-title">EdgeConv with Attention Module for Monocular Depth Estimation</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/minhyeoklee/" class="author">Minhyeok Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/sangwonhwang/" class="author">Sangwon Hwang</a>, <a href="http://mvp.yonsei.ac.kr/members/chaewonpark/" class="author">Chaewon Park</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2022)*, Jan. 2022
+
+<h5 class="paper-title">Robust Lane Detection via Expanded Self Attention</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/minhyeoklee/" class="author">Minhyeok Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/junhyeoplee/" class="author">Junhyeop Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/dogyoonlee/" class="author">Dogyoon Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/woojinkim/" class="author">Woojin Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/sangwonhwang/" class="author">Sangwon Hwang</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2022)*, Jan. 2022
+
+<h5 class="paper-title">FastAno: Fast Anomaly Detection via Spatio-temporal Patch Transformation</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/chaewonpark/" class="author">Chaewon Park</a>, <a href="http://mvp.yonsei.ac.kr/members/myeongahcho/" class="author">MyeongAh Cho</a>, <a href="http://mvp.yonsei.ac.kr/members/minhyeoklee/" class="author">Minhyeok Lee</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2022)*, Jan. 2022
 
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2021</h3>
 
 <h5 class="paper-title">Test-Time Adaptation for Out-of-Distributed Image Inpainting</h5>
-<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/chajinshin/" class="author">Chajin Shin</a>, <a href="http://mvp.yonsei.ac.kr/members/taeohkim/" class="author">Taeoh Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/taeyoungchung/" class="author">sangjinlee</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/chajinshin/" class="author">Chajin Shin</a>, <a href="http://mvp.yonsei.ac.kr/members/taeohkim/" class="author">Taeoh Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/sangjinlee/" class="author">Sangjin Lee</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *IEEE International Conference on Image Processing (ICIP 2021)*, Sep. 2021
 
 <h5 class="paper-title">A NIR-to-VIS Face Recognition via Part Adaptive and Relation Attention Module</h5>
