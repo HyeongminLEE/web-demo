@@ -1,5 +1,5 @@
 +++
-title = "Heansung Lee"
+title = "Hean Sung Lee"
 description = "M.S/Ph.D 8th"
 weight = 200
 draft = false
@@ -13,7 +13,7 @@ bref = "/members/HeansungLEE.jpg"
           <img alt="Baseline" width="200px" height="240" src="/members/HeansungLEE.jpg">
        </td>
        <td>
-            <h4>Heansung Lee (이현성)</h4>
+            <h4>Hean Sung Lee (이현성)</h4>
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
