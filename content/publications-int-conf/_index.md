@@ -74,6 +74,10 @@ title = "Publications"
 
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2021</h3>
 
+<h5 class="paper-title">3D Mesh Transformation System using Multi-Object Tracking for Augmented Reality Services</h5>
+<div class="paper-author">Young-Suk Yoon, <a href="http://mvp.yonsei.ac.kr/members/sangwonhwang/" class="author">Sangwon Hwang</a>, <a href="http://mvp.yonsei.ac.kr/members/heansunglee/" class="author">Heansung Lee</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*International Conference on ICT Convergence (ICTC 2021)*, Oct. 2021
+
 <h5 class="paper-title">Test-Time Adaptation for Out-of-Distributed Image Inpainting</h5>
 <div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/chajinshin/" class="author">Chajin Shin</a>, <a href="http://mvp.yonsei.ac.kr/members/taeohkim/" class="author">Taeoh Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/sangjinlee/" class="author">Sangjin Lee</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *IEEE International Conference on Image Processing (ICIP 2021)*, Sep. 2021
