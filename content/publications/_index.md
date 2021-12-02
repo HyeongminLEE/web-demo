@@ -56,6 +56,10 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2021</h3>
 
+<h5 class="paper-title">Enhanced Standard Compatible Image Compression Framework based on Auxiliary Codec Networks</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/hanbinson/" class="author">Hanbin Son</a>, Taeoh Kim, <a href="http://mvp.yonsei.ac.kr/members/hyeongminlee/" class="author">Hyeongmin Lee</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE Transactions on Image Processing*, Accepted
+
 <h5 class="paper-title">LiDAR Depth Completion Using Color-Embedded Information via Knowledge Distillation</h5>
 <div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/sangwonhwang/" class="author">Sangwon Hwang</a>, <a href="http://mvp.yonsei.ac.kr/members/J
 junhyeoplee/" class="author">Junhyeop Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/woojinkim/" class="author">Woo Jin Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/sungminwoo/" class="author">Sungmin Woo</a>, Kyungjae Lee, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
