@@ -56,6 +56,10 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2021</h3>
 
+<h5 class="paper-title">Geometry-Aware Deep Video Deblurring via Recurrent Feature Refinement</h5>
+<div class="paper-author">Taeoh Kim, <a href="http://mvp.yonsei.ac.kr/members/sangwonhwang/" class="author">Sangwon Hwang</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE Transactions on Image Processing*, Accepted
+
 <h5 class="paper-title">SAM-Net: LiDAR Depth Inpainting for 3D Static Map Generation</h5>
 <div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/junhyeoplee/" class="author">Junhyeop Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/J
 sangwonhwang/" class="author">Sangwon Hwang</a>, <a href="http://mvp.yonsei.ac.kr/members/woojinkim/" class="author">Woo Jin Kim</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
@@ -63,20 +67,28 @@ sangwonhwang/" class="author">Sangwon Hwang</a>, <a href="http://mvp.yonsei.ac.k
 
 <h5 class="paper-title">Enhanced Standard Compatible Image Compression Framework based on Auxiliary Codec Networks</h5>
 <div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/hanbinson/" class="author">Hanbin Son</a>, Taeoh Kim, <a href="http://mvp.yonsei.ac.kr/members/hyeongminlee/" class="author">Hyeongmin Lee</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
-*IEEE Transactions on Image Processing*, Accepted
+*IEEE Transactions on Image Processing*, Dec. 2021
 
 <h5 class="paper-title">LiDAR Depth Completion Using Color-Embedded Information via Knowledge Distillation</h5>
 <div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/sangwonhwang/" class="author">Sangwon Hwang</a>, <a href="http://mvp.yonsei.ac.kr/members/J
 junhyeoplee/" class="author">Junhyeop Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/woojinkim/" class="author">Woo Jin Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/sungminwoo/" class="author">Sungmin Woo</a>, Kyungjae Lee, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *IEEE Transactions on Intelligent Transportation Systems*, Dec. 2021
 
+<h5 class="paper-title">Deep-Learning-Based Stress Recognition with Spatial-Temporal Facial Information</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/taejaejeon/" class="author">Taejae Jeon</a>, <a href="http://mvp.yonsei.ac.kr/members/hanbyeolbae/" class="author">Hanbyeol Bae</a>, <a href="http://mvp.yonsei.ac.kr/members/yongjulee/" class="author">Yongju Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/sungjunjang/" class="author">Sungjun Jang</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*Sensors*, Nov. 2021
+
+<h5 class="paper-title">An efficient approach using knowledge distillation methods to stabilize performance in a lightweight top-down posture estimation network</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/changhyunpark/" class="author">Changhyun Park</a>, <a href="http://mvp.yonsei.ac.kr/members/heansunglee/" class="author">Hean Sung Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/woojinkim/" class="author">Woo Jin Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/hanbyeolbae/" class="author">Han Byeol Bae</a>, Jaeho Lee, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*Sensors*, Nov. 2021
+
 <h5 class="paper-title">Block-Attentive Subpixel Prediction Networks for Computationally Efficient Image Restoration</h5>
 <div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/taeohkim/" class="author">Taeoh Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/chajinshin/" class="author">Chajin Shin</a>, <a href="http://mvp.yonsei.ac.kr/members/sangjinlee/" class="author">Sangjin Lee</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
-*IEEE Access*, Accepted
+*IEEE Access*, Jun. 2021
 
 <h5 class="paper-title">AIBM: Accurate and Instant Background Modeling for Moving Object Detection</h5>
 <div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/woojinkim/" class="author">Woo Jin Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/sangwonhwang/" class="author">Sangwon Hwang</a>, <a href="http://mvp.yonsei.ac.kr/members/junhyeoplee/" class="author">Junhyeop Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/sungminwoo/" class="author">Sungmin Woo</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
-*IEEE Transactions on Intelligent Transportation Systems*, Accepted
+*IEEE Transactions on Intelligent Transportation Systems*, Jun. 2021
 
 <h5 class="paper-title">Dog Nose-print Identification Using Deep Neural Networks</h5>
 <div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/hanbyeolbae/" class="author">Han Byeol Bae</a>, Daehyun Pak, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
@@ -84,7 +96,7 @@ junhyeoplee/" class="author">Junhyeop Lee</a>, <a href="http://mvp.yonsei.ac.kr/
 
 <h5 class="paper-title">3D Mesh Transformation Preprocessing System in the Real Space for Augmented Reality Services</h5>
 <div class="paper-author">Young-Suk Yoon, <a href="http://mvp.yonsei.ac.kr/members/sangwonhwang/" class="author">Sangwon Hwang</a>, <a href="http://mvp.yonsei.ac.kr/members/dogyoonlee/" class="author">Dogyoon Lee</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a>, Jae-Won Suh, Sung-Uk Jung</div>
-*ICT Express*, Accepted
+*ICT Express*, Feb. 2021
 
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2020</h3>
