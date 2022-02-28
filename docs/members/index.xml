@@ -29,48 +29,12 @@
     </item>
     
     <item>
-      <title>Changhyun Park</title>
-      <link>http://mvp.yonsei.ac.kr/members/changhyunpark/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mvp.yonsei.ac.kr/members/changhyunpark/</guid>
-      <description>    Changhyun Park (박창현) Research Area Medical Image Coding Perceptual Video Coding Future Video Coding   E-mail  qkrckd2002@yonsei.ac.kr       </description>
-    </item>
-    
-    <item>
-      <title>Taejae Jeon</title>
-      <link>http://mvp.yonsei.ac.kr/members/taejaejeon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mvp.yonsei.ac.kr/members/taejaejeon/</guid>
-      <description>    Taejae Jeon (전태재) Research Area Facial Stress/Expression Recognition Video Classification    E-mail  jtj7587@yonsei.ac.kr       </description>
-    </item>
-    
-    <item>
-      <title>Junhyeop Lee</title>
-      <link>http://mvp.yonsei.ac.kr/members/junhyeoplee/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mvp.yonsei.ac.kr/members/junhyeoplee/</guid>
-      <description>    Junhyeop Lee (이준협) Research Area 2D/3D vision LiDAR point cloud processing Self-supervised Learning Multi-modality processing   E-mail  jun.lee@yonsei.ac.kr       </description>
-    </item>
-    
-    <item>
       <title>Hanbin Son</title>
       <link>http://mvp.yonsei.ac.kr/members/hanbinson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mvp.yonsei.ac.kr/members/hanbinson/</guid>
       <description>    Hanbin Son (손한빈) Research Area Future Video Coding   E-mail  hbson@yonsei.ac.kr       </description>
-    </item>
-    
-    <item>
-      <title>Sangwon Hwang</title>
-      <link>http://mvp.yonsei.ac.kr/members/sangwonhwang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mvp.yonsei.ac.kr/members/sangwonhwang/</guid>
-      <description>    Sangwon Hwang (황상원) Research Area Camera Pose Estimation Depth Estimation / Completion 3D Object Detection / Segmentation   E-mail  sangwon1042@yonsei.ac.kr       </description>
     </item>
     
     <item>
@@ -182,15 +146,6 @@
     </item>
     
     <item>
-      <title>Jaeha Lee</title>
-      <link>http://mvp.yonsei.ac.kr/members/jaehalee/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mvp.yonsei.ac.kr/members/jaehalee/</guid>
-      <description>    Jaeha Lee (이재하) Research Area Object Detection   E-mail  jaeha0725@yonsei.ac.kr       </description>
-    </item>
-    
-    <item>
       <title>Chajin Shin</title>
       <link>http://mvp.yonsei.ac.kr/members/chajinshin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -242,15 +197,6 @@
       
       <guid>http://mvp.yonsei.ac.kr/members/donghyeongkim/</guid>
       <description>    Dong Hyeong Kim (김동형) Research Area TBD   E-mail  donghyung87@yonsei.ac.kr       </description>
-    </item>
-    
-    <item>
-      <title>Hyun suk Ko</title>
-      <link>http://mvp.yonsei.ac.kr/members/hyunsukko/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mvp.yonsei.ac.kr/members/hyunsukko/</guid>
-      <description>    Hyun suk Ko (고현석) Research Area TBD   E-mail  hahapan@yonsei.ac.kr       </description>
     </item>
     
   </channel>

@@ -1,6 +1,6 @@
 +++
 title = "Chajin Shin"
-description = "M.S/Ph.D 3rd"
+description = "M.S/Ph.D 4th"
 weight = 300
 draft = false
 toc = true

@@ -36,102 +36,60 @@ title = "Research Area"
 </style>
 
 <div id="action-buttons">
-<a class="button outline big" href="#scene-understanding">Scene Understanding</a>
-<a class="button outline big" href="#human-analysis">Human Analysis</a>
-<a class="button outline big" href="#image-video-processing">Image/Video Processing</a>
+<a class="button outline big" href="#adas" style="margin-bottom: 10px">3D Vision / ADAS</a>
+<a class="button outline big" href="#video" style="margin-bottom: 10px">Image / Video Processing</a>
+<br>
+<a class="button outline big" href="#human">Human Analysis</a>
+<a class="button outline big" href="#vision">General Vision</a>
 </div>
 
 </br>
-<div class="big-title" id="scene-understanding">Scene Understanding</div>
+<div class="big-title" id="adas">3D Vision / ADAS</div>
 
-</br>
-<div class="small-title">LiDAR Odometry</div>
-<img alt="Baseline" width="" height="" src="/img_research/01.SceneUnderstanding/Visual_SLAM.jpg">
-
-</br>
-<div class="small-title">Frame-to-Frame Visual Odometry</div>
-<img alt="Baseline" width="" height="" src="/img_research/01.SceneUnderstanding/Visual_Odometry.jpg">
-
-</br>
-<div class="small-title">Moving Object Segmentation</div>
-<img alt="Baseline" width="" height="" src="/img_research/01.SceneUnderstanding/Moving_Object_Detection.jpg">
-
-</br>
-<div class="small-title">Object Detection</div>
-<img alt="Baseline" width="" height="" src="/img_research/01.SceneUnderstanding/Object_Detection.jpg">
-
-</br>
-<div class="small-title">Visual Tracking</div>
-<img alt="Baseline" width="" height="" src="/img_research/01.SceneUnderstanding/Visual_Tracking.jpg">
-
+<img alt="Baseline" width="" height="" src="/img_research/adas/1.JPG">
+<img alt="Baseline" width="" height="" src="/img_research/adas/2.JPG">
+<img alt="Baseline" width="" height="" src="/img_research/adas/3.JPG">
+<img alt="Baseline" width="" height="" src="/img_research/adas/4.JPG">
+<img alt="Baseline" width="" height="" src="/img_research/adas/5.JPG">
+<img alt="Baseline" width="" height="" src="/img_research/adas/6.JPG">
+<img alt="Baseline" width="" height="" src="/img_research/adas/7.JPG">
+<img alt="Baseline" width="" height="" src="/img_research/adas/8.JPG">
+<img alt="Baseline" width="" height="" src="/img_research/adas/9.JPG">
+<img alt="Baseline" width="" height="" src="/img_research/adas/10.JPG">
+<img alt="Baseline" width="" height="" src="/img_research/adas/11.JPG">
+<img alt="Baseline" width="" height="" src="/img_research/adas/12.JPG">
 <a href="#top-of-page" id="teleport">[top]</a>
 
 </br>
 </br>
 </br>
 </br>
-<div class="big-title" id="human-analysis">Human Analysis</div>
+<div class="big-title" id="video">Image / Video Processing</div>
 
-</br>
-<div class="small-title">Face Recognition</div>
-<img alt="Baseline" width="" height="" src="/img_research/02.HumanAnalysis/Face_Recognition.jpg">
-
-</br>
-<div class="small-title">Facial Emotion Synthesis</div>
-<img alt="Baseline" width="" height="" src="/img_research/02.HumanAnalysis/Face_Synthesis.jpg">
-
-</br>
-<div class="small-title">Facial Expression Recognition</div>
-<img alt="Baseline" width="" height="" src="/img_research/02.HumanAnalysis/Facial_Expression_Recognition.jpg">
-
-</br>
-<div class="small-title">Facial Landmark Detection</div>
-<img alt="Baseline" width="" height="" src="/img_research/02.HumanAnalysis/Facial_Landmark_Detection.jpg">
-
-</br>
-<div class="small-title">Facial Pose Estimation</div>
-<img alt="Baseline" width="" height="" src="/img_research/02.HumanAnalysis/Facial_Pose_Estimation.jpg">
-
-</br>
-<div class="small-title">3D Face Reconstruction</div>
-<img alt="Baseline" width="" height="" src="/img_research/02.HumanAnalysis/3D_Face_Reconstruction.jpg">
-
-</br>
-<div class="small-title">Hand Gesture Recognition</div>
-<img alt="Baseline" width="" height="" src="/img_research/02.HumanAnalysis/Hand_Gesture_Recognition.jpg">
-
-</br>
-<div class="small-title">Hand Pose Estimation</div>
-<img alt="Baseline" width="" height="" src="/img_research/02.HumanAnalysis/Hand_Pose_Estimation.jpg">
-
-</br>
-<div class="small-title">Hand Tracking</div>
-<img alt="Baseline" width="" height="" src="/img_research/02.HumanAnalysis/Hand_Tracking.jpg">
-
-</br>
-<div class="small-title">Human Pose Estimation</div>
-<img alt="Baseline" width="" height="" src="/img_research/02.HumanAnalysis/Human_Pose_Estimation.jpg">
+<img alt="Baseline" width="" height="" src="/img_research/video/1.JPG">
+<img alt="Baseline" width="" height="" src="/img_research/video/2.JPG">
+<img alt="Baseline" width="" height="" src="/img_research/video/3.JPG">
+<img alt="Baseline" width="" height="" src="/img_research/video/4.JPG">
+<img alt="Baseline" width="" height="" src="/img_research/video/5.JPG">
 <a href="#top-of-page" id="teleport">[top]</a>
 
 </br>
 </br>
 </br>
 </br>
-<div class="big-title" id="image-video-processing">Image/Video Processing</div>
+<div class="big-title" id="human">Human Analysis</div>
+
+<img alt="Baseline" width="" height="" src="/img_research/human/1.JPG">
+<img alt="Baseline" width="" height="" src="/img_research/human/2.JPG">
+<img alt="Baseline" width="" height="" src="/img_research/human/3.JPG">
+<img alt="Baseline" width="" height="" src="/img_research/human/4.JPG">
+<img alt="Baseline" width="" height="" src="/img_research/human/5.JPG">
+<a href="#top-of-page" id="teleport">[top]</a>
 
 </br>
-<div class="small-title">Unsupervised Image Classification</div>
-<img alt="Baseline" width="" height="" src="/img_research/03.ImageVideoProcessing/Unsupervised_Image_Classification.jpg">
-
 </br>
-<div class="small-title">Sensor Image Enhancement</div>
-<img alt="Baseline" width="" height="" src="/img_research/03.ImageVideoProcessing/Thermal_Image_Enhancement.jpg">
-
 </br>
-<div class="small-title">Image Restoration</div>
-<img alt="Baseline" width="" height="" src="/img_research/03.ImageVideoProcessing/Image_Restoration.jpg">
-
 </br>
-<div class="small-title">Video Error Concealment</div>
-<img alt="Baseline" width="" height="" src="/img_research/03.ImageVideoProcessing/Video_Error_Concealment.jpg">
+<div class="big-title" id="vision">General Vision</div>
+
 <a href="#top-of-page" id="teleport">[top]</a>

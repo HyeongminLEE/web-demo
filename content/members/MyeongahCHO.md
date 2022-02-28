@@ -1,6 +1,6 @@
 +++
 title = "Myeongah Cho"
-description = "M.S/Ph.D 8th"
+description = "M.S/Ph.D 9th"
 weight = 210
 draft = false
 toc = true
