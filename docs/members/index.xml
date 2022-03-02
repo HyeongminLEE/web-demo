@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>Changhyun Park</title>
+      <link>http://mvp.yonsei.ac.kr/members/changhyunpark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mvp.yonsei.ac.kr/members/changhyunpark/</guid>
+      <description>    Changhyun Park (박창현) Research Area Human Pose Estimation   E-mail  qkrckd2002@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
       <title>Eungyeol Song</title>
       <link>http://mvp.yonsei.ac.kr/members/eungyeolsong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -97,7 +106,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mvp.yonsei.ac.kr/members/dogyunlee/</guid>
-      <description>    Dogyoon Lee (이도균) Research Area 3D Point Cloud processing 3D scene representation   E-mail  nemotio@yonsei.ac.kr       </description>
+      <description>    Dogyoon Lee (이도균) Research Area 3D Point Cloud processing 3D scene representation Implicit Neural Representation   E-mail  nemotio@yonsei.ac.kr       </description>
     </item>
     
     <item>
@@ -197,6 +206,33 @@
       
       <guid>http://mvp.yonsei.ac.kr/members/donghyeongkim/</guid>
       <description>    Dong Hyeong Kim (김동형) Research Area TBD   E-mail  donghyung87@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
+      <title>Dongwoo Kang</title>
+      <link>http://mvp.yonsei.ac.kr/members/dongwookang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mvp.yonsei.ac.kr/members/dongwookang/</guid>
+      <description>    Dongwoo Kang (강동우) Research Area TBD   E-mail  dongwoo741@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
+      <title>Minseok Kang</title>
+      <link>http://mvp.yonsei.ac.kr/members/minseokkang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mvp.yonsei.ac.kr/members/minseokkang/</guid>
+      <description>    Minseok Kang (강민석) Research Area TBD   E-mail  louis0503@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
+      <title>Sunhyuk Yim</title>
+      <link>http://mvp.yonsei.ac.kr/members/sunhyukyim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mvp.yonsei.ac.kr/members/sunhyukyim/</guid>
+      <description>    Sunhyuk Yim (임선혁) Research Area TBD   E-mail  TBD       </description>
     </item>
     
   </channel>

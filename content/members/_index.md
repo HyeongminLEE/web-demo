@@ -1,6 +1,6 @@
 +++
 draft= false
 title = "Members"
-description = "Professor: 1,  Ph.D: 24,  M.S: 2,  Intern: 1,  Total: 28"
+description = "Professor: 1,  Post Doc: 1, Ph.D: 23,  M.S: 1,  Intern: 1,  Total: 27"
 +++
 

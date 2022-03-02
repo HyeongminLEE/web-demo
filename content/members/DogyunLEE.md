@@ -19,6 +19,7 @@ bref = "/members/DogyunLEE.jpg"
                     <ul class="interest">
                         <li style="margin-bottom: 5px">3D Point Cloud processing</li>
                         <li style="margin-bottom: 5px">3D scene representation</li>
+                        <li style="margin-bottom: 5px">Implicit Neural Representation</li>
                     </ul>
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>
