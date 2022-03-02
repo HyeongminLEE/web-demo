@@ -4,14 +4,14 @@ description = "M.S/Ph.D 1st"
 weight = 340
 draft = false
 toc = true
-bref = "/members/default.jpg"
+bref = "/members/MinseokKANG.jpg"
 
 +++
 
 <table>
     <tr>
        <td width="280" align="center" valign="top">
-          <img alt="Baseline" width="200px" height="240" src="/members/default.jpg">
+          <img alt="Baseline" width="200px" height="240" src="/members/MinseokKANG.jpg">
        </td>
        <td>
             <h4>Minseok Kang (강민석)</h4>
