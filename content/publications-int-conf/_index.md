@@ -56,6 +56,10 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2022</h3>
 
+<h5 class="paper-title">Occluded Person Re-Identification via Relational Adaptive Feature Correction Learning</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/minjungkim/" class="author">Minjung Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/myeongahcho/" class="author">MyeongAh Cho</a>, <a href="http://mvp.yonsei.ac.kr/members/heansunglee/" class="author">Heansung Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/suhwancho/" class="author">Suhwan Cho</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE International Conference on Acoustics, Speech & Signal Processing (ICASSP 2022)*, May. 2022
+
 <h5 class="paper-title">Pixel-Level Bijective Matching for Video Object Segmentation</h5>
 <div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/suhwancho/" class="author">Suhwan Cho</a>, <a href="http://mvp.yonsei.ac.kr/members/heansunglee/" class="author">Heansung Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/minjungkim/" class="author">Minjung Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/sungjunkang/" class="author">Sungjun Jang</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2022)*, Jan. 2022
