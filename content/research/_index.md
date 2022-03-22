@@ -40,7 +40,7 @@ title = "Research Area"
 <a class="button outline big" href="#video" style="margin-bottom: 10px">Image / Video Processing</a>
 <br>
 <a class="button outline big" href="#human">Human Analysis</a>
-<a class="button outline big" href="#vision">Visual Surveillace</a>
+<a class="button outline big" href="#vision">Visual Surveillance</a>
 </div>
 
 </br>
@@ -90,7 +90,7 @@ title = "Research Area"
 </br>
 </br>
 </br>
-<div class="big-title" id="vision">Visual Surveillace</div>
+<div class="big-title" id="vision">Visual Surveillance</div>
 <img alt="Baseline" width="" height="" src="/img_research/vision/1.JPG">
 <img alt="Baseline" width="" height="" src="/img_research/vision/2.JPG">
 <img alt="Baseline" width="" height="" src="/img_research/vision/3.JPG">
