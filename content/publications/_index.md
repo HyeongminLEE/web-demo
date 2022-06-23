@@ -53,12 +53,20 @@ title = "Publications"
 
 <h2 style="font-size: 35px;">International Journal</h2> 
 ------
+
 <br/>
-<h3 style="border-bottom: 2px solid; font-size: 30px;">2021</h3>
+<h3 style="border-bottom: 2px solid; font-size: 30px;">2022</h3>
+
+<h5 class="paper-title">Unsupervised Video Anomaly Detection via Normalizing Flows with Implicit Latent Features</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/myeongahcho/" class="author">MyeongAh Cho</a>, Taeoh Kim, <a href="http://mvp.yonsei.ac.kr/members/woojinkim/" class="author">Woo Jin Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/suhwancho/" class="author">Suhwan Cho</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*Pattern Recognition*, Apr. 2022
 
 <h5 class="paper-title">Geometry-Aware Deep Video Deblurring via Recurrent Feature Refinement</h5>
 <div class="paper-author">Taeoh Kim, <a href="http://mvp.yonsei.ac.kr/members/sangwonhwang/" class="author">Sangwon Hwang</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
-*IEEE Transactions on Image Processing*, Accepted
+*IEEE Transactions on Image Processing*, Jan. 2022
+
+<br/>
+<h3 style="border-bottom: 2px solid; font-size: 30px;">2021</h3>
 
 <h5 class="paper-title">SAM-Net: LiDAR Depth Inpainting for 3D Static Map Generation</h5>
 <div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/junhyeoplee/" class="author">Junhyeop Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/J

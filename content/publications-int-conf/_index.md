@@ -56,6 +56,18 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2022</h3>
 
+<h5 class="paper-title">Detection-Identification Balancing Margin Loss for One-stage Multi-object Tracking</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/heansunglee/" class="author">Heansung Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/suhwancho/" class="author">Suhwan Cho</a>, <a href="http://mvp.yonsei.ac.kr/members/sungjunjang/" class="author">Sungjun Jang</a>, <a href="http://mvp.yonsei.ac.kr/members/sungminwoo/" class="author">Sungmin Woo</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE International Conference on Image Processing (ICIP 2022)*, Oct. 2022
+
+<h5 class="paper-title">Saliency Detection via Global Context Enhanced Feature Fusion and Edge Weighted Loss</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/minhyeoklee/" class="author">Minhyeok Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/chaewonpark/" class="author">Chaewon Park</a>, <a href="http://mvp.yonsei.ac.kr/members/myeongAhcho/" class="author">MyeongAh Cho</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE International Conference on Image Processing (ICIP 2022)*, Oct. 2022
+
+<h5 class="paper-title">Superpixel Group-Correlation Network  for Co-Saliency Detection</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/minhyeoklee/" class="author">Minhyeok Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/chaewonpark/" class="author">Chaewon Park</a>, <a href="http://mvp.yonsei.ac.kr/members/suhwancho/" class="author">Suhwan Cho</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE International Conference on Image Processing (ICIP 2022)*, Oct. 2022
+
 <h5 class="paper-title">Occluded Person Re-Identification via Relational Adaptive Feature Correction Learning</h5>
 <div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/minjungkim/" class="author">Minjung Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/myeongahcho/" class="author">MyeongAh Cho</a>, <a href="http://mvp.yonsei.ac.kr/members/heansunglee/" class="author">Heansung Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/suhwancho/" class="author">Suhwan Cho</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *IEEE International Conference on Acoustics, Speech & Signal Processing (ICASSP 2022)*, May. 2022
