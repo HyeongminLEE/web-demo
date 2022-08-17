@@ -69,7 +69,7 @@ title = "Publications"
 *European Conference on Computer Vision (ECCV)*, Oct. 2022
 
 <h5 class="paper-title">Detection-Identification Balancing Margin Loss for One-stage Multi-object Tracking</h5>
-<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/heansunglee/" class="author">Heansung Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/suhwancho/" class="author">Suhwan Cho</a>, <a href="http://mvp.yonsei.ac.kr/members/sungjunjang/" class="author">Sungjun Jang</a>, <a href="http://mvp.yonsei.ac.kr/members/sungminwoo/" class="author">Sungmin Woo</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/heansunglee/" class="author">Heansung Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/suhwancho/" class="author">Suhwan Cho</a>, <a href="http://mvp.yonsei.ac.kr/members/sungjunjang/" class="author">Sungjun Jang</a>, <a href="http://mvp.yonsei.ac.kr/members/jungholee/" class="author">Jungho Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/sungminwoo/" class="author">Sungmin Woo</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *IEEE International Conference on Image Processing (ICIP 2022)*, Oct. 2022
 
 <h5 class="paper-title">Saliency Detection via Global Context Enhanced Feature Fusion and Edge Weighted Loss</h5>
