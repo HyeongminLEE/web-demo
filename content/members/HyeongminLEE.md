@@ -1,6 +1,6 @@
 +++
 title = "Hyeongmin Lee"
-description = "M.S/Ph.D 9th"
+description = "M.S/Ph.D 10th"
 weight = 180
 draft = false
 toc = true
@@ -26,9 +26,11 @@ bref = "/members/HyeongminLEE.jpg"
                         <li style="margin-bottom: 5px">minimonia@yonsei.ac.kr</li>
                     </ul>
                 </li>
-                <li style="font-size: 18px"><b>Web</b>
-                    <ul>
-                        <li><a href="https://hyeongminlee.github.io/">https://hyeongminlee.github.io</a></li>
+                <li style="font-size: 18px"><b>Links</b>
+                    <ul class="interest">
+                        <li style="margin-bottom: 5px"><a href="https://hyeongminlee.github.io/">Homepage</a></li>
+                        <li style="margin-bottom: 5px"><a href="https://github.com/HyeongminLEE">Github</a></li>
+                        <li style="margin-bottom: 5px"><a href="https://scholar.google.co.kr/citations?user=eEB3K6gAAAAJ">Google Scholar</a></li>
                     </ul>
                 </li>
             </ul>

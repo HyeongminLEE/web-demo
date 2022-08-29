@@ -11,15 +11,6 @@
     
     
     <item>
-      <title>Changhyun Park</title>
-      <link>http://mvp.yonsei.ac.kr/members/changhyunpark/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mvp.yonsei.ac.kr/members/changhyunpark/</guid>
-      <description>    Changhyun Park (박창현) Research Area Human Pose Estimation   E-mail  qkrckd2002@yonsei.ac.kr       </description>
-    </item>
-    
-    <item>
       <title>Eungyeol Song</title>
       <link>http://mvp.yonsei.ac.kr/members/eungyeolsong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -38,24 +29,6 @@
     </item>
     
     <item>
-      <title>Hanbin Son</title>
-      <link>http://mvp.yonsei.ac.kr/members/hanbinson/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mvp.yonsei.ac.kr/members/hanbinson/</guid>
-      <description>    Hanbin Son (손한빈) Research Area Future Video Coding   E-mail  hbson@yonsei.ac.kr       </description>
-    </item>
-    
-    <item>
-      <title>Tae-young Chung</title>
-      <link>http://mvp.yonsei.ac.kr/members/taeyoungchung/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mvp.yonsei.ac.kr/members/taeyoungchung/</guid>
-      <description>    Tae-young Chung (정태영) Research Area Object Detection Object Segmentation Self-Supervised Learning   E-mail  tato0220@yonsei.ac.kr       </description>
-    </item>
-    
-    <item>
       <title>Woo Jin Kim</title>
       <link>http://mvp.yonsei.ac.kr/members/woojinkim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -70,7 +43,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mvp.yonsei.ac.kr/members/hyeongminlee/</guid>
-      <description>    Hyeongmin Lee (이형민) Research Area Image/Video Restoration Image/Video Enhancement Motion Estimation   E-mail  minimonia@yonsei.ac.kr   Web  https://hyeongminlee.github.io       </description>
+      <description>    Hyeongmin Lee (이형민) Research Area Image/Video Restoration Image/Video Enhancement Motion Estimation   E-mail  minimonia@yonsei.ac.kr   Links Homepage Github Google Scholar       </description>
     </item>
     
     <item>
@@ -106,7 +79,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mvp.yonsei.ac.kr/members/dogyunlee/</guid>
-      <description>    Dogyoon Lee (이도균) Research Area 3D Point Cloud processing 3D scene representation Implicit Neural Representation   E-mail  nemotio@yonsei.ac.kr       </description>
+      <description>    Dogyoon Lee (이도균) Research Area 3D Point Cloud Processing 3D Scene Representation Implicit Neural Represenation Video Matting   E-mail  nemotio@yonsei.ac.kr   Links Homepage Github Google Scholar       </description>
     </item>
     
     <item>
@@ -161,15 +134,6 @@
       
       <guid>http://mvp.yonsei.ac.kr/members/chajinshin/</guid>
       <description>    Chajin Shin (신차진) Research Area TBD   E-mail  chajin@yonsei.ac.kr       </description>
-    </item>
-    
-    <item>
-      <title>Chaewon Park</title>
-      <link>http://mvp.yonsei.ac.kr/members/chaewonpark/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mvp.yonsei.ac.kr/members/chaewonpark/</guid>
-      <description>    Chaewon Park (박채원) Research Area TBD   E-mail  chaewon28@yonsei.ac.kr       </description>
     </item>
     
     <item>
@@ -233,6 +197,24 @@
       
       <guid>http://mvp.yonsei.ac.kr/members/sunhyukyim/</guid>
       <description>    Sunhyuk Yim (임선혁) Research Area TBD   E-mail  TBD       </description>
+    </item>
+    
+    <item>
+      <title>Yongwoo Lee</title>
+      <link>http://mvp.yonsei.ac.kr/members/yongwoolee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mvp.yonsei.ac.kr/members/yongwoolee/</guid>
+      <description>    Yongwoo Lee (이용우) Research Area TBD   E-mail  ywleee@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
+      <title>Minjeong Park</title>
+      <link>http://mvp.yonsei.ac.kr/members/minjeongpark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mvp.yonsei.ac.kr/members/minjeongpark/</guid>
+      <description>    Minjeong Park (박민정) Research Area TBD   E-mail  minjeongpark@yonsei.ac.kr       </description>
     </item>
     
   </channel>
