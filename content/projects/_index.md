@@ -39,16 +39,16 @@ title = "Projects"
 <h5 class="paper-title">2D-3D Feature Correspondence Learning for Virtual Scene Reconstruction</h5>
 LG전자, Jun. 2022 - Jun. 2023
 
-<h5 class="paper-title">인공지능 혁신 허브 연구 개발 (1단계) 2/3</h5>
+<h5 class="paper-title">인공지능 혁신 허브 연구 개발 (1단계) (2 / 3)</h5>
 정보통신기획평가원, Jan. 2022 - Dec. 2023
 
 <h5 class="paper-title">영상인식 기반 승객안전 센싱 기술 산학과제</h5>
 현대모비스, Jan. 2022 - Oct. 2022
 
-<h5 class="paper-title">이종 CCTV 영상에서의 딥러닝 기반 실종자 초동 신원확인 및 추적 시스템 (2단계)(3/3)</h5>
+<h5 class="paper-title">이종 CCTV 영상에서의 딥러닝 기반 실종자 초동 신원확인 및 추적 시스템 (2단계)(3 / 3)</h5>
 한국연구재단, Jan. 2022 - Dec. 2022
 
-<h5 class="paper-title">감시카메라 기반 마스크 착용자 얼굴인식 및 재인식( Re-ID) 기술 개발(2차년도)</h5>
+<h5 class="paper-title">감시카메라 기반 마스크 착용자 얼굴인식 및 재인식(Re-ID) 기술 개발(2차년도)</h5>
 정보통신기획평가원, Jan. 2022 - Dec. 2022
 
 
