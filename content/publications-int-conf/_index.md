@@ -54,6 +54,21 @@ title = "Publications"
 <h2 style="font-size: 35px;">International Conference</h2> 
 ------
 <br/>
+<h3 style="border-bottom: 2px solid; font-size: 30px;">2023</h3>
+
+<h5 class="paper-title">Unsupervised Video Object Segmentation via Prototype Memory Network</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/minhyeoklee/" class="author">Minhyeok Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/suhwancho/" class="author">Suhwan Cho</a>, <a href="http://mvp.yonsei.ac.kr/members/seunghoonlee/" class="author">Seunghoon Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/chaewonpark/" class="author">Chaewon Park</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2022)*, Jan. 2023
+
+<h5 class="paper-title">Treating Motion as Option to Reduce Motion Dependency in Unsupervised Video Object Segmentation</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/suhwancho/" class="author">Suhwan Cho</a>, <a href="http://mvp.yonsei.ac.kr/members/minhyeoklee/" class="author">Minhyeok Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/seunghoonlee/" class="author">Seunghoon Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/chaewonpark/" class="author">Chaewon Park</a>, <a href="http://mvp.yonsei.ac.kr/members/donghyeongkim/" class="author">Donghyeong Kim</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2022)*, Jan. 2023
+
+<h5 class="paper-title">Feature Disentanglement Learning with Switching and Aggregation for Video-based Person Re-Identification</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/minjungkim/" class="author">Minjung Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/myeongahcho/" class="author">MyeongAh Cho</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2022)*, Jan. 2023
+
+
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2022</h3>
 
 <h5 class="paper-title">Tackling Background Distraction in Video Object Segmentation</h5>
