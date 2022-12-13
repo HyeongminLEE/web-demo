@@ -48,6 +48,30 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2017 ~ Present</h3>
 
+<h5 class="paper-title">해양수질자동측정망센서데이터를통한 GCN기반적조발생및엽록소농도예측기술</h5>
+<div class="paper-author">이용주, 김동형, 손한빈, 송응열, 이상윤</div>
+*대한전자공학회 하계종합학술대회*, Jun. 2022
+
+<h5 class="paper-title">고성능의 실시간 의미론적 분할을 위한 양방향 네트워크 구조 설계</h5>
+<div class="paper-author">강민석, 이민혁, 이현성, 이상윤</div>
+*대한전자공학회 하계종합학술대회*, Jun. 2022
+
+<h5 class="paper-title">제로-샷 학습을 이용한 비디오 프레임 보간에 대한 탐구</h5>
+<div class="paper-author">강동우, 이상진, 이현성, 이상윤</div>
+*대한전자공학회 하계종합학술대회*, Jun. 2022
+
+<h5 class="paper-title">Non-local Neural Network를 이용한 차선 인식</h5>
+<div class="paper-author">이민혁, 이준협, 이도균, 박채원, 이상윤</div>
+*대한전자공학회 하계종합학술대회*, Jun. 2021
+
+<h5 class="paper-title">패치 회전방향 학습으로 강화된 오토인코더 기반 이상상황 감지 네트워크 구현</h5>
+<div class="paper-author">박채원, 조명아, 이민혁, 이상윤</div>
+*대한전자공학회 하계종합학술대회*, Jun. 2021
+
+<h5 class="paper-title">다중 계층 self-attention을 이용한 도로 노면 파손 검출</h5>
+<div class="paper-author">이승훈, 이준협, 김우진, 이상윤</div>
+*대한전자공학회 하계종합학술대회*, Jun. 2021
+
 <h5 class="paper-title">Photorealistic Style Transfer with Adversarial Loss for Photo-to-Sketch Facial Image Synthesis</h5>
 <div class="paper-author">허여상, 조명아, 김태오, 이상윤</div>
 *대한전자공학회 하계종합학술대회*, Aug. 2020

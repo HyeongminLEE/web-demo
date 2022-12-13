@@ -59,7 +59,7 @@ title = "Publications"
 
 <h5 class="paper-title">SSAT: Self-Supervised Associating Network for Multi-Object Tracking</h5>
 <div class="paper-author">Tae-young Chung, <a href="http://mvp.yonsei.ac.kr/members/myeongahcho/" class="author">MyeongAh Cho</a>, <a href="http://mvp.yonsei.ac.kr/members/heansunglee/" class="author">Heansung Lee</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
-*IEEE Transactions on Circuits and Systems for Video Technology*, June. 2022
+*IEEE Transactions on Circuits and Systems for Video Technology*, Jun. 2022
 
 <h5 class="paper-title">Unsupervised Video Anomaly Detection via Normalizing Flows with Implicit Latent Features</h5>
 <div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/myeongahcho/" class="author">MyeongAh Cho</a>, Taeoh Kim, <a href="http://mvp.yonsei.ac.kr/members/woojinkim/" class="author">Woo Jin Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/suhwancho/" class="author">Suhwan Cho</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
