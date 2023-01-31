@@ -66,7 +66,7 @@ title = "Publications"
 *Pattern Recognition*, Apr. 2022
 
 <h5 class="paper-title">Geometry-Aware Deep Video Deblurring via Recurrent Feature Refinement</h5>
-<div class="paper-author">Taeoh Kim, <a href="http://mvp.yonsei.ac.kr/members/sangwonhwang/" class="author">Sangwon Hwang</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+<div class="paper-author">Taeoh Kim, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *IEEE Transactions on Image Processing*, Jan. 2022
 
 <br/>

@@ -56,6 +56,10 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2023</h3>
 
+<h5 class="paper-title">Exploring Temporally Dynamic Data Augmentation for Video Recognition</h5>
+<div class="paper-author">Taeoh Kim, Jinhyung Kim, Minho Shim, Sangdoo Yun, Myunggu Kang, Dongyoon Wee, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*International Conference on Learning Representations (ICLR 2023)*, May. 2023
+
 <h5 class="paper-title">Unsupervised Video Object Segmentation via Prototype Memory Network</h5>
 <div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/minhyeoklee/" class="author">Minhyeok Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/suhwancho/" class="author">Suhwan Cho</a>, <a href="http://mvp.yonsei.ac.kr/members/seunghoonlee/" class="author">Seunghoon Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/chaewonpark/" class="author">Chaewon Park</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2022)*, Jan. 2023
