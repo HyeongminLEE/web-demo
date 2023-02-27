@@ -17,8 +17,9 @@ bref = "/members/SungjunJANG.jpg"
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
-                        <li style="margin-bottom: 5px">Face Recognition</li>
-                        <li style="margin-bottom: 5px">Image Segmentation</li>
+                        <li style="margin-bottom: 5px">Skeleton-based Action Recognition</li>
+                        <li style="margin-bottom: 5px">Human Pose Estimation</li>
+                        <li style="margin-bottom: 5px">Light-weight Neural Network</li>
                     </ul>
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>
