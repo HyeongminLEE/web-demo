@@ -1,6 +1,6 @@
 +++
 title = "Dong Hyeong Kim"
-description = "M.S/Ph.D 3rd"
+description = "M.S/Ph.D 4th"
 weight = 330
 draft = false
 toc = true
@@ -18,12 +18,13 @@ bref = "/members/DonghyeongKIM.jpg"
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
-                        <li style="margin-bottom: 5px">TBD</li>
+                        <li style="margin-bottom: 5px">Anomaly detection</li>
+                        <li style="margin-bottom: 5px">3D Vision</li>
                     </ul>
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>
                     <ul>
-                        <li style="margin-bottom: 5px">donghyung87@yonsei.ac.kr</li>
+                        <li style="margin-bottom: 5px">2donghyung87@yonsei.ac.kr</li>
                     </ul>
                 </li>
             </ul>

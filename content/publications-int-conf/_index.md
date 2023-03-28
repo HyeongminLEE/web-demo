@@ -56,6 +56,26 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2023</h3>
 
+<h5 class="paper-title">Exploring Discontinuity for Video Frame Interpolation</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/sangjinlee/" class="author">Sangjin Lee&midast;</a>, <a href="http://mvp.yonsei.ac.kr/members/hyeongminlee/" class="author">Hyeongmin Lee&midast;</a>, <a href="http://mvp.yonsei.ac.kr/members/chajinshin/" class="author">Chajin Shin</a>, Hanbin Son, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a> (&midast;Equal Contribution)</div>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023)*, Jun. 2023
+
+<h5 class="paper-title">DP-NeRF: Deblurred Neural Radiance Field with Physical Scene Priors</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/dogyoonlee/" class="author">Dogyoon Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/minhyeoklee/" class="author">Minhyeok Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/chajinshin/" class="author">Chajin Shin</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023)*, Jun. 2023
+
+<h5 class="paper-title">Look Around for Anomalies: Weakly-supervised Anomaly Detection via Context-Motion Relational Learning</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/myeongahcho/" class="author">MyeongAh Cho</a>, <a href="http://mvp.yonsei.ac.kr/members/minjungkim/" class="author">Minjung Kim</a>, Sangwon Hwang, <a href="http://mvp.yonsei.ac.kr/members/chaewonpark/" class="author">Chaewon Park</a>, Kyungjae Lee, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023)*, Jun. 2023
+
+<h5 class="paper-title">FAPM: Fast Adaptive Patch Memory for Real-time Industrial Anomaly Detection</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/donghyeongkim/" class="author">Donghyeong Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/chaewonpark/" class="author">Chaewon Park</a>, <a href="http://mvp.yonsei.ac.kr/members/suhwancho/" class="author">Suhwan Cho</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE International Conference on Acoustics, Speech & Signal Processing (ICASSP 2023)*, Jun. 2023
+
+<h5 class="paper-title">Two-stream Decoder Feature Normality Estimating Network for Industrial Anomaly Detection</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/chaewonpark/" class="author">Chaewon Park</a>, <a href="http://mvp.yonsei.ac.kr/members/minhyeoklee/" class="author">Minhyeok Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/donghyeongkim/" class="author">Donghyeong Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/suhwancho/" class="author">Suhwan Cho</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE International Conference on Acoustics, Speech & Signal Processing (ICASSP 2023)*, Jun. 2023
+
 <h5 class="paper-title">Exploring Temporally Dynamic Data Augmentation for Video Recognition</h5>
 <div class="paper-author">Taeoh Kim, Jinhyung Kim, Minho Shim, Sangdoo Yun, Myunggu Kang, Dongyoon Wee, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *International Conference on Learning Representations (ICLR 2023)*, May. 2023
@@ -84,7 +104,7 @@ title = "Publications"
 *European Conference on Computer Vision (ECCV)*, Oct. 2022
 
 <h5 class="paper-title">SPSN: Superpixel Prototype Sampling Network for RGB-D Salient Object Detection</h5>
-<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/minhyeoklee/" class="author">Minhyeok Lee&midast;</a>, <a href="http://mvp.yonsei.ac.kr/members/chaewonpark/" class="author">Chaewon Park&midast;</a>, <a href="http://mvp.yonsei.ac.kr/members/suhwancho/" class="author">Suhwan Cho</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/minhyeoklee/" class="author">Minhyeok Lee&midast;</a>, <a href="http://mvp.yonsei.ac.kr/members/chaewonpark/" class="author">Chaewon Park&midast;</a>, <a href="http://mvp.yonsei.ac.kr/members/suhwancho/" class="author">Suhwan Cho</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a> (&midast;Equal Contribution)</div>
 *European Conference on Computer Vision (ECCV)*, Oct. 2022
 
 <h5 class="paper-title">Detection-Identification Balancing Margin Loss for One-stage Multi-object Tracking</h5>
@@ -92,11 +112,11 @@ title = "Publications"
 *IEEE International Conference on Image Processing (ICIP 2022)*, Oct. 2022
 
 <h5 class="paper-title">Saliency Detection via Global Context Enhanced Feature Fusion and Edge Weighted Loss</h5>
-<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/chaewonpark/" class="author">Chaewon Park&midast;</a>, <a href="http://mvp.yonsei.ac.kr/members/minhyeoklee/" class="author">Minhyeok Lee&midast;</a>, <a href="http://mvp.yonsei.ac.kr/members/myeongAhcho/" class="author">MyeongAh Cho</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/chaewonpark/" class="author">Chaewon Park&midast;</a>, <a href="http://mvp.yonsei.ac.kr/members/minhyeoklee/" class="author">Minhyeok Lee&midast;</a>, <a href="http://mvp.yonsei.ac.kr/members/myeongAhcho/" class="author">MyeongAh Cho</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a> (&midast;Equal Contribution)</div>
 *IEEE International Conference on Image Processing (ICIP 2022)*, Oct. 2022
 
 <h5 class="paper-title">Superpixel Group-Correlation Network for Co-Saliency Detection</h5>
-<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/minhyeoklee/" class="author">Minhyeok Lee&midast;</a>, <a href="http://mvp.yonsei.ac.kr/members/chaewonpark/" class="author">Chaewon Park&midast;</a>, <a href="http://mvp.yonsei.ac.kr/members/suhwancho/" class="author">Suhwan Cho</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/minhyeoklee/" class="author">Minhyeok Lee&midast;</a>, <a href="http://mvp.yonsei.ac.kr/members/chaewonpark/" class="author">Chaewon Park&midast;</a>, <a href="http://mvp.yonsei.ac.kr/members/suhwancho/" class="author">Suhwan Cho</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a> (&midast;Equal Contribution)</div>
 *IEEE International Conference on Image Processing (ICIP 2022)*, Oct. 2022
 
 <h5 class="paper-title">Occluded Person Re-Identification via Relational Adaptive Feature Correction Learning</h5>

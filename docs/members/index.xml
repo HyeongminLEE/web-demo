@@ -79,7 +79,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mvp.yonsei.ac.kr/members/dogyoonlee/</guid>
-      <description>    Dogyoon Lee (이도균) Research Area 3D Point Cloud Processing 3D Scene Representation Implicit Neural Represenation Video Matting   E-mail  nemotio@yonsei.ac.kr   Links Homepage Github Google Scholar       </description>
+      <description>    Dogyoon Lee (이도균) Research Area Neural Rendering 3D Cmputer Vision/Graphics   E-mail  nemotio@yonsei.ac.kr   Links Homepage Github Google Scholar       </description>
     </item>
     
     <item>
@@ -115,7 +115,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mvp.yonsei.ac.kr/members/sangjinlee/</guid>
-      <description>    Sangjin Lee (이상진) Research Area Video Frame Prediction Video inpainting   E-mail  pandatimo@yonsei.ac.kr       </description>
+      <description>    Sangjin Lee (이상진) Research Area Video Frame Prediction Video inpainting   E-mail  sglee97@yonsei.ac.kr       </description>
     </item>
     
     <item>
@@ -178,7 +178,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mvp.yonsei.ac.kr/members/donghyeongkim/</guid>
-      <description>    Dong Hyeong Kim (김동형) Research Area TBD   E-mail  donghyung87@yonsei.ac.kr       </description>
+      <description>    Dong Hyeong Kim (김동형) Research Area Anomaly detection 3D Vision   E-mail  2donghyung87@yonsei.ac.kr       </description>
     </item>
     
     <item>
@@ -224,6 +224,24 @@
       
       <guid>http://mvp.yonsei.ac.kr/members/minjeongpark/</guid>
       <description>    Minjeong Park (박민정) Research Area TBD   E-mail  minjeongpark@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
+      <title>WonJoon Lee</title>
+      <link>http://mvp.yonsei.ac.kr/members/wonjoonlee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mvp.yonsei.ac.kr/members/wonjoonlee/</guid>
+      <description>    WonJoon Lee (이원준) Research Area TBD   E-mail  lwjinkorea@yonsei.ac.kr       </description>
+    </item>
+    
+    <item>
+      <title>YongHwan Kim</title>
+      <link>http://mvp.yonsei.ac.kr/members/yonghwankim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mvp.yonsei.ac.kr/members/yonghwankim/</guid>
+      <description>    YongHwan Kim (김용환) Research Area TBD   E-mail  ywkimblue@yonsei.ac.kr       </description>
     </item>
     
   </channel>

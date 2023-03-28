@@ -1,6 +1,6 @@
 +++
 title = "Yongju Lee"
-description = "M.S/Ph.D 10th"
+description = "M.S/Ph.D 11th"
 weight = 190
 draft = false
 toc = true

@@ -1,6 +1,6 @@
 +++
 title = "Dogyoon Lee"
-description = "M.S/Ph.D 8th"
+description = "M.S/Ph.D 9th"
 weight = 230
 draft = false
 toc = true
@@ -17,10 +17,8 @@ bref = "/members/DogyunLEE.jpg"
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
-                        <li style="margin-bottom: 5px">3D Point Cloud Processing</li>
-                        <li style="margin-bottom: 5px">3D Scene Representation</li>
-                        <li style="margin-bottom: 5px">Implicit Neural Represenation</li>
-                        <li style="margin-bottom: 5px">Video Matting</li>
+                        <li style="margin-bottom: 5px">Neural Rendering</li>
+                        <li style="margin-bottom: 5px">3D Cmputer Vision/Graphics</li>
                     </ul>
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>
