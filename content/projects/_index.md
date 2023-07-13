@@ -30,26 +30,23 @@ title = "Projects"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">Ongoing Projects</h3>
 
+<h5 class="paper-title">고성능 AI Video Compression을 위한 효율적 네트워크 설계 기술</h5>
+삼성전자, Jul. 2022 - Jun. 2023
+
+<h5 class="paper-title">감시카메라 기반 마스크 착용자 얼굴인식 및 재인식( Re-ID) 기술 개발(3차년도)</h5>
+정보통신기획평가원, Jan. 2023 - Dec. 2023
+
+<h5 class="paper-title">모바일용 Palmprint 인식 알고리즘 개발</h5>
+삼성전자, Aug. 2022 - Jul. 2023
+
 <h5 class="paper-title">임무 적응형 EO/IR 센서 모듈화 기술</h5>
 국방기술진흥연구소, Jan. 2023 - Dec. 2023
-
-<h5 class="paper-title">미래형 자동차 핵심기술 R&D 전문인력양성</h5>
-산업통상자원부, Mar. 2022 - Feb. 2023
 
 <h5 class="paper-title">2D-3D Feature Correspondence Learning for Virtual Scene Reconstruction</h5>
 LG전자, Jun. 2022 - Jun. 2023
 
 <h5 class="paper-title">인공지능 혁신 허브 연구 개발 (1단계) (2 / 3)</h5>
 정보통신기획평가원, Jan. 2022 - Dec. 2023
-
-<h5 class="paper-title">영상인식 기반 승객안전 센싱 기술 산학과제</h5>
-현대모비스, Jan. 2022 - Oct. 2022
-
-<h5 class="paper-title">이종 CCTV 영상에서의 딥러닝 기반 실종자 초동 신원확인 및 추적 시스템 (2단계)(3 / 3)</h5>
-한국연구재단, Jan. 2022 - Dec. 2022
-
-<h5 class="paper-title">감시카메라 기반 마스크 착용자 얼굴인식 및 재인식(Re-ID) 기술 개발(2차년도)</h5>
-정보통신기획평가원, Jan. 2022 - Dec. 2022
 
 
 <a href="#top-of-page" id="teleport">[top]</a>
@@ -61,6 +58,18 @@ LG전자, Jun. 2022 - Jun. 2023
 
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">Finished Projects in Recent 5 Years</h3>
+
+<h5 class="paper-title">미래형 자동차 핵심기술 R&D 전문인력양성</h5>
+산업통상자원부, Mar. 2022 - Feb. 2023
+
+<h5 class="paper-title">영상인식 기반 승객안전 센싱 기술 산학과제</h5>
+현대모비스, Jan. 2022 - Oct. 2022
+
+<h5 class="paper-title">이종 CCTV 영상에서의 딥러닝 기반 실종자 초동 신원확인 및 추적 시스템 (2단계)(3 / 3)</h5>
+한국연구재단, Jan. 2022 - Dec. 2022
+
+<h5 class="paper-title">감시카메라 기반 마스크 착용자 얼굴인식 및 재인식(Re-ID) 기술 개발(2차년도)</h5>
+정보통신기획평가원, Jan. 2022 - Dec. 2022
 
 <h5 class="paper-title">라이다 포인트 클라우드 기반 분류 성능 개선을 위한 학습 기술 개발</h5>
 현대엔지비주식회사, Apr. 2021 - Dec. 2022
