@@ -48,6 +48,33 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">등록</h3>
 
+<h5 class="paper-title">자기 집중 방식 객체 추적 장치 및 방법</h5>
+10-2359982, Fab. 2022
+
+<h5 class="paper-title">다중 CCTV 환경에서의 보행자 추적 장치 및 방법</h5>
+10-2355006, Jan. 2022
+
+<h5 class="paper-title">요소 간 관계 추출 기반 이종 얼굴 인식 장치 및 방법</h5>
+10-2356438, Jan. 2022
+
+<h5 class="paper-title">동적 객체 검출 장치 및 방법</h5>
+10-2345996, Dec. 2021
+
+<h5 class="paper-title">포인트 클라우드 기반 검출 객체 오류 보정 장치 및 방법</h5>
+10-2310790, Oct. 2021
+
+<h5 class="paper-title">다양한 시점에서 연속적으로 획득된 영상을 활용한 카메라 자세 및 깊이 추정 장치 및 방법</h5>
+10-2310789, Oct. 2021
+
+<h5 class="paper-title">영상 압축 장치, 이의 학습 장치 및 방법</h5>
+10-2245682, Apr. 2021
+
+<h5 class="paper-title">다중 플로우 기반 프레임 보간 장치 및 방법</h5>
+10-2201297, Jan. 2021
+
+<h5 class="paper-title">학습을 이용한 얼굴 특징점 검출 방법 및 장치</h5>
+10-2186767, Nov. 2020
+
 <h5 class="paper-title">동적 객체 검출 장치 및 방법</h5>
 10-2140873, Jul. 2020
 
@@ -174,8 +201,52 @@ title = "Publications"
 <a href="#top-of-page" id="teleport">[top]</a>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">출원</h3>
+
+<h5 class="paper-title">비디오 재인식 장치 및 방법</h5>
+10-2022-0163962, Nov. 2022
+
+<h5 class="paper-title">감시 장치 및 방법</h5>
+10-2022-0096051, Aug. 2022
+
+<h5 class="paper-title">객체 추적 방법 및 객체 추적을 위한 특징 벡터 추출 방법</h5>
+10-2021-0165002, Nov. 2021
+
+<h5 class="paper-title">인페인팅 기법에 기반한 배경 모델링을 이용한 동적 객체 검출 장치 및 방법</h5>
+10-2021-0165052, Nov. 2021
+
+<h5 class="paper-title">포인트 클라우드 데이터 증강 방법 및 이를 이용하는 학습 방법</h5>
+10-2021-0150996, Nov. 2021
+
+<h5 class="paper-title">비디오에서 객체를 추적하는 방법 및 장치</h5>
+10-2021-0148720, Nov. 2021
+
+<h5 class="paper-title">스킵 프레임 선별 장치 및 방법</h5>
+10-2021-0062514, May. 2021
+
+<h5 class="paper-title">경량화 신경망을 이용한 얼굴 인식 장치 및 방법</h5>
+10-2020-0161826, Nov. 2020
 
 <h5 class="paper-title">CCTV 환경에서의 보행자 추적 장치 및 방법</h5>
 10-2020-0155092, Nov. 2020
@@ -186,30 +257,14 @@ title = "Publications"
 <h5 class="paper-title">라이다 깊이 이미지 채움 장치 및 방법</h5>
 10-2020-0141887, Oct. 2020
 
-<h5 class="paper-title">포인트 클라우드 기반 검출 객체 오류 보정 장치 및 방법</h5>
-10-2020-0141515, Oct. 2020
+<h5 class="paper-title">객체 상태 인식 방법</h5>
+10-2020-0041077, Apr. 2020
 
-
-<h5 class="paper-title">다중 플로우 기반 프레임 보간 장치 및 방법</h5>
-10-2020-0064766, May. 2020
-
-<h5 class="paper-title">자기 집중 방식 객체 추적 장치 및 방법</h5>
-10-2020-0047605, Apr. 2020
-
-<h5 class="paper-title">다중 CCTV 환경에서의 보행자 추적 장치 및 방법</h5>
-10-2020-0041019, Apr. 2020
-
-<h5 class="paper-title">요소 간 관계 추출 기반 이종 얼굴 인식 장치 및 방법</h5>
-10-2020-0038715, Mar. 2020
+<h5 class="paper-title">관심 객체 식별 방법 및 장치</h5>
+10-2020-0041078, Apr. 2020
 
 <h5 class="paper-title">얼굴 및 스트레스 인식 장치 및 방법</h5>
 10-2020-0005317, Jan. 2020
-
-<h5 class="paper-title">영상 압축 장치, 이의 학습 장치 및 방법</h5>
-10-2019-0143346, Nov. 2019
-
-<h5 class="paper-title">다양한 시점에서 연속적으로 획득된 영상을 활용한 카메라 자세 및 깊이 추정 장치 및 방법</h5>
-10-2019-0141508, Nov. 2019
 
 <h5 class="paper-title">동적 객체 검출 장치 및 방법</h5>
 10-2019-0135439, Oct. 2019

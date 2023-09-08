@@ -74,6 +74,9 @@ CN1842867, *China Patent*, Jun. 2010
 <h5 class="paper-title">Image compression apparatus and learning apparatus and method for the same</h5>
 17/ 146,313, *United States Patent*, Jan. 2021
 
+<h5 class="paper-title">경량화 신경망을 이용한 얼굴 인식 장치 및 방법</h5>
+PCT/KR2020/017234, *WIPO Patent*, Oct. 2020
+
 <h5 class="paper-title">다중 플로우 기반 프레임 보간 장치 및 방법</h5>
 PCT/KR2020/011173, *WIPO Patent*, Aug. 2020
 

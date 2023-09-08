@@ -56,6 +56,10 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2023</h3>
 
+<h5 class="paper-title">Object-Oriented Cutout Data Augmentation for Tiny Object Detection</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/SunhyukYIM/" class="author">Sunhyuk Yim</a>, Myeongah Cho</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (ITC-CSCC 2023)*, Jun. 2023
+
 <h5 class="paper-title">Exploring Discontinuity for Video Frame Interpolation</h5>
 <div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/sangjinlee/" class="author">Sangjin Lee&midast;</a>, <a href="http://mvp.yonsei.ac.kr/members/hyeongminlee/" class="author">Hyeongmin Lee&midast;</a>, <a href="http://mvp.yonsei.ac.kr/members/chajinshin/" class="author">Chajin Shin</a>, Hanbin Son, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a> (&midast;Equal Contribution)</div>
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023)*, Jun. 2023
