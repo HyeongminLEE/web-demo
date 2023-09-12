@@ -57,8 +57,12 @@ title = "Publications"
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2022</h3>
 
+<h5 class="paper-title">MKConv: Multidimensional feature representation for point cloud analysis</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/sungminwoo/" class="author">Sungmin Woo</a>, <a href="http://mvp.yonsei.ac.kr/members/dogyonlee/" class="author">Dogyoon Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/sangwonhwang/" class="author">Sangwon Hwang</a>, <a href="http://mvp.yonsei.ac.kr/members/woojinkim/" class="author">Woojin Kim</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*Pattern Recognition*, Nov. 2023
+
 <h5 class="paper-title">SSAT: Self-Supervised Associating Network for Multi-Object Tracking</h5>
-<div class="paper-author">Tae-young Chung, <a href="http://mvp.yonsei.ac.kr/members/myeongahcho/" class="author">MyeongAh Cho</a>, <a href="http://mvp.yonsei.ac.kr/members/heansunglee/" class="author">Heansung Lee</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+<div class="paper-author">Tae-young Chung, <a href="http://mvp.yonsei.ac.kr/members/myeongahcho/" class="author">Dogyoon Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/heansunglee/" class="author">Heansung Lee</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
 *IEEE Transactions on Circuits and Systems for Video Technology*, Jun. 2022
 
 <h5 class="paper-title">Unsupervised Video Anomaly Detection via Normalizing Flows with Implicit Latent Features</h5>

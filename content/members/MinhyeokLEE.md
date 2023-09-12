@@ -25,6 +25,11 @@ bref = "/members/MinhyeokLEE.jpg"
                         <li style="margin-bottom: 5px">hydragon516@yonsei.ac.kr</li>
                     </ul>
                 </li>
+                <li style="font-size: 18px"><b>Links</b>
+                    <ul class="interest">
+                        <li style="margin-bottom: 5px"><a href="https://hydragon.co.kr/">Homepage</a></li>
+                    </ul>
+                </li>
             </ul>
 
          </td>

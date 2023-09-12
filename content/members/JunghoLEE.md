@@ -18,12 +18,19 @@ bref = "/members/JunghoLEE.jpg"
             <ul class="member_info">
                 <li style="font-size: 18px"><b>Research Area</b>
                     <ul class="interest">
-                        <li style="margin-bottom: 5px">TBD</li>
+                        <li style="margin-bottom: 5px">Neural Radiance Fields</li>
+                        <li style="margin-bottom: 5px">Human Motion Analysis</li>
                     </ul>
                 </li>
                 <li style="font-size: 18px"><b>E-mail</b>
                     <ul>
                         <li style="margin-bottom: 5px">2015142131@yonsei.ac.kr</li>
+                    </ul>
+                </li>
+                <li style="font-size: 18px"><b>Links</b>
+                    <ul class="interest">
+                        <li style="margin-bottom: 5px"><a href="jho-yonsei.github.io">Homepage</a></li>
+                        <li style="margin-bottom: 5px"><a href="https://github.com/Jho-Yonsei">Github</a></li>
                     </ul>
                 </li>
             </ul>
