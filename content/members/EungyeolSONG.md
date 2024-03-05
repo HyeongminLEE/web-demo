@@ -1,6 +1,6 @@
 +++
 title = "Eungyeol Song"
-description = "Ph.D 14th (Absence)"
+description = "Ph.D 13th (Absence)"
 weight = 30
 draft = false
 toc = true

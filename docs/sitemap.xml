@@ -1,130 +1,248 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>http://mvp.yonsei.ac.kr/blog/welcome/</loc>
     <lastmod>2017-03-02T21:56:55+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/blog/typography/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/blog/prototyping/</loc>
     <lastmod>2017-04-02T22:01:15+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/members/eungyeolsong/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/members/jaesungkim/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/blog/messages/</loc>
     <lastmod>2017-04-10T16:41:34+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/blog/collapse/</loc>
     <lastmod>2017-04-10T16:42:50+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/members/yongjulee/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/members/heansunglee/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/members/dogyoonlee/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/members/sungjunjang/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/members/suhwancho/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/members/sungminwoo/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/members/sangjinlee/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/members/minjungkim/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/members/chajinshin/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/members/chaewonpark/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/members/minhyeoklee/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/members/seunghoonlee/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/members/jungholee/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/members/donghyeongkim/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/members/dongwookang/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/members/minseokkang/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/members/sunhyukyim/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/members/yongwoolee/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/members/minjeongpark/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/members/wonjoonlee/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/members/yonghwankim/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/members/hyeonjeonglim/</loc>
-  </url><url>
-    <loc>http://mvp.yonsei.ac.kr/blog/</loc>
-    <lastmod>2017-04-10T16:42:50+01:00</lastmod>
-  </url><url>
-    <loc>http://mvp.yonsei.ac.kr/</loc>
-    <lastmod>2017-04-10T16:42:50+01:00</lastmod>
-  </url><url>
-    <loc>http://mvp.yonsei.ac.kr/categories/</loc>
-    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
-  </url><url>
-    <loc>http://mvp.yonsei.ac.kr/categories/design/</loc>
-    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
-  </url><url>
-    <loc>http://mvp.yonsei.ac.kr/tags/hugo/</loc>
-    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
-  </url><url>
-    <loc>http://mvp.yonsei.ac.kr/tags/markdown/</loc>
-    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
-  </url><url>
-    <loc>http://mvp.yonsei.ac.kr/tags/prototype/</loc>
-    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
-  </url><url>
-    <loc>http://mvp.yonsei.ac.kr/tags/</loc>
-    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
-  </url><url>
-    <loc>http://mvp.yonsei.ac.kr/tags/example/</loc>
-    <lastmod>2017-04-02T21:56:55+01:00</lastmod>
-  </url><url>
-    <loc>http://mvp.yonsei.ac.kr/categories/general/</loc>
-    <lastmod>2017-04-02T21:56:55+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/blog/inline-style/</loc>
     <lastmod>2017-04-02T21:56:55+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>http://mvp.yonsei.ac.kr/blog/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mvp.yonsei.ac.kr/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/company/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/contact/</loc>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>http://mvp.yonsei.ac.kr/categories/design/</loc>
+    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mvp.yonsei.ac.kr/tags/example/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mvp.yonsei.ac.kr/categories/general/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mvp.yonsei.ac.kr/tags/hugo/</loc>
+    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mvp.yonsei.ac.kr/tags/markdown/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/members/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/news/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/password-recovery/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/projects/</loc>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>http://mvp.yonsei.ac.kr/tags/prototype/</loc>
+    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/publications-dom-pat/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/publications-dom/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/publications-int-conf/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/publications-int-pat/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/publications-std/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/publications/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/research/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/professor/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://mvp.yonsei.ac.kr/account/</loc>
   </url>
+  
+  <url>
+    <loc>http://mvp.yonsei.ac.kr/tags/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mvp.yonsei.ac.kr/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+  </url>
+  
 </urlset>
