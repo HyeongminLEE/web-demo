@@ -54,6 +54,20 @@ title = "Publications"
 <h2 style="font-size: 35px;">International Journal</h2> 
 ------
 
+
+<br/>
+<h3 style="border-bottom: 2px solid; font-size: 30px;">2024</h3>
+
+
+
+
+<h5 class="paper-title">Multi-scale Structural Graph Convolutional Network for Skeleton-based Action Recognition</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/sungjunjang/" class="author">Sungjun Jang</a>, <a href="http://mvp.yonsei.ac.kr/members/heansunglee/" class="author">Heansung Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/woojinkim/" class="author">WooJin Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/jungholee/" class="author">Jungho Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/sungminwoo/" class="author">Sungmin Woo</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*IEEE Transactions on Circuits and Systems for Video Technology*, Mar. 2024
+
+
+
+
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2023</h3>
 
