@@ -67,14 +67,15 @@ title = "Publications"
 
 
 
+<h5 class="paper-title">A Nonlinear, Regularized, and Data-independent Modulation for Continuously Interactive Image Processing Network</h5>
+<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/hyeongminlee/" class="author">Hyeongmin Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/taeohkim/" class="author">Taeoh Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/hanbinson/" class="author">Hanbin Son</a>, <a href="http://mvp.yonsei.ac.kr/members/sangwookbaek/" class="author">Sangwook Baek</a>, <a href="http://mvp.yonsei.ac.kr/members/minsucheon/" class="author">Minsu Cheon</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
+*International Journal of Computer Vision*, Jan. 2024
+
+
 
 <br/>
 <h3 style="border-bottom: 2px solid; font-size: 30px;">2023</h3>
 
-
-<h5 class="paper-title">A Nonlinear, Regularized, and Data-independent Modulation for Continuously Interactive Image Processing Network</h5>
-<div class="paper-author"><a href="http://mvp.yonsei.ac.kr/members/hyeongminlee/" class="author">Hyeongmin Lee</a>, <a href="http://mvp.yonsei.ac.kr/members/taeohkim/" class="author">Taeoh Kim</a>, <a href="http://mvp.yonsei.ac.kr/members/hanbinson/" class="author">Hanbin Son</a>, <a href="http://mvp.yonsei.ac.kr/members/sangwookbaek/" class="author">Sangwook Baek</a>, <a href="http://mvp.yonsei.ac.kr/members/minsucheon/" class="author">Minsu Cheon</a>, <a href="http://mvp.yonsei.ac.kr/professor/" class="author">Sangyoun Lee</a></div>
-*International Journal of Computer Vision*, Aug. 2023
 
 
 <h5 class="paper-title">MKConv: Multidimensional feature representation for point cloud analysis</h5>
